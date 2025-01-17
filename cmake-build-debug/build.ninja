@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = D$:/documents/CLASSES/oop/oop23-24/cmake-build-debug/
+cmake_ninja_workdir = D$:/documents/CLASSES/oop/OOP-24-25/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target oop23_24
 
@@ -49,7 +49,7 @@ cmake_ninja_workdir = D$:/documents/CLASSES/oop/oop23-24/cmake-build-debug/
 
 build cmake_object_order_depends_target_oop23_24: phony || .
 
-build CMakeFiles/oop23_24.dir/main.cpp.obj: CXX_COMPILER__oop23_24_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/main.cpp || cmake_object_order_depends_target_oop23_24
+build CMakeFiles/oop23_24.dir/main.cpp.obj: CXX_COMPILER__oop23_24_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/main.cpp || cmake_object_order_depends_target_oop23_24
   DEP_FILE = CMakeFiles\oop23_24.dir\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\oop23_24.dir
@@ -85,7 +85,7 @@ build oop23_24.exe: CXX_EXECUTABLE_LINKER__oop23_24_Debug CMakeFiles/oop23_24.di
 
 build cmake_object_order_depends_target_ispitna1: phony || .
 
-build CMakeFiles/ispitna1.dir/oop_jan_ispitna/ispitna1.cpp.obj: CXX_COMPILER__ispitna1_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna1.cpp || cmake_object_order_depends_target_ispitna1
+build CMakeFiles/ispitna1.dir/oop_jan_ispitna/ispitna1.cpp.obj: CXX_COMPILER__ispitna1_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna1.cpp || cmake_object_order_depends_target_ispitna1
   DEP_FILE = CMakeFiles\ispitna1.dir\oop_jan_ispitna\ispitna1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna1.dir
@@ -121,7 +121,7 @@ build ispitna1.exe: CXX_EXECUTABLE_LINKER__ispitna1_Debug CMakeFiles/ispitna1.di
 
 build cmake_object_order_depends_target_ispitna2: phony || .
 
-build CMakeFiles/ispitna2.dir/oop_jan_ispitna/ispitna2.cpp.obj: CXX_COMPILER__ispitna2_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna2.cpp || cmake_object_order_depends_target_ispitna2
+build CMakeFiles/ispitna2.dir/oop_jan_ispitna/ispitna2.cpp.obj: CXX_COMPILER__ispitna2_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna2.cpp || cmake_object_order_depends_target_ispitna2
   DEP_FILE = CMakeFiles\ispitna2.dir\oop_jan_ispitna\ispitna2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna2.dir
@@ -157,7 +157,7 @@ build ispitna2.exe: CXX_EXECUTABLE_LINKER__ispitna2_Debug CMakeFiles/ispitna2.di
 
 build cmake_object_order_depends_target_ispitna3: phony || .
 
-build CMakeFiles/ispitna3.dir/oop_jan_ispitna/ispitna3.cpp.obj: CXX_COMPILER__ispitna3_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna3.cpp || cmake_object_order_depends_target_ispitna3
+build CMakeFiles/ispitna3.dir/oop_jan_ispitna/ispitna3.cpp.obj: CXX_COMPILER__ispitna3_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna3.cpp || cmake_object_order_depends_target_ispitna3
   DEP_FILE = CMakeFiles\ispitna3.dir\oop_jan_ispitna\ispitna3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna3.dir
@@ -193,7 +193,7 @@ build ispitna3.exe: CXX_EXECUTABLE_LINKER__ispitna3_Debug CMakeFiles/ispitna3.di
 
 build cmake_object_order_depends_target_ispitna4: phony || .
 
-build CMakeFiles/ispitna4.dir/oop_jan_ispitna/ispitna4.cpp.obj: CXX_COMPILER__ispitna4_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna4.cpp || cmake_object_order_depends_target_ispitna4
+build CMakeFiles/ispitna4.dir/oop_jan_ispitna/ispitna4.cpp.obj: CXX_COMPILER__ispitna4_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna4.cpp || cmake_object_order_depends_target_ispitna4
   DEP_FILE = CMakeFiles\ispitna4.dir\oop_jan_ispitna\ispitna4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna4.dir
@@ -229,7 +229,7 @@ build ispitna4.exe: CXX_EXECUTABLE_LINKER__ispitna4_Debug CMakeFiles/ispitna4.di
 
 build cmake_object_order_depends_target_ispitna5: phony || .
 
-build CMakeFiles/ispitna5.dir/oop_jan_ispitna/ispitna5.cpp.obj: CXX_COMPILER__ispitna5_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna5.cpp || cmake_object_order_depends_target_ispitna5
+build CMakeFiles/ispitna5.dir/oop_jan_ispitna/ispitna5.cpp.obj: CXX_COMPILER__ispitna5_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna5.cpp || cmake_object_order_depends_target_ispitna5
   DEP_FILE = CMakeFiles\ispitna5.dir\oop_jan_ispitna\ispitna5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna5.dir
@@ -265,7 +265,7 @@ build ispitna5.exe: CXX_EXECUTABLE_LINKER__ispitna5_Debug CMakeFiles/ispitna5.di
 
 build cmake_object_order_depends_target_ispitna6: phony || .
 
-build CMakeFiles/ispitna6.dir/oop_jan_ispitna/ispitna6.cpp.obj: CXX_COMPILER__ispitna6_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna6.cpp || cmake_object_order_depends_target_ispitna6
+build CMakeFiles/ispitna6.dir/oop_jan_ispitna/ispitna6.cpp.obj: CXX_COMPILER__ispitna6_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna6.cpp || cmake_object_order_depends_target_ispitna6
   DEP_FILE = CMakeFiles\ispitna6.dir\oop_jan_ispitna\ispitna6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna6.dir
@@ -301,7 +301,7 @@ build ispitna6.exe: CXX_EXECUTABLE_LINKER__ispitna6_Debug CMakeFiles/ispitna6.di
 
 build cmake_object_order_depends_target_ispitna7: phony || .
 
-build CMakeFiles/ispitna7.dir/oop_jan_ispitna/ispitna7.cpp.obj: CXX_COMPILER__ispitna7_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna7.cpp || cmake_object_order_depends_target_ispitna7
+build CMakeFiles/ispitna7.dir/oop_jan_ispitna/ispitna7.cpp.obj: CXX_COMPILER__ispitna7_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna7.cpp || cmake_object_order_depends_target_ispitna7
   DEP_FILE = CMakeFiles\ispitna7.dir\oop_jan_ispitna\ispitna7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna7.dir
@@ -337,7 +337,7 @@ build ispitna7.exe: CXX_EXECUTABLE_LINKER__ispitna7_Debug CMakeFiles/ispitna7.di
 
 build cmake_object_order_depends_target_ispitna8: phony || .
 
-build CMakeFiles/ispitna8.dir/oop_jan_ispitna/ispitna8.cpp.obj: CXX_COMPILER__ispitna8_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna8.cpp || cmake_object_order_depends_target_ispitna8
+build CMakeFiles/ispitna8.dir/oop_jan_ispitna/ispitna8.cpp.obj: CXX_COMPILER__ispitna8_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna8.cpp || cmake_object_order_depends_target_ispitna8
   DEP_FILE = CMakeFiles\ispitna8.dir\oop_jan_ispitna\ispitna8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna8.dir
@@ -373,7 +373,7 @@ build ispitna8.exe: CXX_EXECUTABLE_LINKER__ispitna8_Debug CMakeFiles/ispitna8.di
 
 build cmake_object_order_depends_target_ispitna9: phony || .
 
-build CMakeFiles/ispitna9.dir/oop_jan_ispitna/ispitna9.cpp.obj: CXX_COMPILER__ispitna9_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna9.cpp || cmake_object_order_depends_target_ispitna9
+build CMakeFiles/ispitna9.dir/oop_jan_ispitna/ispitna9.cpp.obj: CXX_COMPILER__ispitna9_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna9.cpp || cmake_object_order_depends_target_ispitna9
   DEP_FILE = CMakeFiles\ispitna9.dir\oop_jan_ispitna\ispitna9.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna9.dir
@@ -409,7 +409,7 @@ build ispitna9.exe: CXX_EXECUTABLE_LINKER__ispitna9_Debug CMakeFiles/ispitna9.di
 
 build cmake_object_order_depends_target_ispitna10: phony || .
 
-build CMakeFiles/ispitna10.dir/oop_jan_ispitna/ispitna10.cpp.obj: CXX_COMPILER__ispitna10_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna10.cpp || cmake_object_order_depends_target_ispitna10
+build CMakeFiles/ispitna10.dir/oop_jan_ispitna/ispitna10.cpp.obj: CXX_COMPILER__ispitna10_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna10.cpp || cmake_object_order_depends_target_ispitna10
   DEP_FILE = CMakeFiles\ispitna10.dir\oop_jan_ispitna\ispitna10.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna10.dir
@@ -445,7 +445,7 @@ build ispitna10.exe: CXX_EXECUTABLE_LINKER__ispitna10_Debug CMakeFiles/ispitna10
 
 build cmake_object_order_depends_target_ispitna11: phony || .
 
-build CMakeFiles/ispitna11.dir/oop_jan_ispitna/ispitna11.cpp.obj: CXX_COMPILER__ispitna11_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna11.cpp || cmake_object_order_depends_target_ispitna11
+build CMakeFiles/ispitna11.dir/oop_jan_ispitna/ispitna11.cpp.obj: CXX_COMPILER__ispitna11_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna11.cpp || cmake_object_order_depends_target_ispitna11
   DEP_FILE = CMakeFiles\ispitna11.dir\oop_jan_ispitna\ispitna11.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna11.dir
@@ -481,7 +481,7 @@ build ispitna11.exe: CXX_EXECUTABLE_LINKER__ispitna11_Debug CMakeFiles/ispitna11
 
 build cmake_object_order_depends_target_ispitna12: phony || .
 
-build CMakeFiles/ispitna12.dir/oop_jan_ispitna/ispitna12.cpp.obj: CXX_COMPILER__ispitna12_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna12.cpp || cmake_object_order_depends_target_ispitna12
+build CMakeFiles/ispitna12.dir/oop_jan_ispitna/ispitna12.cpp.obj: CXX_COMPILER__ispitna12_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna12.cpp || cmake_object_order_depends_target_ispitna12
   DEP_FILE = CMakeFiles\ispitna12.dir\oop_jan_ispitna\ispitna12.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna12.dir
@@ -517,7 +517,7 @@ build ispitna12.exe: CXX_EXECUTABLE_LINKER__ispitna12_Debug CMakeFiles/ispitna12
 
 build cmake_object_order_depends_target_ispitna13: phony || .
 
-build CMakeFiles/ispitna13.dir/oop_jan_ispitna/ispitna13.cpp.obj: CXX_COMPILER__ispitna13_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna13.cpp || cmake_object_order_depends_target_ispitna13
+build CMakeFiles/ispitna13.dir/oop_jan_ispitna/ispitna13.cpp.obj: CXX_COMPILER__ispitna13_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna13.cpp || cmake_object_order_depends_target_ispitna13
   DEP_FILE = CMakeFiles\ispitna13.dir\oop_jan_ispitna\ispitna13.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna13.dir
@@ -553,7 +553,7 @@ build ispitna13.exe: CXX_EXECUTABLE_LINKER__ispitna13_Debug CMakeFiles/ispitna13
 
 build cmake_object_order_depends_target_ispitna14: phony || .
 
-build CMakeFiles/ispitna14.dir/oop_jan_ispitna/ispitna14.cpp.obj: CXX_COMPILER__ispitna14_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna14.cpp || cmake_object_order_depends_target_ispitna14
+build CMakeFiles/ispitna14.dir/oop_jan_ispitna/ispitna14.cpp.obj: CXX_COMPILER__ispitna14_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna14.cpp || cmake_object_order_depends_target_ispitna14
   DEP_FILE = CMakeFiles\ispitna14.dir\oop_jan_ispitna\ispitna14.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna14.dir
@@ -589,7 +589,7 @@ build ispitna14.exe: CXX_EXECUTABLE_LINKER__ispitna14_Debug CMakeFiles/ispitna14
 
 build cmake_object_order_depends_target_ispitna15: phony || .
 
-build CMakeFiles/ispitna15.dir/oop_jan_ispitna/ispitna15.cpp.obj: CXX_COMPILER__ispitna15_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna15.cpp || cmake_object_order_depends_target_ispitna15
+build CMakeFiles/ispitna15.dir/oop_jan_ispitna/ispitna15.cpp.obj: CXX_COMPILER__ispitna15_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna15.cpp || cmake_object_order_depends_target_ispitna15
   DEP_FILE = CMakeFiles\ispitna15.dir\oop_jan_ispitna\ispitna15.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna15.dir
@@ -625,7 +625,7 @@ build ispitna15.exe: CXX_EXECUTABLE_LINKER__ispitna15_Debug CMakeFiles/ispitna15
 
 build cmake_object_order_depends_target_ispitna16: phony || .
 
-build CMakeFiles/ispitna16.dir/oop_jan_ispitna/ispitna16.cpp.obj: CXX_COMPILER__ispitna16_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna16.cpp || cmake_object_order_depends_target_ispitna16
+build CMakeFiles/ispitna16.dir/oop_jan_ispitna/ispitna16.cpp.obj: CXX_COMPILER__ispitna16_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna16.cpp || cmake_object_order_depends_target_ispitna16
   DEP_FILE = CMakeFiles\ispitna16.dir\oop_jan_ispitna\ispitna16.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna16.dir
@@ -661,7 +661,7 @@ build ispitna16.exe: CXX_EXECUTABLE_LINKER__ispitna16_Debug CMakeFiles/ispitna16
 
 build cmake_object_order_depends_target_ispitna17: phony || .
 
-build CMakeFiles/ispitna17.dir/oop_jan_ispitna/ispitna17.cpp.obj: CXX_COMPILER__ispitna17_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna17.cpp || cmake_object_order_depends_target_ispitna17
+build CMakeFiles/ispitna17.dir/oop_jan_ispitna/ispitna17.cpp.obj: CXX_COMPILER__ispitna17_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna17.cpp || cmake_object_order_depends_target_ispitna17
   DEP_FILE = CMakeFiles\ispitna17.dir\oop_jan_ispitna\ispitna17.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna17.dir
@@ -697,7 +697,7 @@ build ispitna17.exe: CXX_EXECUTABLE_LINKER__ispitna17_Debug CMakeFiles/ispitna17
 
 build cmake_object_order_depends_target_ispitna18: phony || .
 
-build CMakeFiles/ispitna18.dir/oop_jan_ispitna/ispitna18_eng.cpp.obj: CXX_COMPILER__ispitna18_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna18_eng.cpp || cmake_object_order_depends_target_ispitna18
+build CMakeFiles/ispitna18.dir/oop_jan_ispitna/ispitna18_eng.cpp.obj: CXX_COMPILER__ispitna18_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna18_eng.cpp || cmake_object_order_depends_target_ispitna18
   DEP_FILE = CMakeFiles\ispitna18.dir\oop_jan_ispitna\ispitna18_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna18.dir
@@ -733,7 +733,7 @@ build ispitna18.exe: CXX_EXECUTABLE_LINKER__ispitna18_Debug CMakeFiles/ispitna18
 
 build cmake_object_order_depends_target_ispitna19: phony || .
 
-build CMakeFiles/ispitna19.dir/oop_jan_ispitna/ispitna19_eng.cpp.obj: CXX_COMPILER__ispitna19_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna19_eng.cpp || cmake_object_order_depends_target_ispitna19
+build CMakeFiles/ispitna19.dir/oop_jan_ispitna/ispitna19_eng.cpp.obj: CXX_COMPILER__ispitna19_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna19_eng.cpp || cmake_object_order_depends_target_ispitna19
   DEP_FILE = CMakeFiles\ispitna19.dir\oop_jan_ispitna\ispitna19_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna19.dir
@@ -769,7 +769,7 @@ build ispitna19.exe: CXX_EXECUTABLE_LINKER__ispitna19_Debug CMakeFiles/ispitna19
 
 build cmake_object_order_depends_target_ispitna20: phony || .
 
-build CMakeFiles/ispitna20.dir/oop_jan_ispitna/ispitna20_eng.cpp.obj: CXX_COMPILER__ispitna20_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna20_eng.cpp || cmake_object_order_depends_target_ispitna20
+build CMakeFiles/ispitna20.dir/oop_jan_ispitna/ispitna20_eng.cpp.obj: CXX_COMPILER__ispitna20_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna20_eng.cpp || cmake_object_order_depends_target_ispitna20
   DEP_FILE = CMakeFiles\ispitna20.dir\oop_jan_ispitna\ispitna20_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna20.dir
@@ -805,7 +805,7 @@ build ispitna20.exe: CXX_EXECUTABLE_LINKER__ispitna20_Debug CMakeFiles/ispitna20
 
 build cmake_object_order_depends_target_ispitna21: phony || .
 
-build CMakeFiles/ispitna21.dir/oop_jan_ispitna/ispitna21_eng.cpp.obj: CXX_COMPILER__ispitna21_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna21_eng.cpp || cmake_object_order_depends_target_ispitna21
+build CMakeFiles/ispitna21.dir/oop_jan_ispitna/ispitna21_eng.cpp.obj: CXX_COMPILER__ispitna21_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna21_eng.cpp || cmake_object_order_depends_target_ispitna21
   DEP_FILE = CMakeFiles\ispitna21.dir\oop_jan_ispitna\ispitna21_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna21.dir
@@ -841,7 +841,7 @@ build ispitna21.exe: CXX_EXECUTABLE_LINKER__ispitna21_Debug CMakeFiles/ispitna21
 
 build cmake_object_order_depends_target_ispitna22: phony || .
 
-build CMakeFiles/ispitna22.dir/oop_jan_ispitna/ispitna22_eng.cpp.obj: CXX_COMPILER__ispitna22_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna22_eng.cpp || cmake_object_order_depends_target_ispitna22
+build CMakeFiles/ispitna22.dir/oop_jan_ispitna/ispitna22_eng.cpp.obj: CXX_COMPILER__ispitna22_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna22_eng.cpp || cmake_object_order_depends_target_ispitna22
   DEP_FILE = CMakeFiles\ispitna22.dir\oop_jan_ispitna\ispitna22_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna22.dir
@@ -877,7 +877,7 @@ build ispitna22.exe: CXX_EXECUTABLE_LINKER__ispitna22_Debug CMakeFiles/ispitna22
 
 build cmake_object_order_depends_target_ispitna23: phony || .
 
-build CMakeFiles/ispitna23.dir/oop_jan_ispitna/ispitna23_eng.cpp.obj: CXX_COMPILER__ispitna23_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna23_eng.cpp || cmake_object_order_depends_target_ispitna23
+build CMakeFiles/ispitna23.dir/oop_jan_ispitna/ispitna23_eng.cpp.obj: CXX_COMPILER__ispitna23_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna23_eng.cpp || cmake_object_order_depends_target_ispitna23
   DEP_FILE = CMakeFiles\ispitna23.dir\oop_jan_ispitna\ispitna23_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna23.dir
@@ -913,7 +913,7 @@ build ispitna23.exe: CXX_EXECUTABLE_LINKER__ispitna23_Debug CMakeFiles/ispitna23
 
 build cmake_object_order_depends_target_ispitna24: phony || .
 
-build CMakeFiles/ispitna24.dir/oop_jan_ispitna/ispitna24_eng.cpp.obj: CXX_COMPILER__ispitna24_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna24_eng.cpp || cmake_object_order_depends_target_ispitna24
+build CMakeFiles/ispitna24.dir/oop_jan_ispitna/ispitna24_eng.cpp.obj: CXX_COMPILER__ispitna24_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna24_eng.cpp || cmake_object_order_depends_target_ispitna24
   DEP_FILE = CMakeFiles\ispitna24.dir\oop_jan_ispitna\ispitna24_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna24.dir
@@ -949,7 +949,7 @@ build ispitna24.exe: CXX_EXECUTABLE_LINKER__ispitna24_Debug CMakeFiles/ispitna24
 
 build cmake_object_order_depends_target_ispitna25: phony || .
 
-build CMakeFiles/ispitna25.dir/oop_jan_ispitna/ispitna25_eng.cpp.obj: CXX_COMPILER__ispitna25_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna25_eng.cpp || cmake_object_order_depends_target_ispitna25
+build CMakeFiles/ispitna25.dir/oop_jan_ispitna/ispitna25_eng.cpp.obj: CXX_COMPILER__ispitna25_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna25_eng.cpp || cmake_object_order_depends_target_ispitna25
   DEP_FILE = CMakeFiles\ispitna25.dir\oop_jan_ispitna\ispitna25_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna25.dir
@@ -985,7 +985,7 @@ build ispitna25.exe: CXX_EXECUTABLE_LINKER__ispitna25_Debug CMakeFiles/ispitna25
 
 build cmake_object_order_depends_target_ispitna26: phony || .
 
-build CMakeFiles/ispitna26.dir/oop_jan_ispitna/ispitna26_eng.cpp.obj: CXX_COMPILER__ispitna26_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna26_eng.cpp || cmake_object_order_depends_target_ispitna26
+build CMakeFiles/ispitna26.dir/oop_jan_ispitna/ispitna26_eng.cpp.obj: CXX_COMPILER__ispitna26_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna26_eng.cpp || cmake_object_order_depends_target_ispitna26
   DEP_FILE = CMakeFiles\ispitna26.dir\oop_jan_ispitna\ispitna26_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna26.dir
@@ -1021,7 +1021,7 @@ build ispitna26.exe: CXX_EXECUTABLE_LINKER__ispitna26_Debug CMakeFiles/ispitna26
 
 build cmake_object_order_depends_target_ispitna27: phony || .
 
-build CMakeFiles/ispitna27.dir/oop_jan_ispitna/ispitna27_eng.cpp.obj: CXX_COMPILER__ispitna27_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna27_eng.cpp || cmake_object_order_depends_target_ispitna27
+build CMakeFiles/ispitna27.dir/oop_jan_ispitna/ispitna27_eng.cpp.obj: CXX_COMPILER__ispitna27_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna27_eng.cpp || cmake_object_order_depends_target_ispitna27
   DEP_FILE = CMakeFiles\ispitna27.dir\oop_jan_ispitna\ispitna27_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna27.dir
@@ -1057,7 +1057,7 @@ build ispitna27.exe: CXX_EXECUTABLE_LINKER__ispitna27_Debug CMakeFiles/ispitna27
 
 build cmake_object_order_depends_target_ispitna28: phony || .
 
-build CMakeFiles/ispitna28.dir/oop_jan_ispitna/ispitna28_eng.cpp.obj: CXX_COMPILER__ispitna28_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna28_eng.cpp || cmake_object_order_depends_target_ispitna28
+build CMakeFiles/ispitna28.dir/oop_jan_ispitna/ispitna28_eng.cpp.obj: CXX_COMPILER__ispitna28_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna28_eng.cpp || cmake_object_order_depends_target_ispitna28
   DEP_FILE = CMakeFiles\ispitna28.dir\oop_jan_ispitna\ispitna28_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna28.dir
@@ -1093,7 +1093,7 @@ build ispitna28.exe: CXX_EXECUTABLE_LINKER__ispitna28_Debug CMakeFiles/ispitna28
 
 build cmake_object_order_depends_target_ispitna29: phony || .
 
-build CMakeFiles/ispitna29.dir/oop_jan_ispitna/ispitna29_eng.cpp.obj: CXX_COMPILER__ispitna29_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna29_eng.cpp || cmake_object_order_depends_target_ispitna29
+build CMakeFiles/ispitna29.dir/oop_jan_ispitna/ispitna29_eng.cpp.obj: CXX_COMPILER__ispitna29_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna29_eng.cpp || cmake_object_order_depends_target_ispitna29
   DEP_FILE = CMakeFiles\ispitna29.dir\oop_jan_ispitna\ispitna29_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna29.dir
@@ -1129,7 +1129,7 @@ build ispitna29.exe: CXX_EXECUTABLE_LINKER__ispitna29_Debug CMakeFiles/ispitna29
 
 build cmake_object_order_depends_target_ispitna30: phony || .
 
-build CMakeFiles/ispitna30.dir/oop_jan_ispitna/ispitna30_eng.cpp.obj: CXX_COMPILER__ispitna30_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna30_eng.cpp || cmake_object_order_depends_target_ispitna30
+build CMakeFiles/ispitna30.dir/oop_jan_ispitna/ispitna30_eng.cpp.obj: CXX_COMPILER__ispitna30_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna30_eng.cpp || cmake_object_order_depends_target_ispitna30
   DEP_FILE = CMakeFiles\ispitna30.dir\oop_jan_ispitna\ispitna30_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna30.dir
@@ -1165,7 +1165,7 @@ build ispitna30.exe: CXX_EXECUTABLE_LINKER__ispitna30_Debug CMakeFiles/ispitna30
 
 build cmake_object_order_depends_target_ispitna31: phony || .
 
-build CMakeFiles/ispitna31.dir/oop_jan_ispitna/ispitna31_eng.cpp.obj: CXX_COMPILER__ispitna31_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna31_eng.cpp || cmake_object_order_depends_target_ispitna31
+build CMakeFiles/ispitna31.dir/oop_jan_ispitna/ispitna31_eng.cpp.obj: CXX_COMPILER__ispitna31_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna31_eng.cpp || cmake_object_order_depends_target_ispitna31
   DEP_FILE = CMakeFiles\ispitna31.dir\oop_jan_ispitna\ispitna31_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna31.dir
@@ -1201,7 +1201,7 @@ build ispitna31.exe: CXX_EXECUTABLE_LINKER__ispitna31_Debug CMakeFiles/ispitna31
 
 build cmake_object_order_depends_target_ispitna32: phony || .
 
-build CMakeFiles/ispitna32.dir/oop_jan_ispitna/ispitna32_eng.cpp.obj: CXX_COMPILER__ispitna32_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna32_eng.cpp || cmake_object_order_depends_target_ispitna32
+build CMakeFiles/ispitna32.dir/oop_jan_ispitna/ispitna32_eng.cpp.obj: CXX_COMPILER__ispitna32_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna32_eng.cpp || cmake_object_order_depends_target_ispitna32
   DEP_FILE = CMakeFiles\ispitna32.dir\oop_jan_ispitna\ispitna32_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna32.dir
@@ -1237,7 +1237,7 @@ build ispitna32.exe: CXX_EXECUTABLE_LINKER__ispitna32_Debug CMakeFiles/ispitna32
 
 build cmake_object_order_depends_target_ispitna33: phony || .
 
-build CMakeFiles/ispitna33.dir/oop_jan_ispitna/ispitna33_eng.cpp.obj: CXX_COMPILER__ispitna33_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna33_eng.cpp || cmake_object_order_depends_target_ispitna33
+build CMakeFiles/ispitna33.dir/oop_jan_ispitna/ispitna33_eng.cpp.obj: CXX_COMPILER__ispitna33_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna33_eng.cpp || cmake_object_order_depends_target_ispitna33
   DEP_FILE = CMakeFiles\ispitna33.dir\oop_jan_ispitna\ispitna33_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna33.dir
@@ -1273,7 +1273,7 @@ build ispitna33.exe: CXX_EXECUTABLE_LINKER__ispitna33_Debug CMakeFiles/ispitna33
 
 build cmake_object_order_depends_target_ispitna34: phony || .
 
-build CMakeFiles/ispitna34.dir/oop_jan_ispitna/ispitna34_eng.cpp.obj: CXX_COMPILER__ispitna34_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna34_eng.cpp || cmake_object_order_depends_target_ispitna34
+build CMakeFiles/ispitna34.dir/oop_jan_ispitna/ispitna34_eng.cpp.obj: CXX_COMPILER__ispitna34_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna34_eng.cpp || cmake_object_order_depends_target_ispitna34
   DEP_FILE = CMakeFiles\ispitna34.dir\oop_jan_ispitna\ispitna34_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna34.dir
@@ -1309,7 +1309,7 @@ build ispitna34.exe: CXX_EXECUTABLE_LINKER__ispitna34_Debug CMakeFiles/ispitna34
 
 build cmake_object_order_depends_target_ispitna35: phony || .
 
-build CMakeFiles/ispitna35.dir/oop_jan_ispitna/ispitna35_eng.cpp.obj: CXX_COMPILER__ispitna35_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna35_eng.cpp || cmake_object_order_depends_target_ispitna35
+build CMakeFiles/ispitna35.dir/oop_jan_ispitna/ispitna35_eng.cpp.obj: CXX_COMPILER__ispitna35_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna35_eng.cpp || cmake_object_order_depends_target_ispitna35
   DEP_FILE = CMakeFiles\ispitna35.dir\oop_jan_ispitna\ispitna35_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna35.dir
@@ -1345,7 +1345,7 @@ build ispitna35.exe: CXX_EXECUTABLE_LINKER__ispitna35_Debug CMakeFiles/ispitna35
 
 build cmake_object_order_depends_target_ispitna36: phony || .
 
-build CMakeFiles/ispitna36.dir/oop_jan_ispitna/ispitna36_eng.cpp.obj: CXX_COMPILER__ispitna36_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna36_eng.cpp || cmake_object_order_depends_target_ispitna36
+build CMakeFiles/ispitna36.dir/oop_jan_ispitna/ispitna36_eng.cpp.obj: CXX_COMPILER__ispitna36_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna36_eng.cpp || cmake_object_order_depends_target_ispitna36
   DEP_FILE = CMakeFiles\ispitna36.dir\oop_jan_ispitna\ispitna36_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna36.dir
@@ -1381,7 +1381,7 @@ build ispitna36.exe: CXX_EXECUTABLE_LINKER__ispitna36_Debug CMakeFiles/ispitna36
 
 build cmake_object_order_depends_target_ispitna37: phony || .
 
-build CMakeFiles/ispitna37.dir/oop_jan_ispitna/ispitna37_eng.cpp.obj: CXX_COMPILER__ispitna37_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna37_eng.cpp || cmake_object_order_depends_target_ispitna37
+build CMakeFiles/ispitna37.dir/oop_jan_ispitna/ispitna37_eng.cpp.obj: CXX_COMPILER__ispitna37_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna37_eng.cpp || cmake_object_order_depends_target_ispitna37
   DEP_FILE = CMakeFiles\ispitna37.dir\oop_jan_ispitna\ispitna37_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna37.dir
@@ -1417,7 +1417,7 @@ build ispitna37.exe: CXX_EXECUTABLE_LINKER__ispitna37_Debug CMakeFiles/ispitna37
 
 build cmake_object_order_depends_target_ispitna38: phony || .
 
-build CMakeFiles/ispitna38.dir/oop_jan_ispitna/ispitna38_eng.cpp.obj: CXX_COMPILER__ispitna38_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna38_eng.cpp || cmake_object_order_depends_target_ispitna38
+build CMakeFiles/ispitna38.dir/oop_jan_ispitna/ispitna38_eng.cpp.obj: CXX_COMPILER__ispitna38_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna38_eng.cpp || cmake_object_order_depends_target_ispitna38
   DEP_FILE = CMakeFiles\ispitna38.dir\oop_jan_ispitna\ispitna38_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna38.dir
@@ -1453,7 +1453,7 @@ build ispitna38.exe: CXX_EXECUTABLE_LINKER__ispitna38_Debug CMakeFiles/ispitna38
 
 build cmake_object_order_depends_target_ispitna39: phony || .
 
-build CMakeFiles/ispitna39.dir/oop_jan_ispitna/ispitna39_eng.cpp.obj: CXX_COMPILER__ispitna39_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna39_eng.cpp || cmake_object_order_depends_target_ispitna39
+build CMakeFiles/ispitna39.dir/oop_jan_ispitna/ispitna39_eng.cpp.obj: CXX_COMPILER__ispitna39_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna39_eng.cpp || cmake_object_order_depends_target_ispitna39
   DEP_FILE = CMakeFiles\ispitna39.dir\oop_jan_ispitna\ispitna39_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna39.dir
@@ -1489,7 +1489,7 @@ build ispitna39.exe: CXX_EXECUTABLE_LINKER__ispitna39_Debug CMakeFiles/ispitna39
 
 build cmake_object_order_depends_target_ispitna40: phony || .
 
-build CMakeFiles/ispitna40.dir/oop_jan_ispitna/ispitna40_eng.cpp.obj: CXX_COMPILER__ispitna40_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna40_eng.cpp || cmake_object_order_depends_target_ispitna40
+build CMakeFiles/ispitna40.dir/oop_jan_ispitna/ispitna40_eng.cpp.obj: CXX_COMPILER__ispitna40_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna40_eng.cpp || cmake_object_order_depends_target_ispitna40
   DEP_FILE = CMakeFiles\ispitna40.dir\oop_jan_ispitna\ispitna40_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna40.dir
@@ -1525,7 +1525,7 @@ build ispitna40.exe: CXX_EXECUTABLE_LINKER__ispitna40_Debug CMakeFiles/ispitna40
 
 build cmake_object_order_depends_target_ispitna41: phony || .
 
-build CMakeFiles/ispitna41.dir/oop_jan_ispitna/ispitna41_eng.cpp.obj: CXX_COMPILER__ispitna41_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna41_eng.cpp || cmake_object_order_depends_target_ispitna41
+build CMakeFiles/ispitna41.dir/oop_jan_ispitna/ispitna41_eng.cpp.obj: CXX_COMPILER__ispitna41_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna41_eng.cpp || cmake_object_order_depends_target_ispitna41
   DEP_FILE = CMakeFiles\ispitna41.dir\oop_jan_ispitna\ispitna41_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna41.dir
@@ -1561,7 +1561,7 @@ build ispitna41.exe: CXX_EXECUTABLE_LINKER__ispitna41_Debug CMakeFiles/ispitna41
 
 build cmake_object_order_depends_target_ispitna42: phony || .
 
-build CMakeFiles/ispitna42.dir/oop_jan_ispitna/ispitna42_eng.cpp.obj: CXX_COMPILER__ispitna42_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna42_eng.cpp || cmake_object_order_depends_target_ispitna42
+build CMakeFiles/ispitna42.dir/oop_jan_ispitna/ispitna42_eng.cpp.obj: CXX_COMPILER__ispitna42_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna42_eng.cpp || cmake_object_order_depends_target_ispitna42
   DEP_FILE = CMakeFiles\ispitna42.dir\oop_jan_ispitna\ispitna42_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna42.dir
@@ -1597,7 +1597,7 @@ build ispitna42.exe: CXX_EXECUTABLE_LINKER__ispitna42_Debug CMakeFiles/ispitna42
 
 build cmake_object_order_depends_target_ispitna43: phony || .
 
-build CMakeFiles/ispitna43.dir/oop_jan_ispitna/ispitna43_eng.cpp.obj: CXX_COMPILER__ispitna43_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna43_eng.cpp || cmake_object_order_depends_target_ispitna43
+build CMakeFiles/ispitna43.dir/oop_jan_ispitna/ispitna43_eng.cpp.obj: CXX_COMPILER__ispitna43_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna43_eng.cpp || cmake_object_order_depends_target_ispitna43
   DEP_FILE = CMakeFiles\ispitna43.dir\oop_jan_ispitna\ispitna43_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna43.dir
@@ -1633,7 +1633,7 @@ build ispitna43.exe: CXX_EXECUTABLE_LINKER__ispitna43_Debug CMakeFiles/ispitna43
 
 build cmake_object_order_depends_target_ispitna44: phony || .
 
-build CMakeFiles/ispitna44.dir/oop_jan_ispitna/ispitna44_eng.cpp.obj: CXX_COMPILER__ispitna44_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna44_eng.cpp || cmake_object_order_depends_target_ispitna44
+build CMakeFiles/ispitna44.dir/oop_jan_ispitna/ispitna44_eng.cpp.obj: CXX_COMPILER__ispitna44_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna44_eng.cpp || cmake_object_order_depends_target_ispitna44
   DEP_FILE = CMakeFiles\ispitna44.dir\oop_jan_ispitna\ispitna44_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna44.dir
@@ -1669,7 +1669,7 @@ build ispitna44.exe: CXX_EXECUTABLE_LINKER__ispitna44_Debug CMakeFiles/ispitna44
 
 build cmake_object_order_depends_target_ispitna45: phony || .
 
-build CMakeFiles/ispitna45.dir/oop_jan_ispitna/ispitna45_eng.cpp.obj: CXX_COMPILER__ispitna45_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna45_eng.cpp || cmake_object_order_depends_target_ispitna45
+build CMakeFiles/ispitna45.dir/oop_jan_ispitna/ispitna45_eng.cpp.obj: CXX_COMPILER__ispitna45_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna45_eng.cpp || cmake_object_order_depends_target_ispitna45
   DEP_FILE = CMakeFiles\ispitna45.dir\oop_jan_ispitna\ispitna45_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna45.dir
@@ -1705,7 +1705,7 @@ build ispitna45.exe: CXX_EXECUTABLE_LINKER__ispitna45_Debug CMakeFiles/ispitna45
 
 build cmake_object_order_depends_target_ispitna46: phony || .
 
-build CMakeFiles/ispitna46.dir/oop_jan_ispitna/ispitna46_eng.cpp.obj: CXX_COMPILER__ispitna46_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna46_eng.cpp || cmake_object_order_depends_target_ispitna46
+build CMakeFiles/ispitna46.dir/oop_jan_ispitna/ispitna46_eng.cpp.obj: CXX_COMPILER__ispitna46_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna46_eng.cpp || cmake_object_order_depends_target_ispitna46
   DEP_FILE = CMakeFiles\ispitna46.dir\oop_jan_ispitna\ispitna46_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna46.dir
@@ -1741,7 +1741,7 @@ build ispitna46.exe: CXX_EXECUTABLE_LINKER__ispitna46_Debug CMakeFiles/ispitna46
 
 build cmake_object_order_depends_target_ispitna47: phony || .
 
-build CMakeFiles/ispitna47.dir/oop_jan_ispitna/ispitna47_eng.cpp.obj: CXX_COMPILER__ispitna47_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna47_eng.cpp || cmake_object_order_depends_target_ispitna47
+build CMakeFiles/ispitna47.dir/oop_jan_ispitna/ispitna47_eng.cpp.obj: CXX_COMPILER__ispitna47_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna47_eng.cpp || cmake_object_order_depends_target_ispitna47
   DEP_FILE = CMakeFiles\ispitna47.dir\oop_jan_ispitna\ispitna47_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna47.dir
@@ -1777,7 +1777,7 @@ build ispitna47.exe: CXX_EXECUTABLE_LINKER__ispitna47_Debug CMakeFiles/ispitna47
 
 build cmake_object_order_depends_target_ispitna48: phony || .
 
-build CMakeFiles/ispitna48.dir/oop_jan_ispitna/ispitna48_eng.cpp.obj: CXX_COMPILER__ispitna48_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna48_eng.cpp || cmake_object_order_depends_target_ispitna48
+build CMakeFiles/ispitna48.dir/oop_jan_ispitna/ispitna48_eng.cpp.obj: CXX_COMPILER__ispitna48_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna48_eng.cpp || cmake_object_order_depends_target_ispitna48
   DEP_FILE = CMakeFiles\ispitna48.dir\oop_jan_ispitna\ispitna48_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna48.dir
@@ -1813,7 +1813,7 @@ build ispitna48.exe: CXX_EXECUTABLE_LINKER__ispitna48_Debug CMakeFiles/ispitna48
 
 build cmake_object_order_depends_target_ispitna49: phony || .
 
-build CMakeFiles/ispitna49.dir/oop_jan_ispitna/ispitna49_eng.cpp.obj: CXX_COMPILER__ispitna49_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna49_eng.cpp || cmake_object_order_depends_target_ispitna49
+build CMakeFiles/ispitna49.dir/oop_jan_ispitna/ispitna49_eng.cpp.obj: CXX_COMPILER__ispitna49_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna49_eng.cpp || cmake_object_order_depends_target_ispitna49
   DEP_FILE = CMakeFiles\ispitna49.dir\oop_jan_ispitna\ispitna49_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna49.dir
@@ -1849,7 +1849,7 @@ build ispitna49.exe: CXX_EXECUTABLE_LINKER__ispitna49_Debug CMakeFiles/ispitna49
 
 build cmake_object_order_depends_target_ispitna50: phony || .
 
-build CMakeFiles/ispitna50.dir/oop_jan_ispitna/ispitna50_eng.cpp.obj: CXX_COMPILER__ispitna50_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/oop_jan_ispitna/ispitna50_eng.cpp || cmake_object_order_depends_target_ispitna50
+build CMakeFiles/ispitna50.dir/oop_jan_ispitna/ispitna50_eng.cpp.obj: CXX_COMPILER__ispitna50_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna50_eng.cpp || cmake_object_order_depends_target_ispitna50
   DEP_FILE = CMakeFiles\ispitna50.dir\oop_jan_ispitna\ispitna50_eng.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna50.dir
@@ -1885,7 +1885,7 @@ build ispitna50.exe: CXX_EXECUTABLE_LINKER__ispitna50_Debug CMakeFiles/ispitna50
 
 build cmake_object_order_depends_target_aud1: phony || .
 
-build CMakeFiles/aud1.dir/aud_online/aud1/aud1.cpp.obj: CXX_COMPILER__aud1_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud1/aud1.cpp || cmake_object_order_depends_target_aud1
+build CMakeFiles/aud1.dir/aud_online/aud1/aud1.cpp.obj: CXX_COMPILER__aud1_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud1/aud1.cpp || cmake_object_order_depends_target_aud1
   DEP_FILE = CMakeFiles\aud1.dir\aud_online\aud1\aud1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud1.dir
@@ -1921,7 +1921,7 @@ build aud1.exe: CXX_EXECUTABLE_LINKER__aud1_Debug CMakeFiles/aud1.dir/aud_online
 
 build cmake_object_order_depends_target_aud2: phony || .
 
-build CMakeFiles/aud2.dir/aud_online/aud1/aud2.cpp.obj: CXX_COMPILER__aud2_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud1/aud2.cpp || cmake_object_order_depends_target_aud2
+build CMakeFiles/aud2.dir/aud_online/aud1/aud2.cpp.obj: CXX_COMPILER__aud2_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud1/aud2.cpp || cmake_object_order_depends_target_aud2
   DEP_FILE = CMakeFiles\aud2.dir\aud_online\aud1\aud2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud2.dir
@@ -1957,7 +1957,7 @@ build aud2.exe: CXX_EXECUTABLE_LINKER__aud2_Debug CMakeFiles/aud2.dir/aud_online
 
 build cmake_object_order_depends_target_aud3: phony || .
 
-build CMakeFiles/aud3.dir/aud_online/aud1/aud3.cpp.obj: CXX_COMPILER__aud3_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud1/aud3.cpp || cmake_object_order_depends_target_aud3
+build CMakeFiles/aud3.dir/aud_online/aud1/aud3.cpp.obj: CXX_COMPILER__aud3_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud1/aud3.cpp || cmake_object_order_depends_target_aud3
   DEP_FILE = CMakeFiles\aud3.dir\aud_online\aud1\aud3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud3.dir
@@ -1993,7 +1993,7 @@ build aud3.exe: CXX_EXECUTABLE_LINKER__aud3_Debug CMakeFiles/aud3.dir/aud_online
 
 build cmake_object_order_depends_target_aud4: phony || .
 
-build CMakeFiles/aud4.dir/aud_online/aud2/aud4.cpp.obj: CXX_COMPILER__aud4_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud2/aud4.cpp || cmake_object_order_depends_target_aud4
+build CMakeFiles/aud4.dir/aud_online/aud2/aud4.cpp.obj: CXX_COMPILER__aud4_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud2/aud4.cpp || cmake_object_order_depends_target_aud4
   DEP_FILE = CMakeFiles\aud4.dir\aud_online\aud2\aud4.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud4.dir
@@ -2029,7 +2029,7 @@ build aud4.exe: CXX_EXECUTABLE_LINKER__aud4_Debug CMakeFiles/aud4.dir/aud_online
 
 build cmake_object_order_depends_target_aud5: phony || .
 
-build CMakeFiles/aud5.dir/aud_online/aud2/aud5.cpp.obj: CXX_COMPILER__aud5_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud2/aud5.cpp || cmake_object_order_depends_target_aud5
+build CMakeFiles/aud5.dir/aud_online/aud2/aud5.cpp.obj: CXX_COMPILER__aud5_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud2/aud5.cpp || cmake_object_order_depends_target_aud5
   DEP_FILE = CMakeFiles\aud5.dir\aud_online\aud2\aud5.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud5.dir
@@ -2065,7 +2065,7 @@ build aud5.exe: CXX_EXECUTABLE_LINKER__aud5_Debug CMakeFiles/aud5.dir/aud_online
 
 build cmake_object_order_depends_target_aud6: phony || .
 
-build CMakeFiles/aud6.dir/aud_online/aud2/aud6.cpp.obj: CXX_COMPILER__aud6_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud2/aud6.cpp || cmake_object_order_depends_target_aud6
+build CMakeFiles/aud6.dir/aud_online/aud2/aud6.cpp.obj: CXX_COMPILER__aud6_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud2/aud6.cpp || cmake_object_order_depends_target_aud6
   DEP_FILE = CMakeFiles\aud6.dir\aud_online\aud2\aud6.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud6.dir
@@ -2101,7 +2101,7 @@ build aud6.exe: CXX_EXECUTABLE_LINKER__aud6_Debug CMakeFiles/aud6.dir/aud_online
 
 build cmake_object_order_depends_target_aud7: phony || .
 
-build CMakeFiles/aud7.dir/aud_online/aud3/aud7.cpp.obj: CXX_COMPILER__aud7_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud3/aud7.cpp || cmake_object_order_depends_target_aud7
+build CMakeFiles/aud7.dir/aud_online/aud3/aud7.cpp.obj: CXX_COMPILER__aud7_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud3/aud7.cpp || cmake_object_order_depends_target_aud7
   DEP_FILE = CMakeFiles\aud7.dir\aud_online\aud3\aud7.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud7.dir
@@ -2137,7 +2137,7 @@ build aud7.exe: CXX_EXECUTABLE_LINKER__aud7_Debug CMakeFiles/aud7.dir/aud_online
 
 build cmake_object_order_depends_target_aud8: phony || .
 
-build CMakeFiles/aud8.dir/aud_online/aud3/aud8.cpp.obj: CXX_COMPILER__aud8_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud3/aud8.cpp || cmake_object_order_depends_target_aud8
+build CMakeFiles/aud8.dir/aud_online/aud3/aud8.cpp.obj: CXX_COMPILER__aud8_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud3/aud8.cpp || cmake_object_order_depends_target_aud8
   DEP_FILE = CMakeFiles\aud8.dir\aud_online\aud3\aud8.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud8.dir
@@ -2173,7 +2173,7 @@ build aud8.exe: CXX_EXECUTABLE_LINKER__aud8_Debug CMakeFiles/aud8.dir/aud_online
 
 build cmake_object_order_depends_target_aud9: phony || .
 
-build CMakeFiles/aud9.dir/aud_online/aud3/aud9.cpp.obj: CXX_COMPILER__aud9_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud3/aud9.cpp || cmake_object_order_depends_target_aud9
+build CMakeFiles/aud9.dir/aud_online/aud3/aud9.cpp.obj: CXX_COMPILER__aud9_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud3/aud9.cpp || cmake_object_order_depends_target_aud9
   DEP_FILE = CMakeFiles\aud9.dir\aud_online\aud3\aud9.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud9.dir
@@ -2209,7 +2209,7 @@ build aud9.exe: CXX_EXECUTABLE_LINKER__aud9_Debug CMakeFiles/aud9.dir/aud_online
 
 build cmake_object_order_depends_target_aud10: phony || .
 
-build CMakeFiles/aud10.dir/aud_online/aud3/aud10.cpp.obj: CXX_COMPILER__aud10_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud3/aud10.cpp || cmake_object_order_depends_target_aud10
+build CMakeFiles/aud10.dir/aud_online/aud3/aud10.cpp.obj: CXX_COMPILER__aud10_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud3/aud10.cpp || cmake_object_order_depends_target_aud10
   DEP_FILE = CMakeFiles\aud10.dir\aud_online\aud3\aud10.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud10.dir
@@ -2245,7 +2245,7 @@ build aud10.exe: CXX_EXECUTABLE_LINKER__aud10_Debug CMakeFiles/aud10.dir/aud_onl
 
 build cmake_object_order_depends_target_aud14: phony || .
 
-build CMakeFiles/aud14.dir/aud_online/aud4/aud14.cpp.obj: CXX_COMPILER__aud14_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud4/aud14.cpp || cmake_object_order_depends_target_aud14
+build CMakeFiles/aud14.dir/aud_online/aud4/aud14.cpp.obj: CXX_COMPILER__aud14_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud4/aud14.cpp || cmake_object_order_depends_target_aud14
   DEP_FILE = CMakeFiles\aud14.dir\aud_online\aud4\aud14.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud14.dir
@@ -2281,7 +2281,7 @@ build aud14.exe: CXX_EXECUTABLE_LINKER__aud14_Debug CMakeFiles/aud14.dir/aud_onl
 
 build cmake_object_order_depends_target_aud15: phony || .
 
-build CMakeFiles/aud15.dir/aud_online/aud4/aud15.cpp.obj: CXX_COMPILER__aud15_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud4/aud15.cpp || cmake_object_order_depends_target_aud15
+build CMakeFiles/aud15.dir/aud_online/aud4/aud15.cpp.obj: CXX_COMPILER__aud15_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud4/aud15.cpp || cmake_object_order_depends_target_aud15
   DEP_FILE = CMakeFiles\aud15.dir\aud_online\aud4\aud15.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud15.dir
@@ -2317,7 +2317,7 @@ build aud15.exe: CXX_EXECUTABLE_LINKER__aud15_Debug CMakeFiles/aud15.dir/aud_onl
 
 build cmake_object_order_depends_target_aud16: phony || .
 
-build CMakeFiles/aud16.dir/aud_online/aud5/aud16.cpp.obj: CXX_COMPILER__aud16_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud5/aud16.cpp || cmake_object_order_depends_target_aud16
+build CMakeFiles/aud16.dir/aud_online/aud5/aud16.cpp.obj: CXX_COMPILER__aud16_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud5/aud16.cpp || cmake_object_order_depends_target_aud16
   DEP_FILE = CMakeFiles\aud16.dir\aud_online\aud5\aud16.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud16.dir
@@ -2353,7 +2353,7 @@ build aud16.exe: CXX_EXECUTABLE_LINKER__aud16_Debug CMakeFiles/aud16.dir/aud_onl
 
 build cmake_object_order_depends_target_aud17: phony || .
 
-build CMakeFiles/aud17.dir/aud_online/aud5/aud17.cpp.obj: CXX_COMPILER__aud17_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud5/aud17.cpp || cmake_object_order_depends_target_aud17
+build CMakeFiles/aud17.dir/aud_online/aud5/aud17.cpp.obj: CXX_COMPILER__aud17_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud5/aud17.cpp || cmake_object_order_depends_target_aud17
   DEP_FILE = CMakeFiles\aud17.dir\aud_online\aud5\aud17.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud17.dir
@@ -2389,7 +2389,7 @@ build aud17.exe: CXX_EXECUTABLE_LINKER__aud17_Debug CMakeFiles/aud17.dir/aud_onl
 
 build cmake_object_order_depends_target_aud18: phony || .
 
-build CMakeFiles/aud18.dir/aud_online/aud6/aud18.cpp.obj: CXX_COMPILER__aud18_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud6/aud18.cpp || cmake_object_order_depends_target_aud18
+build CMakeFiles/aud18.dir/aud_online/aud6/aud18.cpp.obj: CXX_COMPILER__aud18_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud6/aud18.cpp || cmake_object_order_depends_target_aud18
   DEP_FILE = CMakeFiles\aud18.dir\aud_online\aud6\aud18.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud18.dir
@@ -2425,7 +2425,7 @@ build aud18.exe: CXX_EXECUTABLE_LINKER__aud18_Debug CMakeFiles/aud18.dir/aud_onl
 
 build cmake_object_order_depends_target_aud19: phony || .
 
-build CMakeFiles/aud19.dir/aud_online/aud6/aud19.cpp.obj: CXX_COMPILER__aud19_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud6/aud19.cpp || cmake_object_order_depends_target_aud19
+build CMakeFiles/aud19.dir/aud_online/aud6/aud19.cpp.obj: CXX_COMPILER__aud19_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud6/aud19.cpp || cmake_object_order_depends_target_aud19
   DEP_FILE = CMakeFiles\aud19.dir\aud_online\aud6\aud19.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud19.dir
@@ -2461,7 +2461,7 @@ build aud19.exe: CXX_EXECUTABLE_LINKER__aud19_Debug CMakeFiles/aud19.dir/aud_onl
 
 build cmake_object_order_depends_target_aud20: phony || .
 
-build CMakeFiles/aud20.dir/aud_online/aud6/aud20.cpp.obj: CXX_COMPILER__aud20_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud6/aud20.cpp || cmake_object_order_depends_target_aud20
+build CMakeFiles/aud20.dir/aud_online/aud6/aud20.cpp.obj: CXX_COMPILER__aud20_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud6/aud20.cpp || cmake_object_order_depends_target_aud20
   DEP_FILE = CMakeFiles\aud20.dir\aud_online\aud6\aud20.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud20.dir
@@ -2497,7 +2497,7 @@ build aud20.exe: CXX_EXECUTABLE_LINKER__aud20_Debug CMakeFiles/aud20.dir/aud_onl
 
 build cmake_object_order_depends_target_aud24: phony || .
 
-build CMakeFiles/aud24.dir/aud_online/aud6/aud24.cpp.obj: CXX_COMPILER__aud24_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud6/aud24.cpp || cmake_object_order_depends_target_aud24
+build CMakeFiles/aud24.dir/aud_online/aud6/aud24.cpp.obj: CXX_COMPILER__aud24_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud6/aud24.cpp || cmake_object_order_depends_target_aud24
   DEP_FILE = CMakeFiles\aud24.dir\aud_online\aud6\aud24.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud24.dir
@@ -2533,7 +2533,7 @@ build aud24.exe: CXX_EXECUTABLE_LINKER__aud24_Debug CMakeFiles/aud24.dir/aud_onl
 
 build cmake_object_order_depends_target_aud25: phony || .
 
-build CMakeFiles/aud25.dir/aud_online/aud7/aud25.cpp.obj: CXX_COMPILER__aud25_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud7/aud25.cpp || cmake_object_order_depends_target_aud25
+build CMakeFiles/aud25.dir/aud_online/aud7/aud25.cpp.obj: CXX_COMPILER__aud25_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud7/aud25.cpp || cmake_object_order_depends_target_aud25
   DEP_FILE = CMakeFiles\aud25.dir\aud_online\aud7\aud25.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud25.dir
@@ -2569,7 +2569,7 @@ build aud25.exe: CXX_EXECUTABLE_LINKER__aud25_Debug CMakeFiles/aud25.dir/aud_onl
 
 build cmake_object_order_depends_target_aud26: phony || .
 
-build CMakeFiles/aud26.dir/aud_online/aud7/aud26.cpp.obj: CXX_COMPILER__aud26_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud7/aud26.cpp || cmake_object_order_depends_target_aud26
+build CMakeFiles/aud26.dir/aud_online/aud7/aud26.cpp.obj: CXX_COMPILER__aud26_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud7/aud26.cpp || cmake_object_order_depends_target_aud26
   DEP_FILE = CMakeFiles\aud26.dir\aud_online\aud7\aud26.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud26.dir
@@ -2605,7 +2605,7 @@ build aud26.exe: CXX_EXECUTABLE_LINKER__aud26_Debug CMakeFiles/aud26.dir/aud_onl
 
 build cmake_object_order_depends_target_aud27: phony || .
 
-build CMakeFiles/aud27.dir/aud_online/aud7/aud27.cpp.obj: CXX_COMPILER__aud27_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud7/aud27.cpp || cmake_object_order_depends_target_aud27
+build CMakeFiles/aud27.dir/aud_online/aud7/aud27.cpp.obj: CXX_COMPILER__aud27_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud7/aud27.cpp || cmake_object_order_depends_target_aud27
   DEP_FILE = CMakeFiles\aud27.dir\aud_online\aud7\aud27.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud27.dir
@@ -2641,7 +2641,7 @@ build aud27.exe: CXX_EXECUTABLE_LINKER__aud27_Debug CMakeFiles/aud27.dir/aud_onl
 
 build cmake_object_order_depends_target_aud28: phony || .
 
-build CMakeFiles/aud28.dir/aud_online/aud8/aud28.cpp.obj: CXX_COMPILER__aud28_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud8/aud28.cpp || cmake_object_order_depends_target_aud28
+build CMakeFiles/aud28.dir/aud_online/aud8/aud28.cpp.obj: CXX_COMPILER__aud28_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud8/aud28.cpp || cmake_object_order_depends_target_aud28
   DEP_FILE = CMakeFiles\aud28.dir\aud_online\aud8\aud28.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud28.dir
@@ -2677,7 +2677,7 @@ build aud28.exe: CXX_EXECUTABLE_LINKER__aud28_Debug CMakeFiles/aud28.dir/aud_onl
 
 build cmake_object_order_depends_target_aud29: phony || .
 
-build CMakeFiles/aud29.dir/aud_online/aud8/aud29.cpp.obj: CXX_COMPILER__aud29_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud8/aud29.cpp || cmake_object_order_depends_target_aud29
+build CMakeFiles/aud29.dir/aud_online/aud8/aud29.cpp.obj: CXX_COMPILER__aud29_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud8/aud29.cpp || cmake_object_order_depends_target_aud29
   DEP_FILE = CMakeFiles\aud29.dir\aud_online\aud8\aud29.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud29.dir
@@ -2713,7 +2713,7 @@ build aud29.exe: CXX_EXECUTABLE_LINKER__aud29_Debug CMakeFiles/aud29.dir/aud_onl
 
 build cmake_object_order_depends_target_aud30: phony || .
 
-build CMakeFiles/aud30.dir/aud_online/aud8/aud30.cpp.obj: CXX_COMPILER__aud30_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud8/aud30.cpp || cmake_object_order_depends_target_aud30
+build CMakeFiles/aud30.dir/aud_online/aud8/aud30.cpp.obj: CXX_COMPILER__aud30_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud8/aud30.cpp || cmake_object_order_depends_target_aud30
   DEP_FILE = CMakeFiles\aud30.dir\aud_online\aud8\aud30.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud30.dir
@@ -2749,7 +2749,7 @@ build aud30.exe: CXX_EXECUTABLE_LINKER__aud30_Debug CMakeFiles/aud30.dir/aud_onl
 
 build cmake_object_order_depends_target_aud21: phony || .
 
-build CMakeFiles/aud21.dir/aud_online/kvali-sept/aud21.cpp.obj: CXX_COMPILER__aud21_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kvali-sept/aud21.cpp || cmake_object_order_depends_target_aud21
+build CMakeFiles/aud21.dir/aud_online/kvali-sept/aud21.cpp.obj: CXX_COMPILER__aud21_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kvali-sept/aud21.cpp || cmake_object_order_depends_target_aud21
   DEP_FILE = CMakeFiles\aud21.dir\aud_online\kvali-sept\aud21.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud21.dir
@@ -2785,7 +2785,7 @@ build aud21.exe: CXX_EXECUTABLE_LINKER__aud21_Debug CMakeFiles/aud21.dir/aud_onl
 
 build cmake_object_order_depends_target_aud22: phony || .
 
-build CMakeFiles/aud22.dir/aud_online/kvali-sept/aud22.cpp.obj: CXX_COMPILER__aud22_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kvali-sept/aud22.cpp || cmake_object_order_depends_target_aud22
+build CMakeFiles/aud22.dir/aud_online/kvali-sept/aud22.cpp.obj: CXX_COMPILER__aud22_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kvali-sept/aud22.cpp || cmake_object_order_depends_target_aud22
   DEP_FILE = CMakeFiles\aud22.dir\aud_online\kvali-sept\aud22.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud22.dir
@@ -2821,7 +2821,7 @@ build aud22.exe: CXX_EXECUTABLE_LINKER__aud22_Debug CMakeFiles/aud22.dir/aud_onl
 
 build cmake_object_order_depends_target_aud23: phony || .
 
-build CMakeFiles/aud23.dir/aud_online/kvali-sept/aud23.cpp.obj: CXX_COMPILER__aud23_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kvali-sept/aud23.cpp || cmake_object_order_depends_target_aud23
+build CMakeFiles/aud23.dir/aud_online/kvali-sept/aud23.cpp.obj: CXX_COMPILER__aud23_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kvali-sept/aud23.cpp || cmake_object_order_depends_target_aud23
   DEP_FILE = CMakeFiles\aud23.dir\aud_online\kvali-sept\aud23.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud23.dir
@@ -2857,7 +2857,7 @@ build aud23.exe: CXX_EXECUTABLE_LINKER__aud23_Debug CMakeFiles/aud23.dir/aud_onl
 
 build cmake_object_order_depends_target_aud11: phony || .
 
-build CMakeFiles/aud11.dir/aud_online/kolokviumski/aud11.cpp.obj: CXX_COMPILER__aud11_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kolokviumski/aud11.cpp || cmake_object_order_depends_target_aud11
+build CMakeFiles/aud11.dir/aud_online/kolokviumski/aud11.cpp.obj: CXX_COMPILER__aud11_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kolokviumski/aud11.cpp || cmake_object_order_depends_target_aud11
   DEP_FILE = CMakeFiles\aud11.dir\aud_online\kolokviumski\aud11.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud11.dir
@@ -2893,7 +2893,7 @@ build aud11.exe: CXX_EXECUTABLE_LINKER__aud11_Debug CMakeFiles/aud11.dir/aud_onl
 
 build cmake_object_order_depends_target_aud12: phony || .
 
-build CMakeFiles/aud12.dir/aud_online/kolokviumski/aud12.cpp.obj: CXX_COMPILER__aud12_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kolokviumski/aud12.cpp || cmake_object_order_depends_target_aud12
+build CMakeFiles/aud12.dir/aud_online/kolokviumski/aud12.cpp.obj: CXX_COMPILER__aud12_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kolokviumski/aud12.cpp || cmake_object_order_depends_target_aud12
   DEP_FILE = CMakeFiles\aud12.dir\aud_online\kolokviumski\aud12.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud12.dir
@@ -2929,7 +2929,7 @@ build aud12.exe: CXX_EXECUTABLE_LINKER__aud12_Debug CMakeFiles/aud12.dir/aud_onl
 
 build cmake_object_order_depends_target_aud13: phony || .
 
-build CMakeFiles/aud13.dir/aud_online/kolokviumski/aud13.cpp.obj: CXX_COMPILER__aud13_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kolokviumski/aud13.cpp || cmake_object_order_depends_target_aud13
+build CMakeFiles/aud13.dir/aud_online/kolokviumski/aud13.cpp.obj: CXX_COMPILER__aud13_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kolokviumski/aud13.cpp || cmake_object_order_depends_target_aud13
   DEP_FILE = CMakeFiles\aud13.dir\aud_online\kolokviumski\aud13.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud13.dir
@@ -2965,7 +2965,7 @@ build aud13.exe: CXX_EXECUTABLE_LINKER__aud13_Debug CMakeFiles/aud13.dir/aud_onl
 
 build cmake_object_order_depends_target_aud31: phony || .
 
-build CMakeFiles/aud31.dir/aud_online/kolokviumski/aud31.cpp.obj: CXX_COMPILER__aud31_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kolokviumski/aud31.cpp || cmake_object_order_depends_target_aud31
+build CMakeFiles/aud31.dir/aud_online/kolokviumski/aud31.cpp.obj: CXX_COMPILER__aud31_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kolokviumski/aud31.cpp || cmake_object_order_depends_target_aud31
   DEP_FILE = CMakeFiles\aud31.dir\aud_online\kolokviumski\aud31.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud31.dir
@@ -3001,7 +3001,7 @@ build aud31.exe: CXX_EXECUTABLE_LINKER__aud31_Debug CMakeFiles/aud31.dir/aud_onl
 
 build cmake_object_order_depends_target_aud32: phony || .
 
-build CMakeFiles/aud32.dir/aud_online/kolokviumski/aud32.cpp.obj: CXX_COMPILER__aud32_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/kolokviumski/aud32.cpp || cmake_object_order_depends_target_aud32
+build CMakeFiles/aud32.dir/aud_online/kolokviumski/aud32.cpp.obj: CXX_COMPILER__aud32_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/kolokviumski/aud32.cpp || cmake_object_order_depends_target_aud32
   DEP_FILE = CMakeFiles\aud32.dir\aud_online\kolokviumski\aud32.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud32.dir
@@ -3037,7 +3037,7 @@ build aud32.exe: CXX_EXECUTABLE_LINKER__aud32_Debug CMakeFiles/aud32.dir/aud_onl
 
 build cmake_object_order_depends_target_aud33: phony || .
 
-build CMakeFiles/aud33.dir/aud_online/labs_courses/aud33.cpp.obj: CXX_COMPILER__aud33_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud33.cpp || cmake_object_order_depends_target_aud33
+build CMakeFiles/aud33.dir/aud_online/labs_courses/aud33.cpp.obj: CXX_COMPILER__aud33_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud33.cpp || cmake_object_order_depends_target_aud33
   DEP_FILE = CMakeFiles\aud33.dir\aud_online\labs_courses\aud33.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud33.dir
@@ -3073,7 +3073,7 @@ build aud33.exe: CXX_EXECUTABLE_LINKER__aud33_Debug CMakeFiles/aud33.dir/aud_onl
 
 build cmake_object_order_depends_target_aud34: phony || .
 
-build CMakeFiles/aud34.dir/aud_online/labs_courses/aud34.cpp.obj: CXX_COMPILER__aud34_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud34.cpp || cmake_object_order_depends_target_aud34
+build CMakeFiles/aud34.dir/aud_online/labs_courses/aud34.cpp.obj: CXX_COMPILER__aud34_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud34.cpp || cmake_object_order_depends_target_aud34
   DEP_FILE = CMakeFiles\aud34.dir\aud_online\labs_courses\aud34.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud34.dir
@@ -3109,7 +3109,7 @@ build aud34.exe: CXX_EXECUTABLE_LINKER__aud34_Debug CMakeFiles/aud34.dir/aud_onl
 
 build cmake_object_order_depends_target_aud35: phony || .
 
-build CMakeFiles/aud35.dir/aud_online/labs_courses/aud35.cpp.obj: CXX_COMPILER__aud35_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud35.cpp || cmake_object_order_depends_target_aud35
+build CMakeFiles/aud35.dir/aud_online/labs_courses/aud35.cpp.obj: CXX_COMPILER__aud35_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud35.cpp || cmake_object_order_depends_target_aud35
   DEP_FILE = CMakeFiles\aud35.dir\aud_online\labs_courses\aud35.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud35.dir
@@ -3145,7 +3145,7 @@ build aud35.exe: CXX_EXECUTABLE_LINKER__aud35_Debug CMakeFiles/aud35.dir/aud_onl
 
 build cmake_object_order_depends_target_aud36: phony || .
 
-build CMakeFiles/aud36.dir/aud_online/labs_courses/aud36.cpp.obj: CXX_COMPILER__aud36_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud36.cpp || cmake_object_order_depends_target_aud36
+build CMakeFiles/aud36.dir/aud_online/labs_courses/aud36.cpp.obj: CXX_COMPILER__aud36_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud36.cpp || cmake_object_order_depends_target_aud36
   DEP_FILE = CMakeFiles\aud36.dir\aud_online\labs_courses\aud36.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud36.dir
@@ -3181,7 +3181,7 @@ build aud36.exe: CXX_EXECUTABLE_LINKER__aud36_Debug CMakeFiles/aud36.dir/aud_onl
 
 build cmake_object_order_depends_target_aud37: phony || .
 
-build CMakeFiles/aud37.dir/aud_online/labs_courses/aud37.cpp.obj: CXX_COMPILER__aud37_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud37.cpp || cmake_object_order_depends_target_aud37
+build CMakeFiles/aud37.dir/aud_online/labs_courses/aud37.cpp.obj: CXX_COMPILER__aud37_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud37.cpp || cmake_object_order_depends_target_aud37
   DEP_FILE = CMakeFiles\aud37.dir\aud_online\labs_courses\aud37.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud37.dir
@@ -3217,7 +3217,7 @@ build aud37.exe: CXX_EXECUTABLE_LINKER__aud37_Debug CMakeFiles/aud37.dir/aud_onl
 
 build cmake_object_order_depends_target_aud38: phony || .
 
-build CMakeFiles/aud38.dir/aud_online/labs_courses/aud38.cpp.obj: CXX_COMPILER__aud38_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud38.cpp || cmake_object_order_depends_target_aud38
+build CMakeFiles/aud38.dir/aud_online/labs_courses/aud38.cpp.obj: CXX_COMPILER__aud38_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud38.cpp || cmake_object_order_depends_target_aud38
   DEP_FILE = CMakeFiles\aud38.dir\aud_online\labs_courses\aud38.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud38.dir
@@ -3253,7 +3253,7 @@ build aud38.exe: CXX_EXECUTABLE_LINKER__aud38_Debug CMakeFiles/aud38.dir/aud_onl
 
 build cmake_object_order_depends_target_aud51: phony || .
 
-build CMakeFiles/aud51.dir/aud_online/labs_courses/aud51.cpp.obj: CXX_COMPILER__aud51_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud51.cpp || cmake_object_order_depends_target_aud51
+build CMakeFiles/aud51.dir/aud_online/labs_courses/aud51.cpp.obj: CXX_COMPILER__aud51_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud51.cpp || cmake_object_order_depends_target_aud51
   DEP_FILE = CMakeFiles\aud51.dir\aud_online\labs_courses\aud51.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud51.dir
@@ -3289,7 +3289,7 @@ build aud51.exe: CXX_EXECUTABLE_LINKER__aud51_Debug CMakeFiles/aud51.dir/aud_onl
 
 build cmake_object_order_depends_target_aud52: phony || .
 
-build CMakeFiles/aud52.dir/aud_online/labs_courses/aud52.cpp.obj: CXX_COMPILER__aud52_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud52.cpp || cmake_object_order_depends_target_aud52
+build CMakeFiles/aud52.dir/aud_online/labs_courses/aud52.cpp.obj: CXX_COMPILER__aud52_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud52.cpp || cmake_object_order_depends_target_aud52
   DEP_FILE = CMakeFiles\aud52.dir\aud_online\labs_courses\aud52.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud52.dir
@@ -3325,7 +3325,7 @@ build aud52.exe: CXX_EXECUTABLE_LINKER__aud52_Debug CMakeFiles/aud52.dir/aud_onl
 
 build cmake_object_order_depends_target_aud53: phony || .
 
-build CMakeFiles/aud53.dir/aud_online/labs_courses/aud53.cpp.obj: CXX_COMPILER__aud53_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud53.cpp || cmake_object_order_depends_target_aud53
+build CMakeFiles/aud53.dir/aud_online/labs_courses/aud53.cpp.obj: CXX_COMPILER__aud53_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud53.cpp || cmake_object_order_depends_target_aud53
   DEP_FILE = CMakeFiles\aud53.dir\aud_online\labs_courses\aud53.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud53.dir
@@ -3361,7 +3361,7 @@ build aud53.exe: CXX_EXECUTABLE_LINKER__aud53_Debug CMakeFiles/aud53.dir/aud_onl
 
 build cmake_object_order_depends_target_aud54: phony || .
 
-build CMakeFiles/aud54.dir/aud_online/labs_courses/aud54.cpp.obj: CXX_COMPILER__aud54_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud54.cpp || cmake_object_order_depends_target_aud54
+build CMakeFiles/aud54.dir/aud_online/labs_courses/aud54.cpp.obj: CXX_COMPILER__aud54_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud54.cpp || cmake_object_order_depends_target_aud54
   DEP_FILE = CMakeFiles\aud54.dir\aud_online\labs_courses\aud54.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud54.dir
@@ -3397,7 +3397,7 @@ build aud54.exe: CXX_EXECUTABLE_LINKER__aud54_Debug CMakeFiles/aud54.dir/aud_onl
 
 build cmake_object_order_depends_target_aud55: phony || .
 
-build CMakeFiles/aud55.dir/aud_online/labs_courses/aud55.cpp.obj: CXX_COMPILER__aud55_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud55.cpp || cmake_object_order_depends_target_aud55
+build CMakeFiles/aud55.dir/aud_online/labs_courses/aud55.cpp.obj: CXX_COMPILER__aud55_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud55.cpp || cmake_object_order_depends_target_aud55
   DEP_FILE = CMakeFiles\aud55.dir\aud_online\labs_courses\aud55.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud55.dir
@@ -3433,7 +3433,7 @@ build aud55.exe: CXX_EXECUTABLE_LINKER__aud55_Debug CMakeFiles/aud55.dir/aud_onl
 
 build cmake_object_order_depends_target_aud56: phony || .
 
-build CMakeFiles/aud56.dir/aud_online/labs_courses/aud56.cpp.obj: CXX_COMPILER__aud56_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud56.cpp || cmake_object_order_depends_target_aud56
+build CMakeFiles/aud56.dir/aud_online/labs_courses/aud56.cpp.obj: CXX_COMPILER__aud56_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud56.cpp || cmake_object_order_depends_target_aud56
   DEP_FILE = CMakeFiles\aud56.dir\aud_online\labs_courses\aud56.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud56.dir
@@ -3469,7 +3469,7 @@ build aud56.exe: CXX_EXECUTABLE_LINKER__aud56_Debug CMakeFiles/aud56.dir/aud_onl
 
 build cmake_object_order_depends_target_aud57: phony || .
 
-build CMakeFiles/aud57.dir/aud_online/labs_courses/aud57.cpp.obj: CXX_COMPILER__aud57_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud57.cpp || cmake_object_order_depends_target_aud57
+build CMakeFiles/aud57.dir/aud_online/labs_courses/aud57.cpp.obj: CXX_COMPILER__aud57_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud57.cpp || cmake_object_order_depends_target_aud57
   DEP_FILE = CMakeFiles\aud57.dir\aud_online\labs_courses\aud57.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud57.dir
@@ -3505,7 +3505,7 @@ build aud57.exe: CXX_EXECUTABLE_LINKER__aud57_Debug CMakeFiles/aud57.dir/aud_onl
 
 build cmake_object_order_depends_target_aud58: phony || .
 
-build CMakeFiles/aud58.dir/aud_online/labs_courses/aud58.cpp.obj: CXX_COMPILER__aud58_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud58.cpp || cmake_object_order_depends_target_aud58
+build CMakeFiles/aud58.dir/aud_online/labs_courses/aud58.cpp.obj: CXX_COMPILER__aud58_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud58.cpp || cmake_object_order_depends_target_aud58
   DEP_FILE = CMakeFiles\aud58.dir\aud_online\labs_courses\aud58.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud58.dir
@@ -3541,7 +3541,7 @@ build aud58.exe: CXX_EXECUTABLE_LINKER__aud58_Debug CMakeFiles/aud58.dir/aud_onl
 
 build cmake_object_order_depends_target_aud59: phony || .
 
-build CMakeFiles/aud59.dir/aud_online/labs_courses/aud59.cpp.obj: CXX_COMPILER__aud59_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud59.cpp || cmake_object_order_depends_target_aud59
+build CMakeFiles/aud59.dir/aud_online/labs_courses/aud59.cpp.obj: CXX_COMPILER__aud59_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud59.cpp || cmake_object_order_depends_target_aud59
   DEP_FILE = CMakeFiles\aud59.dir\aud_online\labs_courses\aud59.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud59.dir
@@ -3577,7 +3577,7 @@ build aud59.exe: CXX_EXECUTABLE_LINKER__aud59_Debug CMakeFiles/aud59.dir/aud_onl
 
 build cmake_object_order_depends_target_aud60: phony || .
 
-build CMakeFiles/aud60.dir/aud_online/labs_courses/aud60.cpp.obj: CXX_COMPILER__aud60_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud60.cpp || cmake_object_order_depends_target_aud60
+build CMakeFiles/aud60.dir/aud_online/labs_courses/aud60.cpp.obj: CXX_COMPILER__aud60_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud60.cpp || cmake_object_order_depends_target_aud60
   DEP_FILE = CMakeFiles\aud60.dir\aud_online\labs_courses\aud60.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud60.dir
@@ -3613,7 +3613,7 @@ build aud60.exe: CXX_EXECUTABLE_LINKER__aud60_Debug CMakeFiles/aud60.dir/aud_onl
 
 build cmake_object_order_depends_target_aud61: phony || .
 
-build CMakeFiles/aud61.dir/aud_online/labs_courses/aud61.cpp.obj: CXX_COMPILER__aud61_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud61.cpp || cmake_object_order_depends_target_aud61
+build CMakeFiles/aud61.dir/aud_online/labs_courses/aud61.cpp.obj: CXX_COMPILER__aud61_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud61.cpp || cmake_object_order_depends_target_aud61
   DEP_FILE = CMakeFiles\aud61.dir\aud_online\labs_courses\aud61.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud61.dir
@@ -3649,7 +3649,7 @@ build aud61.exe: CXX_EXECUTABLE_LINKER__aud61_Debug CMakeFiles/aud61.dir/aud_onl
 
 build cmake_object_order_depends_target_aud62: phony || .
 
-build CMakeFiles/aud62.dir/aud_online/labs_courses/aud62.cpp.obj: CXX_COMPILER__aud62_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/labs_courses/aud62.cpp || cmake_object_order_depends_target_aud62
+build CMakeFiles/aud62.dir/aud_online/labs_courses/aud62.cpp.obj: CXX_COMPILER__aud62_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/labs_courses/aud62.cpp || cmake_object_order_depends_target_aud62
   DEP_FILE = CMakeFiles\aud62.dir\aud_online\labs_courses\aud62.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud62.dir
@@ -3685,7 +3685,7 @@ build aud62.exe: CXX_EXECUTABLE_LINKER__aud62_Debug CMakeFiles/aud62.dir/aud_onl
 
 build cmake_object_order_depends_target_aud39: phony || .
 
-build CMakeFiles/aud39.dir/aud_online/aud9-files/aud39.cpp.obj: CXX_COMPILER__aud39_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud39.cpp || cmake_object_order_depends_target_aud39
+build CMakeFiles/aud39.dir/aud_online/aud9-files/aud39.cpp.obj: CXX_COMPILER__aud39_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud39.cpp || cmake_object_order_depends_target_aud39
   DEP_FILE = CMakeFiles\aud39.dir\aud_online\aud9-files\aud39.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud39.dir
@@ -3721,7 +3721,7 @@ build aud39.exe: CXX_EXECUTABLE_LINKER__aud39_Debug CMakeFiles/aud39.dir/aud_onl
 
 build cmake_object_order_depends_target_aud40: phony || .
 
-build CMakeFiles/aud40.dir/aud_online/aud9-files/aud40.cpp.obj: CXX_COMPILER__aud40_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud40.cpp || cmake_object_order_depends_target_aud40
+build CMakeFiles/aud40.dir/aud_online/aud9-files/aud40.cpp.obj: CXX_COMPILER__aud40_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud40.cpp || cmake_object_order_depends_target_aud40
   DEP_FILE = CMakeFiles\aud40.dir\aud_online\aud9-files\aud40.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud40.dir
@@ -3757,7 +3757,7 @@ build aud40.exe: CXX_EXECUTABLE_LINKER__aud40_Debug CMakeFiles/aud40.dir/aud_onl
 
 build cmake_object_order_depends_target_aud41: phony || .
 
-build CMakeFiles/aud41.dir/aud_online/aud9-files/aud41.cpp.obj: CXX_COMPILER__aud41_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud41.cpp || cmake_object_order_depends_target_aud41
+build CMakeFiles/aud41.dir/aud_online/aud9-files/aud41.cpp.obj: CXX_COMPILER__aud41_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud41.cpp || cmake_object_order_depends_target_aud41
   DEP_FILE = CMakeFiles\aud41.dir\aud_online\aud9-files\aud41.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud41.dir
@@ -3793,7 +3793,7 @@ build aud41.exe: CXX_EXECUTABLE_LINKER__aud41_Debug CMakeFiles/aud41.dir/aud_onl
 
 build cmake_object_order_depends_target_aud42: phony || .
 
-build CMakeFiles/aud42.dir/aud_online/aud9-files/aud42.cpp.obj: CXX_COMPILER__aud42_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud42.cpp || cmake_object_order_depends_target_aud42
+build CMakeFiles/aud42.dir/aud_online/aud9-files/aud42.cpp.obj: CXX_COMPILER__aud42_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud42.cpp || cmake_object_order_depends_target_aud42
   DEP_FILE = CMakeFiles\aud42.dir\aud_online\aud9-files\aud42.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud42.dir
@@ -3829,7 +3829,7 @@ build aud42.exe: CXX_EXECUTABLE_LINKER__aud42_Debug CMakeFiles/aud42.dir/aud_onl
 
 build cmake_object_order_depends_target_aud43: phony || .
 
-build CMakeFiles/aud43.dir/aud_online/aud9-files/aud43.cpp.obj: CXX_COMPILER__aud43_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud43.cpp || cmake_object_order_depends_target_aud43
+build CMakeFiles/aud43.dir/aud_online/aud9-files/aud43.cpp.obj: CXX_COMPILER__aud43_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud43.cpp || cmake_object_order_depends_target_aud43
   DEP_FILE = CMakeFiles\aud43.dir\aud_online\aud9-files\aud43.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud43.dir
@@ -3865,7 +3865,7 @@ build aud43.exe: CXX_EXECUTABLE_LINKER__aud43_Debug CMakeFiles/aud43.dir/aud_onl
 
 build cmake_object_order_depends_target_aud44: phony || .
 
-build CMakeFiles/aud44.dir/aud_online/aud9-files/aud44.cpp.obj: CXX_COMPILER__aud44_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud44.cpp || cmake_object_order_depends_target_aud44
+build CMakeFiles/aud44.dir/aud_online/aud9-files/aud44.cpp.obj: CXX_COMPILER__aud44_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud44.cpp || cmake_object_order_depends_target_aud44
   DEP_FILE = CMakeFiles\aud44.dir\aud_online\aud9-files\aud44.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud44.dir
@@ -3901,7 +3901,7 @@ build aud44.exe: CXX_EXECUTABLE_LINKER__aud44_Debug CMakeFiles/aud44.dir/aud_onl
 
 build cmake_object_order_depends_target_aud45: phony || .
 
-build CMakeFiles/aud45.dir/aud_online/aud9-files/aud45.cpp.obj: CXX_COMPILER__aud45_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud45.cpp || cmake_object_order_depends_target_aud45
+build CMakeFiles/aud45.dir/aud_online/aud9-files/aud45.cpp.obj: CXX_COMPILER__aud45_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud45.cpp || cmake_object_order_depends_target_aud45
   DEP_FILE = CMakeFiles\aud45.dir\aud_online\aud9-files\aud45.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud45.dir
@@ -3937,7 +3937,7 @@ build aud45.exe: CXX_EXECUTABLE_LINKER__aud45_Debug CMakeFiles/aud45.dir/aud_onl
 
 build cmake_object_order_depends_target_aud46: phony || .
 
-build CMakeFiles/aud46.dir/aud_online/aud9-files/aud46.cpp.obj: CXX_COMPILER__aud46_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud46.cpp || cmake_object_order_depends_target_aud46
+build CMakeFiles/aud46.dir/aud_online/aud9-files/aud46.cpp.obj: CXX_COMPILER__aud46_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud46.cpp || cmake_object_order_depends_target_aud46
   DEP_FILE = CMakeFiles\aud46.dir\aud_online\aud9-files\aud46.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud46.dir
@@ -3973,7 +3973,7 @@ build aud46.exe: CXX_EXECUTABLE_LINKER__aud46_Debug CMakeFiles/aud46.dir/aud_onl
 
 build cmake_object_order_depends_target_aud47: phony || .
 
-build CMakeFiles/aud47.dir/aud_online/aud9-files/aud47.cpp.obj: CXX_COMPILER__aud47_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud47.cpp || cmake_object_order_depends_target_aud47
+build CMakeFiles/aud47.dir/aud_online/aud9-files/aud47.cpp.obj: CXX_COMPILER__aud47_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud47.cpp || cmake_object_order_depends_target_aud47
   DEP_FILE = CMakeFiles\aud47.dir\aud_online\aud9-files\aud47.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud47.dir
@@ -4009,7 +4009,7 @@ build aud47.exe: CXX_EXECUTABLE_LINKER__aud47_Debug CMakeFiles/aud47.dir/aud_onl
 
 build cmake_object_order_depends_target_aud48: phony || .
 
-build CMakeFiles/aud48.dir/aud_online/aud9-files/aud48.cpp.obj: CXX_COMPILER__aud48_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud48.cpp || cmake_object_order_depends_target_aud48
+build CMakeFiles/aud48.dir/aud_online/aud9-files/aud48.cpp.obj: CXX_COMPILER__aud48_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud48.cpp || cmake_object_order_depends_target_aud48
   DEP_FILE = CMakeFiles\aud48.dir\aud_online\aud9-files\aud48.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud48.dir
@@ -4045,7 +4045,7 @@ build aud48.exe: CXX_EXECUTABLE_LINKER__aud48_Debug CMakeFiles/aud48.dir/aud_onl
 
 build cmake_object_order_depends_target_aud49: phony || .
 
-build CMakeFiles/aud49.dir/aud_online/aud9-files/aud49.cpp.obj: CXX_COMPILER__aud49_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud49.cpp || cmake_object_order_depends_target_aud49
+build CMakeFiles/aud49.dir/aud_online/aud9-files/aud49.cpp.obj: CXX_COMPILER__aud49_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud49.cpp || cmake_object_order_depends_target_aud49
   DEP_FILE = CMakeFiles\aud49.dir\aud_online\aud9-files\aud49.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud49.dir
@@ -4081,7 +4081,7 @@ build aud49.exe: CXX_EXECUTABLE_LINKER__aud49_Debug CMakeFiles/aud49.dir/aud_onl
 
 build cmake_object_order_depends_target_aud50: phony || .
 
-build CMakeFiles/aud50.dir/aud_online/aud9-files/aud50.cpp.obj: CXX_COMPILER__aud50_unscanned_Debug D$:/documents/CLASSES/oop/oop23-24/aud_online/aud9-files/aud50.cpp || cmake_object_order_depends_target_aud50
+build CMakeFiles/aud50.dir/aud_online/aud9-files/aud50.cpp.obj: CXX_COMPILER__aud50_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/aud_online/aud9-files/aud50.cpp || cmake_object_order_depends_target_aud50
   DEP_FILE = CMakeFiles\aud50.dir\aud_online\aud9-files\aud50.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud50.dir
@@ -4113,7 +4113,7 @@ build aud50.exe: CXX_EXECUTABLE_LINKER__aud50_Debug CMakeFiles/aud50.dir/aud_onl
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\documents\CLASSES\oop\oop23-24\cmake-build-debug && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\documents\CLASSES\oop\OOP-24-25\cmake-build-debug && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -4124,7 +4124,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\documents\CLASSES\oop\oop23-24\cmake-build-debug && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\documents\CLASSES\oop\oop23-24 -BD:\documents\CLASSES\oop\oop23-24\cmake-build-debug"
+  COMMAND = C:\Windows\system32\cmd.exe /C "cd /D D:\documents\CLASSES\oop\OOP-24-25\cmake-build-debug && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -SD:\documents\CLASSES\oop\OOP-24-25 -BD:\documents\CLASSES\oop\OOP-24-25\cmake-build-debug"
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -4366,7 +4366,7 @@ build oop23_24: phony oop23_24.exe
 # =============================================================================
 
 #############################################
-# Folder: D:/documents/CLASSES/oop/oop23-24/cmake-build-debug
+# Folder: D:/documents/CLASSES/oop/OOP-24-25/cmake-build-debug
 
 build all: phony oop23_24.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.exe ispitna5.exe ispitna6.exe ispitna7.exe ispitna8.exe ispitna9.exe ispitna10.exe ispitna11.exe ispitna12.exe ispitna13.exe ispitna14.exe ispitna15.exe ispitna16.exe ispitna17.exe ispitna18.exe ispitna19.exe ispitna20.exe ispitna21.exe ispitna22.exe ispitna23.exe ispitna24.exe ispitna25.exe ispitna26.exe ispitna27.exe ispitna28.exe ispitna29.exe ispitna30.exe ispitna31.exe ispitna32.exe ispitna33.exe ispitna34.exe ispitna35.exe ispitna36.exe ispitna37.exe ispitna38.exe ispitna39.exe ispitna40.exe ispitna41.exe ispitna42.exe ispitna43.exe ispitna44.exe ispitna45.exe ispitna46.exe ispitna47.exe ispitna48.exe ispitna49.exe ispitna50.exe aud1.exe aud2.exe aud3.exe aud4.exe aud5.exe aud6.exe aud7.exe aud8.exe aud9.exe aud10.exe aud14.exe aud15.exe aud16.exe aud17.exe aud18.exe aud19.exe aud20.exe aud24.exe aud25.exe aud26.exe aud27.exe aud28.exe aud29.exe aud30.exe aud21.exe aud22.exe aud23.exe aud11.exe aud12.exe aud13.exe aud31.exe aud32.exe aud33.exe aud34.exe aud35.exe aud36.exe aud37.exe aud38.exe aud51.exe aud52.exe aud53.exe aud54.exe aud55.exe aud56.exe aud57.exe aud58.exe aud59.exe aud60.exe aud61.exe aud62.exe aud39.exe aud40.exe aud41.exe aud42.exe aud43.exe aud44.exe aud45.exe aud46.exe aud47.exe aud48.exe aud49.exe aud50.exe
 
@@ -4377,14 +4377,14 @@ build all: phony oop23_24.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.ex
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/oop23-24/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/OOP-24-25/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/oop23-24/CMakeLists.txt: phony
+build C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/OOP-24-25/CMakeLists.txt: phony
 
 
 #############################################

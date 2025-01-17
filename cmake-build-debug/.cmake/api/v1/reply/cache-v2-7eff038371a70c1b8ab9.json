@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/documents/CLASSES/oop/oop23-24/cmake-build-debug"
+			"value" : "d:/documents/CLASSES/oop/OOP-24-25/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/documents/CLASSES/oop/oop23-24/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/documents/CLASSES/oop/OOP-24-25/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/documents/CLASSES/oop/oop23-24"
+			"value" : "D:/documents/CLASSES/oop/OOP-24-25"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/documents/CLASSES/oop/oop23-24/cmake-build-debug"
+			"value" : "D:/documents/CLASSES/oop/OOP-24-25/cmake-build-debug"
 		},
 		{
 			"name" : "oop23_24_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/documents/CLASSES/oop/oop23-24"
+			"value" : "D:/documents/CLASSES/oop/OOP-24-25"
 		}
 	],
 	"kind" : "cache",
