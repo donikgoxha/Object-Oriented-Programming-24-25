@@ -1,110 +1,116 @@
 #include <iostream>
-#include <cstring>
+#include <string>
 using namespace std;
-//zad1 ispitni/kolokviumski eng
 
 class AlcoholicDrink {
 protected:
-    char name[100];
-    char origin[100];
-    float percentOfAlc;
+    string name;
+    string country;
+    float alcoholPercent;
     float basePrice;
-    static int discount;
+    static int discount; // Shared among all instances
 
 public:
-    AlcoholicDrink(float percent = 0.0, const char *name = "", const char *origin = "", float basePrice = 0.0) {
-        this->percentOfAlc = percent;
-        strcpy(this->name, name);
-        strcpy(this->origin, origin);
+    AlcoholicDrink(float alcoholPercent, const string &name, const string &country, float basePrice) {
+        this->alcoholPercent = alcoholPercent;
+        this->name = name;
+        this->country = country;
         this->basePrice = basePrice;
+    }
+
+    virtual ~AlcoholicDrink() {
     }
 
     virtual float computePrice() const = 0;
 
+    virtual float getDisplayPrice() const {
+        return computePrice();
+    }
+
+    friend ostream &operator<<(ostream &out, const AlcoholicDrink &ad) {
+        out << ad.name << " " << ad.country << " " << ad.getDisplayPrice();
+        return out;
+    }
+
+    bool operator<(const AlcoholicDrink &other) const {
+        return getDisplayPrice() < other.getDisplayPrice();
+    }
 
     static void changeDiscount(int d) {
         discount = d;
     }
 
-    virtual ~AlcoholicDrink() = default;
-
-    bool operator<(const AlcoholicDrink &other) const {
-        return this->computePrice() < other.computePrice();
-    }
-
-    friend ostream &operator<<(ostream &out, const AlcoholicDrink &a) {
-        return out << a.name << " " << a.origin << " " << a.computePrice() << endl;
-    }
-
     static void total(AlcoholicDrink **ad, int n) {
-        float total = 0;
-        for (int i = 0; i < n; i++) {
-            total += ad[i]->computePrice();
+        float totalPrice = 0, totalDiscounted = 0;
+        for (int i = 0; i < n; ++i) {
+            float price = ad[i]->computePrice();
+            totalPrice += price;
+            totalDiscounted += price * (1 - discount / 100.0);
         }
-        cout << "Total price: " << total << endl;
-        cout << "Total price with discount: " << total * (1 - discount / 100.0) << endl;
+        cout << "Total price: " << totalPrice << endl;
+        cout << "Total price with discount: " << totalDiscounted << endl;
     }
 };
 
+
 class Beer : public AlcoholicDrink {
-private:
-    bool mainIngredient;
-    // false for barley, true for wheat
+    bool mainIngredientWheat;
 
 public:
-    Beer(float percent = 0.0, const char *name = "", const char *origin = "", float basePrice = 0.0,
-         bool mainIngredient = false) : AlcoholicDrink(percent, name, origin, basePrice) {
-        this->mainIngredient = mainIngredient;
+    Beer(float alcoholPercent, const string &name, const string &country, float basePrice, bool mainIngredientWheat)
+        : AlcoholicDrink(alcoholPercent, name, country, basePrice) {
+        this->mainIngredientWheat = mainIngredientWheat;
     }
 
-    float computePrice() const {
-        double price = basePrice;
-        if (strcmp(origin, "Germanija") == 0) {
-            price += 0.05 * basePrice;
+    float computePrice() const override {
+        float price = basePrice;
+        if (country == "Germany") {
+            price += basePrice * 0.05;
         }
-        if (mainIngredient) {
-            // wheat
-            price += 0.10 * basePrice;
+        if (mainIngredientWheat) {
+            price += basePrice * 0.10;
         }
-        return (float) price;
+        return price;
+    }
+
+    float getDisplayPrice() const override {
+        return basePrice;
     }
 };
 
 class Wine : public AlcoholicDrink {
-private:
-    char grapesType[50];
-    int yearProduction;
+    int year;
+    string grapeType;
 
 public:
-    Wine(float percent = 0.0, const char *name = "", const char *origin = "", float basePrice = 0.0,
-         int yearProduction = 0, const char *grapesType = ""): AlcoholicDrink(percent, name, origin, basePrice) {
-        this->yearProduction = yearProduction;
-        strcpy(this->grapesType, grapesType);
+    Wine(float alcoholPercent, const string &name, const string &country, float basePrice, int year,
+         const string &grapeType)
+        : AlcoholicDrink(alcoholPercent, name, country, basePrice) {
+        this->year = year;
+        this->grapeType = grapeType;
     }
 
     float computePrice() const override {
-        double price = basePrice;
-        if (strcmp(origin, "Italija") == 0) {
-            price += 0.05 * basePrice;
+        float price = basePrice;
+        if (country == "Italy") {
+            price += basePrice * 0.05;
         }
-        if (yearProduction < 2005) {
-            price += 0.15 * basePrice;
+        if (year < 2005) {
+            price += basePrice * 0.15;
         }
-        return (float) price;
+        return price;
     }
 };
 
-
-void lowestPrice(AlcoholicDrink **a, int n) {
+void lowestPrice(AlcoholicDrink **ad, int n) {
     if (n == 0) return;
-
-    int minIndex = 0;
-    for (int i = 1; i < n; i++) {
-        if (*a[i] < *a[minIndex]) {
-            minIndex = i;
+    AlcoholicDrink *minDrink = ad[0];
+    for (int i = 1; i < n; ++i) {
+        if (*ad[i] < *minDrink) {
+            minDrink = ad[i];
         }
     }
-    cout << *a[minIndex] << endl;
+    cout << *minDrink << endl;
 }
 
 int AlcoholicDrink::discount = 5;
@@ -128,7 +134,7 @@ int main() {
         cin >> price;
         cin >> mainI;
         Beer b(p, name, country, price, mainI);
-        cout << b;
+        cout << b << endl;
         cin >> p;
         cin >> name;
         cin >> country;
