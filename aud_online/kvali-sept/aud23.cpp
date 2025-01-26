@@ -1,4 +1,3 @@
-//kvalifikaciski septemvri 2023 zad3
 #include <iostream>
 
 using namespace std;
@@ -25,16 +24,15 @@ private:
     int teamSize;
 
 public:
-    TeamProject(string name = "Project1", int duration = 2, int size = 5) : Project(name, duration) {
-        if (size <= 0 || size >= 10) {
+    TeamProject(string name = "Project1", int duration = 2, int team = 5): Project(name, duration), teamSize(team) {
+        if (team <= 0 || team >= 10) {
             teamSize = 5;
         } else {
-            teamSize = size;
+            teamSize = team;
         }
     }
-
     int calculateTotalTeamHours() {
-        return duration + (teamSize * 160);
+        return duration+teamSize*160;
     }
 
     void showInfo() {

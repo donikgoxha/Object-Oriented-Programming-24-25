@@ -1,62 +1,58 @@
-//kvalifikaciski septemvri 2023 zad1
-
 #include <iostream>
 
 using namespace std;
 
-class Product {
+class Course {
 protected:
-    string id;
-    float price;
+    string code;
+    int credits;
 
 public:
-    Product(string id = "PROD-123456", float price = 10.0) : id(id), price(price) {
+    Course(string code = "CS101", int credits = 6) : code(code), credits(credits) {
     }
 
-    ~Product() {
+    void display() {
+        cout << code << " " << credits << " ";
     }
 
-    void print() {
-        cout << id << " " << price << " ";
+    ~Course() {
     }
 };
 
-class DiscountProduct : public Product {
-private:
-    int discount;
+class OnlineCourse : public Course {
+protected:
+    int bonusCredits;
 
 public:
-    DiscountProduct(string id = "PROD-123456", float price = 10.0, int disc = 10) : Product(id, price) {
-        if (disc <= 0 || disc >= 100) {
-            discount = 10;
+    OnlineCourse(string code = "CS101", int credits = 6, int bonus = 1): Course(code, credits) {
+        if (bonus <= 0 || bonus >= 3) {
+            bonusCredits = 1;
         } else {
-            discount = disc;
+            bonusCredits = bonus;
         }
     }
 
-    float calculatePrice() {
-        return price * (1 - discount / 100.0);
+    float calculateMaxCourseCredits() {
+        return credits + bonusCredits;
     }
 
-    void print() {
-        Product::print();
-        cout << discount << endl;
+    void display() {
+        Course::display();
+        cout << bonusCredits << endl;
     }
 };
 
 
-DiscountProduct *createDicsProducts(int n) {
-    DiscountProduct *discProducts = new DiscountProduct[n];
-    string id;
-    float price;
-    int disc;
+OnlineCourse *createOnlineCourses(int n) {
+    OnlineCourse *onlineCourses = new OnlineCourse[n];
+    string code;
+    int credits, bonusCredits;
     for (int i = 0; i < n; i++) {
-        cin >> id >> price >> disc;
-        discProducts[i] = DiscountProduct(id, price, disc);
+        cin >> code >> credits >> bonusCredits;
+        onlineCourses[i] = OnlineCourse(code, credits, bonusCredits);
     }
-    return discProducts;
+    return onlineCourses;
 }
-
 
 int main() {
     int testCase;
@@ -64,51 +60,51 @@ int main() {
 
     switch (testCase) {
         case 1: {
-            DiscountProduct discountProduct;
-            discountProduct.print();
+            OnlineCourse onlineCourse;
+            onlineCourse.display();
             break;
         }
         case 2: {
-            DiscountProduct discountProduct("CS101", 50, 5);
-            discountProduct.print();
-            DiscountProduct discountProduct1("CS102", 70, 10);
-            discountProduct1.print();
+            OnlineCourse onlineCourse("CS101", 6, 1);
+            onlineCourse.display();
+            OnlineCourse onlineCourse1("CS102", 4, 2);
+            onlineCourse1.display();
             break;
         }
         case 3: {
-            DiscountProduct discountProduct("CS101", 50, 105);
-            discountProduct.print();
-            DiscountProduct discountProduct1("CS102", 70, 0);
-            discountProduct1.print();
+            OnlineCourse onlineCourse("CS101", 5, 5);
+            onlineCourse.display();
+            OnlineCourse onlineCourse1("CS102", 6, 0);
+            onlineCourse1.display();
             break;
         }
         case 4: {
-            DiscountProduct discountProduct("CS101", 40, 20);
-            cout << discountProduct.calculatePrice();
+            OnlineCourse onlineCourse("CS101", 7, 2);
+            cout << onlineCourse.calculateMaxCourseCredits();
             break;
         }
         case 5: {
             int n;
             cin >> n;
-            DiscountProduct *discountProducts = createDicsProducts(n);
+            OnlineCourse *onlineCourses = createOnlineCourses(n);
             for (int i = 0; i < n; i++) {
-                discountProducts[i].print();
+                onlineCourses[i].display();
             }
-            delete [] discountProducts;
+            delete [] onlineCourses;
             break;
         }
         default: {
             int n;
             cin >> n;
 
-            DiscountProduct *discountProducts = createDicsProducts(n);
+            OnlineCourse *onlineCourses = createOnlineCourses(n);
             for (int i = 0; i < n; i++) {
-                discountProducts[i].print();
+                onlineCourses[i].display();
             }
             for (int i = 0; i < n; i++) {
-                cout << discountProducts[i].calculatePrice() << endl;
+                cout << onlineCourses[i].calculateMaxCourseCredits() << endl;
             }
-            delete [] discountProducts;
+            delete [] onlineCourses;
             break;
         }
     }

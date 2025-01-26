@@ -54,8 +54,6 @@ build CMakeFiles/oop23_24.dir/main.cpp.obj: CXX_COMPILER__oop23_24_unscanned_Deb
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\oop23_24.dir
   OBJECT_FILE_DIR = CMakeFiles\oop23_24.dir
-  TARGET_COMPILE_PDB = CMakeFiles\oop23_24.dir\
-  TARGET_PDB = oop23_24.pdb
 
 
 # =============================================================================
@@ -71,10 +69,9 @@ build oop23_24.exe: CXX_EXECUTABLE_LINKER__oop23_24_Debug CMakeFiles/oop23_24.di
   OBJECT_DIR = CMakeFiles\oop23_24.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\oop23_24.dir\
   TARGET_FILE = oop23_24.exe
   TARGET_IMPLIB = liboop23_24.dll.a
-  TARGET_PDB = oop23_24.pdb
+  TARGET_PDB = oop23_24.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna1
@@ -90,8 +87,6 @@ build CMakeFiles/ispitna1.dir/oop_jan_ispitna/ispitna1.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna1.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna1.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna1.dir\
-  TARGET_PDB = ispitna1.pdb
 
 
 # =============================================================================
@@ -107,10 +102,9 @@ build ispitna1.exe: CXX_EXECUTABLE_LINKER__ispitna1_Debug CMakeFiles/ispitna1.di
   OBJECT_DIR = CMakeFiles\ispitna1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna1.dir\
   TARGET_FILE = ispitna1.exe
   TARGET_IMPLIB = libispitna1.dll.a
-  TARGET_PDB = ispitna1.pdb
+  TARGET_PDB = ispitna1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna2
@@ -126,8 +120,6 @@ build CMakeFiles/ispitna2.dir/oop_jan_ispitna/ispitna2.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna2.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna2.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna2.dir\
-  TARGET_PDB = ispitna2.pdb
 
 
 # =============================================================================
@@ -143,10 +135,9 @@ build ispitna2.exe: CXX_EXECUTABLE_LINKER__ispitna2_Debug CMakeFiles/ispitna2.di
   OBJECT_DIR = CMakeFiles\ispitna2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna2.dir\
   TARGET_FILE = ispitna2.exe
   TARGET_IMPLIB = libispitna2.dll.a
-  TARGET_PDB = ispitna2.pdb
+  TARGET_PDB = ispitna2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna3
@@ -162,8 +153,6 @@ build CMakeFiles/ispitna3.dir/oop_jan_ispitna/ispitna3.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna3.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna3.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna3.dir\
-  TARGET_PDB = ispitna3.pdb
 
 
 # =============================================================================
@@ -179,10 +168,9 @@ build ispitna3.exe: CXX_EXECUTABLE_LINKER__ispitna3_Debug CMakeFiles/ispitna3.di
   OBJECT_DIR = CMakeFiles\ispitna3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna3.dir\
   TARGET_FILE = ispitna3.exe
   TARGET_IMPLIB = libispitna3.dll.a
-  TARGET_PDB = ispitna3.pdb
+  TARGET_PDB = ispitna3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna4
@@ -198,8 +186,6 @@ build CMakeFiles/ispitna4.dir/oop_jan_ispitna/ispitna4.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna4.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna4.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna4.dir\
-  TARGET_PDB = ispitna4.pdb
 
 
 # =============================================================================
@@ -215,10 +201,9 @@ build ispitna4.exe: CXX_EXECUTABLE_LINKER__ispitna4_Debug CMakeFiles/ispitna4.di
   OBJECT_DIR = CMakeFiles\ispitna4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna4.dir\
   TARGET_FILE = ispitna4.exe
   TARGET_IMPLIB = libispitna4.dll.a
-  TARGET_PDB = ispitna4.pdb
+  TARGET_PDB = ispitna4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna5
@@ -234,8 +219,6 @@ build CMakeFiles/ispitna5.dir/oop_jan_ispitna/ispitna5.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna5.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna5.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna5.dir\
-  TARGET_PDB = ispitna5.pdb
 
 
 # =============================================================================
@@ -251,10 +234,9 @@ build ispitna5.exe: CXX_EXECUTABLE_LINKER__ispitna5_Debug CMakeFiles/ispitna5.di
   OBJECT_DIR = CMakeFiles\ispitna5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna5.dir\
   TARGET_FILE = ispitna5.exe
   TARGET_IMPLIB = libispitna5.dll.a
-  TARGET_PDB = ispitna5.pdb
+  TARGET_PDB = ispitna5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna6
@@ -270,8 +252,6 @@ build CMakeFiles/ispitna6.dir/oop_jan_ispitna/ispitna6.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna6.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna6.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna6.dir\
-  TARGET_PDB = ispitna6.pdb
 
 
 # =============================================================================
@@ -287,10 +267,9 @@ build ispitna6.exe: CXX_EXECUTABLE_LINKER__ispitna6_Debug CMakeFiles/ispitna6.di
   OBJECT_DIR = CMakeFiles\ispitna6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna6.dir\
   TARGET_FILE = ispitna6.exe
   TARGET_IMPLIB = libispitna6.dll.a
-  TARGET_PDB = ispitna6.pdb
+  TARGET_PDB = ispitna6.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna7
@@ -306,8 +285,6 @@ build CMakeFiles/ispitna7.dir/oop_jan_ispitna/ispitna7.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna7.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna7.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna7.dir\
-  TARGET_PDB = ispitna7.pdb
 
 
 # =============================================================================
@@ -323,10 +300,9 @@ build ispitna7.exe: CXX_EXECUTABLE_LINKER__ispitna7_Debug CMakeFiles/ispitna7.di
   OBJECT_DIR = CMakeFiles\ispitna7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna7.dir\
   TARGET_FILE = ispitna7.exe
   TARGET_IMPLIB = libispitna7.dll.a
-  TARGET_PDB = ispitna7.pdb
+  TARGET_PDB = ispitna7.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna8
@@ -342,8 +318,6 @@ build CMakeFiles/ispitna8.dir/oop_jan_ispitna/ispitna8.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna8.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna8.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna8.dir\
-  TARGET_PDB = ispitna8.pdb
 
 
 # =============================================================================
@@ -359,10 +333,9 @@ build ispitna8.exe: CXX_EXECUTABLE_LINKER__ispitna8_Debug CMakeFiles/ispitna8.di
   OBJECT_DIR = CMakeFiles\ispitna8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna8.dir\
   TARGET_FILE = ispitna8.exe
   TARGET_IMPLIB = libispitna8.dll.a
-  TARGET_PDB = ispitna8.pdb
+  TARGET_PDB = ispitna8.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna9
@@ -378,8 +351,6 @@ build CMakeFiles/ispitna9.dir/oop_jan_ispitna/ispitna9.cpp.obj: CXX_COMPILER__is
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna9.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna9.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna9.dir\
-  TARGET_PDB = ispitna9.pdb
 
 
 # =============================================================================
@@ -395,10 +366,9 @@ build ispitna9.exe: CXX_EXECUTABLE_LINKER__ispitna9_Debug CMakeFiles/ispitna9.di
   OBJECT_DIR = CMakeFiles\ispitna9.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna9.dir\
   TARGET_FILE = ispitna9.exe
   TARGET_IMPLIB = libispitna9.dll.a
-  TARGET_PDB = ispitna9.pdb
+  TARGET_PDB = ispitna9.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna10
@@ -414,8 +384,6 @@ build CMakeFiles/ispitna10.dir/oop_jan_ispitna/ispitna10.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna10.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna10.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna10.dir\
-  TARGET_PDB = ispitna10.pdb
 
 
 # =============================================================================
@@ -431,10 +399,9 @@ build ispitna10.exe: CXX_EXECUTABLE_LINKER__ispitna10_Debug CMakeFiles/ispitna10
   OBJECT_DIR = CMakeFiles\ispitna10.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna10.dir\
   TARGET_FILE = ispitna10.exe
   TARGET_IMPLIB = libispitna10.dll.a
-  TARGET_PDB = ispitna10.pdb
+  TARGET_PDB = ispitna10.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna11
@@ -450,8 +417,6 @@ build CMakeFiles/ispitna11.dir/oop_jan_ispitna/ispitna11.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna11.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna11.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna11.dir\
-  TARGET_PDB = ispitna11.pdb
 
 
 # =============================================================================
@@ -467,10 +432,9 @@ build ispitna11.exe: CXX_EXECUTABLE_LINKER__ispitna11_Debug CMakeFiles/ispitna11
   OBJECT_DIR = CMakeFiles\ispitna11.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna11.dir\
   TARGET_FILE = ispitna11.exe
   TARGET_IMPLIB = libispitna11.dll.a
-  TARGET_PDB = ispitna11.pdb
+  TARGET_PDB = ispitna11.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna12
@@ -486,8 +450,6 @@ build CMakeFiles/ispitna12.dir/oop_jan_ispitna/ispitna12.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna12.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna12.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna12.dir\
-  TARGET_PDB = ispitna12.pdb
 
 
 # =============================================================================
@@ -503,10 +465,9 @@ build ispitna12.exe: CXX_EXECUTABLE_LINKER__ispitna12_Debug CMakeFiles/ispitna12
   OBJECT_DIR = CMakeFiles\ispitna12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna12.dir\
   TARGET_FILE = ispitna12.exe
   TARGET_IMPLIB = libispitna12.dll.a
-  TARGET_PDB = ispitna12.pdb
+  TARGET_PDB = ispitna12.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna13
@@ -522,8 +483,6 @@ build CMakeFiles/ispitna13.dir/oop_jan_ispitna/ispitna13.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna13.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna13.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna13.dir\
-  TARGET_PDB = ispitna13.pdb
 
 
 # =============================================================================
@@ -539,10 +498,9 @@ build ispitna13.exe: CXX_EXECUTABLE_LINKER__ispitna13_Debug CMakeFiles/ispitna13
   OBJECT_DIR = CMakeFiles\ispitna13.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna13.dir\
   TARGET_FILE = ispitna13.exe
   TARGET_IMPLIB = libispitna13.dll.a
-  TARGET_PDB = ispitna13.pdb
+  TARGET_PDB = ispitna13.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna14
@@ -558,8 +516,6 @@ build CMakeFiles/ispitna14.dir/oop_jan_ispitna/ispitna14.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna14.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna14.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna14.dir\
-  TARGET_PDB = ispitna14.pdb
 
 
 # =============================================================================
@@ -575,10 +531,9 @@ build ispitna14.exe: CXX_EXECUTABLE_LINKER__ispitna14_Debug CMakeFiles/ispitna14
   OBJECT_DIR = CMakeFiles\ispitna14.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna14.dir\
   TARGET_FILE = ispitna14.exe
   TARGET_IMPLIB = libispitna14.dll.a
-  TARGET_PDB = ispitna14.pdb
+  TARGET_PDB = ispitna14.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna15
@@ -594,8 +549,6 @@ build CMakeFiles/ispitna15.dir/oop_jan_ispitna/ispitna15.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna15.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna15.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna15.dir\
-  TARGET_PDB = ispitna15.pdb
 
 
 # =============================================================================
@@ -611,10 +564,9 @@ build ispitna15.exe: CXX_EXECUTABLE_LINKER__ispitna15_Debug CMakeFiles/ispitna15
   OBJECT_DIR = CMakeFiles\ispitna15.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna15.dir\
   TARGET_FILE = ispitna15.exe
   TARGET_IMPLIB = libispitna15.dll.a
-  TARGET_PDB = ispitna15.pdb
+  TARGET_PDB = ispitna15.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna16
@@ -630,8 +582,6 @@ build CMakeFiles/ispitna16.dir/oop_jan_ispitna/ispitna16.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna16.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna16.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna16.dir\
-  TARGET_PDB = ispitna16.pdb
 
 
 # =============================================================================
@@ -647,10 +597,9 @@ build ispitna16.exe: CXX_EXECUTABLE_LINKER__ispitna16_Debug CMakeFiles/ispitna16
   OBJECT_DIR = CMakeFiles\ispitna16.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna16.dir\
   TARGET_FILE = ispitna16.exe
   TARGET_IMPLIB = libispitna16.dll.a
-  TARGET_PDB = ispitna16.pdb
+  TARGET_PDB = ispitna16.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna17
@@ -666,8 +615,6 @@ build CMakeFiles/ispitna17.dir/oop_jan_ispitna/ispitna17.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna17.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna17.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna17.dir\
-  TARGET_PDB = ispitna17.pdb
 
 
 # =============================================================================
@@ -683,10 +630,9 @@ build ispitna17.exe: CXX_EXECUTABLE_LINKER__ispitna17_Debug CMakeFiles/ispitna17
   OBJECT_DIR = CMakeFiles\ispitna17.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna17.dir\
   TARGET_FILE = ispitna17.exe
   TARGET_IMPLIB = libispitna17.dll.a
-  TARGET_PDB = ispitna17.pdb
+  TARGET_PDB = ispitna17.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna18
@@ -702,8 +648,6 @@ build CMakeFiles/ispitna18.dir/oop_jan_ispitna/ispitna18_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna18.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna18.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna18.dir\
-  TARGET_PDB = ispitna18.pdb
 
 
 # =============================================================================
@@ -719,10 +663,9 @@ build ispitna18.exe: CXX_EXECUTABLE_LINKER__ispitna18_Debug CMakeFiles/ispitna18
   OBJECT_DIR = CMakeFiles\ispitna18.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna18.dir\
   TARGET_FILE = ispitna18.exe
   TARGET_IMPLIB = libispitna18.dll.a
-  TARGET_PDB = ispitna18.pdb
+  TARGET_PDB = ispitna18.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna19
@@ -738,8 +681,6 @@ build CMakeFiles/ispitna19.dir/oop_jan_ispitna/ispitna19_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna19.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna19.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna19.dir\
-  TARGET_PDB = ispitna19.pdb
 
 
 # =============================================================================
@@ -755,10 +696,9 @@ build ispitna19.exe: CXX_EXECUTABLE_LINKER__ispitna19_Debug CMakeFiles/ispitna19
   OBJECT_DIR = CMakeFiles\ispitna19.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna19.dir\
   TARGET_FILE = ispitna19.exe
   TARGET_IMPLIB = libispitna19.dll.a
-  TARGET_PDB = ispitna19.pdb
+  TARGET_PDB = ispitna19.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna20
@@ -774,8 +714,6 @@ build CMakeFiles/ispitna20.dir/oop_jan_ispitna/ispitna20_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna20.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna20.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna20.dir\
-  TARGET_PDB = ispitna20.pdb
 
 
 # =============================================================================
@@ -791,10 +729,9 @@ build ispitna20.exe: CXX_EXECUTABLE_LINKER__ispitna20_Debug CMakeFiles/ispitna20
   OBJECT_DIR = CMakeFiles\ispitna20.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna20.dir\
   TARGET_FILE = ispitna20.exe
   TARGET_IMPLIB = libispitna20.dll.a
-  TARGET_PDB = ispitna20.pdb
+  TARGET_PDB = ispitna20.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna21
@@ -810,8 +747,6 @@ build CMakeFiles/ispitna21.dir/oop_jan_ispitna/ispitna21_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna21.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna21.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna21.dir\
-  TARGET_PDB = ispitna21.pdb
 
 
 # =============================================================================
@@ -827,10 +762,9 @@ build ispitna21.exe: CXX_EXECUTABLE_LINKER__ispitna21_Debug CMakeFiles/ispitna21
   OBJECT_DIR = CMakeFiles\ispitna21.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna21.dir\
   TARGET_FILE = ispitna21.exe
   TARGET_IMPLIB = libispitna21.dll.a
-  TARGET_PDB = ispitna21.pdb
+  TARGET_PDB = ispitna21.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna22
@@ -846,8 +780,6 @@ build CMakeFiles/ispitna22.dir/oop_jan_ispitna/ispitna22_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna22.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna22.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna22.dir\
-  TARGET_PDB = ispitna22.pdb
 
 
 # =============================================================================
@@ -863,10 +795,9 @@ build ispitna22.exe: CXX_EXECUTABLE_LINKER__ispitna22_Debug CMakeFiles/ispitna22
   OBJECT_DIR = CMakeFiles\ispitna22.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna22.dir\
   TARGET_FILE = ispitna22.exe
   TARGET_IMPLIB = libispitna22.dll.a
-  TARGET_PDB = ispitna22.pdb
+  TARGET_PDB = ispitna22.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna23
@@ -882,8 +813,6 @@ build CMakeFiles/ispitna23.dir/oop_jan_ispitna/ispitna23_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna23.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna23.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna23.dir\
-  TARGET_PDB = ispitna23.pdb
 
 
 # =============================================================================
@@ -899,10 +828,9 @@ build ispitna23.exe: CXX_EXECUTABLE_LINKER__ispitna23_Debug CMakeFiles/ispitna23
   OBJECT_DIR = CMakeFiles\ispitna23.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna23.dir\
   TARGET_FILE = ispitna23.exe
   TARGET_IMPLIB = libispitna23.dll.a
-  TARGET_PDB = ispitna23.pdb
+  TARGET_PDB = ispitna23.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna24
@@ -918,8 +846,6 @@ build CMakeFiles/ispitna24.dir/oop_jan_ispitna/ispitna24_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna24.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna24.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna24.dir\
-  TARGET_PDB = ispitna24.pdb
 
 
 # =============================================================================
@@ -935,10 +861,9 @@ build ispitna24.exe: CXX_EXECUTABLE_LINKER__ispitna24_Debug CMakeFiles/ispitna24
   OBJECT_DIR = CMakeFiles\ispitna24.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna24.dir\
   TARGET_FILE = ispitna24.exe
   TARGET_IMPLIB = libispitna24.dll.a
-  TARGET_PDB = ispitna24.pdb
+  TARGET_PDB = ispitna24.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna25
@@ -954,8 +879,6 @@ build CMakeFiles/ispitna25.dir/oop_jan_ispitna/ispitna25_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna25.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna25.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna25.dir\
-  TARGET_PDB = ispitna25.pdb
 
 
 # =============================================================================
@@ -971,10 +894,9 @@ build ispitna25.exe: CXX_EXECUTABLE_LINKER__ispitna25_Debug CMakeFiles/ispitna25
   OBJECT_DIR = CMakeFiles\ispitna25.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna25.dir\
   TARGET_FILE = ispitna25.exe
   TARGET_IMPLIB = libispitna25.dll.a
-  TARGET_PDB = ispitna25.pdb
+  TARGET_PDB = ispitna25.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna26
@@ -990,8 +912,6 @@ build CMakeFiles/ispitna26.dir/oop_jan_ispitna/ispitna26_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna26.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna26.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna26.dir\
-  TARGET_PDB = ispitna26.pdb
 
 
 # =============================================================================
@@ -1007,10 +927,9 @@ build ispitna26.exe: CXX_EXECUTABLE_LINKER__ispitna26_Debug CMakeFiles/ispitna26
   OBJECT_DIR = CMakeFiles\ispitna26.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna26.dir\
   TARGET_FILE = ispitna26.exe
   TARGET_IMPLIB = libispitna26.dll.a
-  TARGET_PDB = ispitna26.pdb
+  TARGET_PDB = ispitna26.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna27
@@ -1026,8 +945,6 @@ build CMakeFiles/ispitna27.dir/oop_jan_ispitna/ispitna27_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna27.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna27.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna27.dir\
-  TARGET_PDB = ispitna27.pdb
 
 
 # =============================================================================
@@ -1043,10 +960,9 @@ build ispitna27.exe: CXX_EXECUTABLE_LINKER__ispitna27_Debug CMakeFiles/ispitna27
   OBJECT_DIR = CMakeFiles\ispitna27.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna27.dir\
   TARGET_FILE = ispitna27.exe
   TARGET_IMPLIB = libispitna27.dll.a
-  TARGET_PDB = ispitna27.pdb
+  TARGET_PDB = ispitna27.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna28
@@ -1062,8 +978,6 @@ build CMakeFiles/ispitna28.dir/oop_jan_ispitna/ispitna28_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna28.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna28.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna28.dir\
-  TARGET_PDB = ispitna28.pdb
 
 
 # =============================================================================
@@ -1079,10 +993,9 @@ build ispitna28.exe: CXX_EXECUTABLE_LINKER__ispitna28_Debug CMakeFiles/ispitna28
   OBJECT_DIR = CMakeFiles\ispitna28.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna28.dir\
   TARGET_FILE = ispitna28.exe
   TARGET_IMPLIB = libispitna28.dll.a
-  TARGET_PDB = ispitna28.pdb
+  TARGET_PDB = ispitna28.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna29
@@ -1098,8 +1011,6 @@ build CMakeFiles/ispitna29.dir/oop_jan_ispitna/ispitna29_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna29.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna29.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna29.dir\
-  TARGET_PDB = ispitna29.pdb
 
 
 # =============================================================================
@@ -1115,10 +1026,9 @@ build ispitna29.exe: CXX_EXECUTABLE_LINKER__ispitna29_Debug CMakeFiles/ispitna29
   OBJECT_DIR = CMakeFiles\ispitna29.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna29.dir\
   TARGET_FILE = ispitna29.exe
   TARGET_IMPLIB = libispitna29.dll.a
-  TARGET_PDB = ispitna29.pdb
+  TARGET_PDB = ispitna29.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna30
@@ -1134,8 +1044,6 @@ build CMakeFiles/ispitna30.dir/oop_jan_ispitna/ispitna30_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna30.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna30.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna30.dir\
-  TARGET_PDB = ispitna30.pdb
 
 
 # =============================================================================
@@ -1151,10 +1059,9 @@ build ispitna30.exe: CXX_EXECUTABLE_LINKER__ispitna30_Debug CMakeFiles/ispitna30
   OBJECT_DIR = CMakeFiles\ispitna30.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna30.dir\
   TARGET_FILE = ispitna30.exe
   TARGET_IMPLIB = libispitna30.dll.a
-  TARGET_PDB = ispitna30.pdb
+  TARGET_PDB = ispitna30.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna31
@@ -1170,8 +1077,6 @@ build CMakeFiles/ispitna31.dir/oop_jan_ispitna/ispitna31_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna31.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna31.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna31.dir\
-  TARGET_PDB = ispitna31.pdb
 
 
 # =============================================================================
@@ -1187,10 +1092,9 @@ build ispitna31.exe: CXX_EXECUTABLE_LINKER__ispitna31_Debug CMakeFiles/ispitna31
   OBJECT_DIR = CMakeFiles\ispitna31.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna31.dir\
   TARGET_FILE = ispitna31.exe
   TARGET_IMPLIB = libispitna31.dll.a
-  TARGET_PDB = ispitna31.pdb
+  TARGET_PDB = ispitna31.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna32
@@ -1206,8 +1110,6 @@ build CMakeFiles/ispitna32.dir/oop_jan_ispitna/ispitna32_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna32.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna32.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna32.dir\
-  TARGET_PDB = ispitna32.pdb
 
 
 # =============================================================================
@@ -1223,10 +1125,9 @@ build ispitna32.exe: CXX_EXECUTABLE_LINKER__ispitna32_Debug CMakeFiles/ispitna32
   OBJECT_DIR = CMakeFiles\ispitna32.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna32.dir\
   TARGET_FILE = ispitna32.exe
   TARGET_IMPLIB = libispitna32.dll.a
-  TARGET_PDB = ispitna32.pdb
+  TARGET_PDB = ispitna32.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna33
@@ -1242,8 +1143,6 @@ build CMakeFiles/ispitna33.dir/oop_jan_ispitna/ispitna33_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna33.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna33.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna33.dir\
-  TARGET_PDB = ispitna33.pdb
 
 
 # =============================================================================
@@ -1259,10 +1158,9 @@ build ispitna33.exe: CXX_EXECUTABLE_LINKER__ispitna33_Debug CMakeFiles/ispitna33
   OBJECT_DIR = CMakeFiles\ispitna33.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna33.dir\
   TARGET_FILE = ispitna33.exe
   TARGET_IMPLIB = libispitna33.dll.a
-  TARGET_PDB = ispitna33.pdb
+  TARGET_PDB = ispitna33.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna34
@@ -1278,8 +1176,6 @@ build CMakeFiles/ispitna34.dir/oop_jan_ispitna/ispitna34_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna34.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna34.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna34.dir\
-  TARGET_PDB = ispitna34.pdb
 
 
 # =============================================================================
@@ -1295,10 +1191,9 @@ build ispitna34.exe: CXX_EXECUTABLE_LINKER__ispitna34_Debug CMakeFiles/ispitna34
   OBJECT_DIR = CMakeFiles\ispitna34.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna34.dir\
   TARGET_FILE = ispitna34.exe
   TARGET_IMPLIB = libispitna34.dll.a
-  TARGET_PDB = ispitna34.pdb
+  TARGET_PDB = ispitna34.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna35
@@ -1309,13 +1204,11 @@ build ispitna34.exe: CXX_EXECUTABLE_LINKER__ispitna34_Debug CMakeFiles/ispitna34
 
 build cmake_object_order_depends_target_ispitna35: phony || .
 
-build CMakeFiles/ispitna35.dir/oop_jan_ispitna/ispitna35_eng.cpp.obj: CXX_COMPILER__ispitna35_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna35_eng.cpp || cmake_object_order_depends_target_ispitna35
-  DEP_FILE = CMakeFiles\ispitna35.dir\oop_jan_ispitna\ispitna35_eng.cpp.obj.d
+build CMakeFiles/ispitna35.dir/oop_jan_ispitna/ispitna_sesija_sept_zad1.cpp.obj: CXX_COMPILER__ispitna35_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna_sesija_sept_zad1.cpp || cmake_object_order_depends_target_ispitna35
+  DEP_FILE = CMakeFiles\ispitna35.dir\oop_jan_ispitna\ispitna_sesija_sept_zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna35.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna35.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna35.dir\
-  TARGET_PDB = ispitna35.pdb
 
 
 # =============================================================================
@@ -1325,16 +1218,15 @@ build CMakeFiles/ispitna35.dir/oop_jan_ispitna/ispitna35_eng.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable ispitna35.exe
 
-build ispitna35.exe: CXX_EXECUTABLE_LINKER__ispitna35_Debug CMakeFiles/ispitna35.dir/oop_jan_ispitna/ispitna35_eng.cpp.obj
+build ispitna35.exe: CXX_EXECUTABLE_LINKER__ispitna35_Debug CMakeFiles/ispitna35.dir/oop_jan_ispitna/ispitna_sesija_sept_zad1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ispitna35.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna35.dir\
   TARGET_FILE = ispitna35.exe
   TARGET_IMPLIB = libispitna35.dll.a
-  TARGET_PDB = ispitna35.pdb
+  TARGET_PDB = ispitna35.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna36
@@ -1345,13 +1237,11 @@ build ispitna35.exe: CXX_EXECUTABLE_LINKER__ispitna35_Debug CMakeFiles/ispitna35
 
 build cmake_object_order_depends_target_ispitna36: phony || .
 
-build CMakeFiles/ispitna36.dir/oop_jan_ispitna/ispitna36_eng.cpp.obj: CXX_COMPILER__ispitna36_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna36_eng.cpp || cmake_object_order_depends_target_ispitna36
-  DEP_FILE = CMakeFiles\ispitna36.dir\oop_jan_ispitna\ispitna36_eng.cpp.obj.d
+build CMakeFiles/ispitna36.dir/oop_jan_ispitna/ispitna_sesija_sept_zad2.cpp.obj: CXX_COMPILER__ispitna36_unscanned_Debug D$:/documents/CLASSES/oop/OOP-24-25/oop_jan_ispitna/ispitna_sesija_sept_zad2.cpp || cmake_object_order_depends_target_ispitna36
+  DEP_FILE = CMakeFiles\ispitna36.dir\oop_jan_ispitna\ispitna_sesija_sept_zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna36.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna36.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna36.dir\
-  TARGET_PDB = ispitna36.pdb
 
 
 # =============================================================================
@@ -1361,16 +1251,15 @@ build CMakeFiles/ispitna36.dir/oop_jan_ispitna/ispitna36_eng.cpp.obj: CXX_COMPIL
 #############################################
 # Link the executable ispitna36.exe
 
-build ispitna36.exe: CXX_EXECUTABLE_LINKER__ispitna36_Debug CMakeFiles/ispitna36.dir/oop_jan_ispitna/ispitna36_eng.cpp.obj
+build ispitna36.exe: CXX_EXECUTABLE_LINKER__ispitna36_Debug CMakeFiles/ispitna36.dir/oop_jan_ispitna/ispitna_sesija_sept_zad2.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\ispitna36.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna36.dir\
   TARGET_FILE = ispitna36.exe
   TARGET_IMPLIB = libispitna36.dll.a
-  TARGET_PDB = ispitna36.pdb
+  TARGET_PDB = ispitna36.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna37
@@ -1386,8 +1275,6 @@ build CMakeFiles/ispitna37.dir/oop_jan_ispitna/ispitna37_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna37.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna37.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna37.dir\
-  TARGET_PDB = ispitna37.pdb
 
 
 # =============================================================================
@@ -1403,10 +1290,9 @@ build ispitna37.exe: CXX_EXECUTABLE_LINKER__ispitna37_Debug CMakeFiles/ispitna37
   OBJECT_DIR = CMakeFiles\ispitna37.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna37.dir\
   TARGET_FILE = ispitna37.exe
   TARGET_IMPLIB = libispitna37.dll.a
-  TARGET_PDB = ispitna37.pdb
+  TARGET_PDB = ispitna37.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna38
@@ -1422,8 +1308,6 @@ build CMakeFiles/ispitna38.dir/oop_jan_ispitna/ispitna38_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna38.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna38.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna38.dir\
-  TARGET_PDB = ispitna38.pdb
 
 
 # =============================================================================
@@ -1439,10 +1323,9 @@ build ispitna38.exe: CXX_EXECUTABLE_LINKER__ispitna38_Debug CMakeFiles/ispitna38
   OBJECT_DIR = CMakeFiles\ispitna38.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna38.dir\
   TARGET_FILE = ispitna38.exe
   TARGET_IMPLIB = libispitna38.dll.a
-  TARGET_PDB = ispitna38.pdb
+  TARGET_PDB = ispitna38.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna39
@@ -1458,8 +1341,6 @@ build CMakeFiles/ispitna39.dir/oop_jan_ispitna/ispitna39_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna39.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna39.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna39.dir\
-  TARGET_PDB = ispitna39.pdb
 
 
 # =============================================================================
@@ -1475,10 +1356,9 @@ build ispitna39.exe: CXX_EXECUTABLE_LINKER__ispitna39_Debug CMakeFiles/ispitna39
   OBJECT_DIR = CMakeFiles\ispitna39.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna39.dir\
   TARGET_FILE = ispitna39.exe
   TARGET_IMPLIB = libispitna39.dll.a
-  TARGET_PDB = ispitna39.pdb
+  TARGET_PDB = ispitna39.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna40
@@ -1494,8 +1374,6 @@ build CMakeFiles/ispitna40.dir/oop_jan_ispitna/ispitna40_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna40.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna40.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna40.dir\
-  TARGET_PDB = ispitna40.pdb
 
 
 # =============================================================================
@@ -1511,10 +1389,9 @@ build ispitna40.exe: CXX_EXECUTABLE_LINKER__ispitna40_Debug CMakeFiles/ispitna40
   OBJECT_DIR = CMakeFiles\ispitna40.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna40.dir\
   TARGET_FILE = ispitna40.exe
   TARGET_IMPLIB = libispitna40.dll.a
-  TARGET_PDB = ispitna40.pdb
+  TARGET_PDB = ispitna40.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna41
@@ -1530,8 +1407,6 @@ build CMakeFiles/ispitna41.dir/oop_jan_ispitna/ispitna41_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna41.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna41.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna41.dir\
-  TARGET_PDB = ispitna41.pdb
 
 
 # =============================================================================
@@ -1547,10 +1422,9 @@ build ispitna41.exe: CXX_EXECUTABLE_LINKER__ispitna41_Debug CMakeFiles/ispitna41
   OBJECT_DIR = CMakeFiles\ispitna41.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna41.dir\
   TARGET_FILE = ispitna41.exe
   TARGET_IMPLIB = libispitna41.dll.a
-  TARGET_PDB = ispitna41.pdb
+  TARGET_PDB = ispitna41.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna42
@@ -1566,8 +1440,6 @@ build CMakeFiles/ispitna42.dir/oop_jan_ispitna/ispitna42_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna42.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna42.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna42.dir\
-  TARGET_PDB = ispitna42.pdb
 
 
 # =============================================================================
@@ -1583,10 +1455,9 @@ build ispitna42.exe: CXX_EXECUTABLE_LINKER__ispitna42_Debug CMakeFiles/ispitna42
   OBJECT_DIR = CMakeFiles\ispitna42.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna42.dir\
   TARGET_FILE = ispitna42.exe
   TARGET_IMPLIB = libispitna42.dll.a
-  TARGET_PDB = ispitna42.pdb
+  TARGET_PDB = ispitna42.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna43
@@ -1602,8 +1473,6 @@ build CMakeFiles/ispitna43.dir/oop_jan_ispitna/ispitna43_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna43.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna43.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna43.dir\
-  TARGET_PDB = ispitna43.pdb
 
 
 # =============================================================================
@@ -1619,10 +1488,9 @@ build ispitna43.exe: CXX_EXECUTABLE_LINKER__ispitna43_Debug CMakeFiles/ispitna43
   OBJECT_DIR = CMakeFiles\ispitna43.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna43.dir\
   TARGET_FILE = ispitna43.exe
   TARGET_IMPLIB = libispitna43.dll.a
-  TARGET_PDB = ispitna43.pdb
+  TARGET_PDB = ispitna43.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna44
@@ -1638,8 +1506,6 @@ build CMakeFiles/ispitna44.dir/oop_jan_ispitna/ispitna44_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna44.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna44.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna44.dir\
-  TARGET_PDB = ispitna44.pdb
 
 
 # =============================================================================
@@ -1655,10 +1521,9 @@ build ispitna44.exe: CXX_EXECUTABLE_LINKER__ispitna44_Debug CMakeFiles/ispitna44
   OBJECT_DIR = CMakeFiles\ispitna44.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna44.dir\
   TARGET_FILE = ispitna44.exe
   TARGET_IMPLIB = libispitna44.dll.a
-  TARGET_PDB = ispitna44.pdb
+  TARGET_PDB = ispitna44.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna45
@@ -1674,8 +1539,6 @@ build CMakeFiles/ispitna45.dir/oop_jan_ispitna/ispitna45_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna45.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna45.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna45.dir\
-  TARGET_PDB = ispitna45.pdb
 
 
 # =============================================================================
@@ -1691,10 +1554,9 @@ build ispitna45.exe: CXX_EXECUTABLE_LINKER__ispitna45_Debug CMakeFiles/ispitna45
   OBJECT_DIR = CMakeFiles\ispitna45.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna45.dir\
   TARGET_FILE = ispitna45.exe
   TARGET_IMPLIB = libispitna45.dll.a
-  TARGET_PDB = ispitna45.pdb
+  TARGET_PDB = ispitna45.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna46
@@ -1710,8 +1572,6 @@ build CMakeFiles/ispitna46.dir/oop_jan_ispitna/ispitna46_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna46.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna46.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna46.dir\
-  TARGET_PDB = ispitna46.pdb
 
 
 # =============================================================================
@@ -1727,10 +1587,9 @@ build ispitna46.exe: CXX_EXECUTABLE_LINKER__ispitna46_Debug CMakeFiles/ispitna46
   OBJECT_DIR = CMakeFiles\ispitna46.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna46.dir\
   TARGET_FILE = ispitna46.exe
   TARGET_IMPLIB = libispitna46.dll.a
-  TARGET_PDB = ispitna46.pdb
+  TARGET_PDB = ispitna46.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna47
@@ -1746,8 +1605,6 @@ build CMakeFiles/ispitna47.dir/oop_jan_ispitna/ispitna47_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna47.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna47.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna47.dir\
-  TARGET_PDB = ispitna47.pdb
 
 
 # =============================================================================
@@ -1763,10 +1620,9 @@ build ispitna47.exe: CXX_EXECUTABLE_LINKER__ispitna47_Debug CMakeFiles/ispitna47
   OBJECT_DIR = CMakeFiles\ispitna47.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna47.dir\
   TARGET_FILE = ispitna47.exe
   TARGET_IMPLIB = libispitna47.dll.a
-  TARGET_PDB = ispitna47.pdb
+  TARGET_PDB = ispitna47.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna48
@@ -1782,8 +1638,6 @@ build CMakeFiles/ispitna48.dir/oop_jan_ispitna/ispitna48_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna48.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna48.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna48.dir\
-  TARGET_PDB = ispitna48.pdb
 
 
 # =============================================================================
@@ -1799,10 +1653,9 @@ build ispitna48.exe: CXX_EXECUTABLE_LINKER__ispitna48_Debug CMakeFiles/ispitna48
   OBJECT_DIR = CMakeFiles\ispitna48.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna48.dir\
   TARGET_FILE = ispitna48.exe
   TARGET_IMPLIB = libispitna48.dll.a
-  TARGET_PDB = ispitna48.pdb
+  TARGET_PDB = ispitna48.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna49
@@ -1818,8 +1671,6 @@ build CMakeFiles/ispitna49.dir/oop_jan_ispitna/ispitna49_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna49.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna49.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna49.dir\
-  TARGET_PDB = ispitna49.pdb
 
 
 # =============================================================================
@@ -1835,10 +1686,9 @@ build ispitna49.exe: CXX_EXECUTABLE_LINKER__ispitna49_Debug CMakeFiles/ispitna49
   OBJECT_DIR = CMakeFiles\ispitna49.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna49.dir\
   TARGET_FILE = ispitna49.exe
   TARGET_IMPLIB = libispitna49.dll.a
-  TARGET_PDB = ispitna49.pdb
+  TARGET_PDB = ispitna49.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target ispitna50
@@ -1854,8 +1704,6 @@ build CMakeFiles/ispitna50.dir/oop_jan_ispitna/ispitna50_eng.cpp.obj: CXX_COMPIL
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\ispitna50.dir
   OBJECT_FILE_DIR = CMakeFiles\ispitna50.dir\oop_jan_ispitna
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna50.dir\
-  TARGET_PDB = ispitna50.pdb
 
 
 # =============================================================================
@@ -1871,10 +1719,9 @@ build ispitna50.exe: CXX_EXECUTABLE_LINKER__ispitna50_Debug CMakeFiles/ispitna50
   OBJECT_DIR = CMakeFiles\ispitna50.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\ispitna50.dir\
   TARGET_FILE = ispitna50.exe
   TARGET_IMPLIB = libispitna50.dll.a
-  TARGET_PDB = ispitna50.pdb
+  TARGET_PDB = ispitna50.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud1
@@ -1890,8 +1737,6 @@ build CMakeFiles/aud1.dir/aud_online/aud1/aud1.cpp.obj: CXX_COMPILER__aud1_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud1.dir\aud_online\aud1
-  TARGET_COMPILE_PDB = CMakeFiles\aud1.dir\
-  TARGET_PDB = aud1.pdb
 
 
 # =============================================================================
@@ -1907,10 +1752,9 @@ build aud1.exe: CXX_EXECUTABLE_LINKER__aud1_Debug CMakeFiles/aud1.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud1.dir\
   TARGET_FILE = aud1.exe
   TARGET_IMPLIB = libaud1.dll.a
-  TARGET_PDB = aud1.pdb
+  TARGET_PDB = aud1.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud2
@@ -1926,8 +1770,6 @@ build CMakeFiles/aud2.dir/aud_online/aud1/aud2.cpp.obj: CXX_COMPILER__aud2_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud2.dir\aud_online\aud1
-  TARGET_COMPILE_PDB = CMakeFiles\aud2.dir\
-  TARGET_PDB = aud2.pdb
 
 
 # =============================================================================
@@ -1943,10 +1785,9 @@ build aud2.exe: CXX_EXECUTABLE_LINKER__aud2_Debug CMakeFiles/aud2.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud2.dir\
   TARGET_FILE = aud2.exe
   TARGET_IMPLIB = libaud2.dll.a
-  TARGET_PDB = aud2.pdb
+  TARGET_PDB = aud2.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud3
@@ -1962,8 +1803,6 @@ build CMakeFiles/aud3.dir/aud_online/aud1/aud3.cpp.obj: CXX_COMPILER__aud3_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud3.dir\aud_online\aud1
-  TARGET_COMPILE_PDB = CMakeFiles\aud3.dir\
-  TARGET_PDB = aud3.pdb
 
 
 # =============================================================================
@@ -1979,10 +1818,9 @@ build aud3.exe: CXX_EXECUTABLE_LINKER__aud3_Debug CMakeFiles/aud3.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud3.dir\
   TARGET_FILE = aud3.exe
   TARGET_IMPLIB = libaud3.dll.a
-  TARGET_PDB = aud3.pdb
+  TARGET_PDB = aud3.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud4
@@ -1998,8 +1836,6 @@ build CMakeFiles/aud4.dir/aud_online/aud2/aud4.cpp.obj: CXX_COMPILER__aud4_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud4.dir
   OBJECT_FILE_DIR = CMakeFiles\aud4.dir\aud_online\aud2
-  TARGET_COMPILE_PDB = CMakeFiles\aud4.dir\
-  TARGET_PDB = aud4.pdb
 
 
 # =============================================================================
@@ -2015,10 +1851,9 @@ build aud4.exe: CXX_EXECUTABLE_LINKER__aud4_Debug CMakeFiles/aud4.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud4.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud4.dir\
   TARGET_FILE = aud4.exe
   TARGET_IMPLIB = libaud4.dll.a
-  TARGET_PDB = aud4.pdb
+  TARGET_PDB = aud4.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud5
@@ -2034,8 +1869,6 @@ build CMakeFiles/aud5.dir/aud_online/aud2/aud5.cpp.obj: CXX_COMPILER__aud5_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud5.dir
   OBJECT_FILE_DIR = CMakeFiles\aud5.dir\aud_online\aud2
-  TARGET_COMPILE_PDB = CMakeFiles\aud5.dir\
-  TARGET_PDB = aud5.pdb
 
 
 # =============================================================================
@@ -2051,10 +1884,9 @@ build aud5.exe: CXX_EXECUTABLE_LINKER__aud5_Debug CMakeFiles/aud5.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud5.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud5.dir\
   TARGET_FILE = aud5.exe
   TARGET_IMPLIB = libaud5.dll.a
-  TARGET_PDB = aud5.pdb
+  TARGET_PDB = aud5.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud6
@@ -2070,8 +1902,6 @@ build CMakeFiles/aud6.dir/aud_online/aud2/aud6.cpp.obj: CXX_COMPILER__aud6_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud6.dir
   OBJECT_FILE_DIR = CMakeFiles\aud6.dir\aud_online\aud2
-  TARGET_COMPILE_PDB = CMakeFiles\aud6.dir\
-  TARGET_PDB = aud6.pdb
 
 
 # =============================================================================
@@ -2087,10 +1917,9 @@ build aud6.exe: CXX_EXECUTABLE_LINKER__aud6_Debug CMakeFiles/aud6.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud6.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud6.dir\
   TARGET_FILE = aud6.exe
   TARGET_IMPLIB = libaud6.dll.a
-  TARGET_PDB = aud6.pdb
+  TARGET_PDB = aud6.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud7
@@ -2106,8 +1935,6 @@ build CMakeFiles/aud7.dir/aud_online/aud3/aud7.cpp.obj: CXX_COMPILER__aud7_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud7.dir
   OBJECT_FILE_DIR = CMakeFiles\aud7.dir\aud_online\aud3
-  TARGET_COMPILE_PDB = CMakeFiles\aud7.dir\
-  TARGET_PDB = aud7.pdb
 
 
 # =============================================================================
@@ -2123,10 +1950,9 @@ build aud7.exe: CXX_EXECUTABLE_LINKER__aud7_Debug CMakeFiles/aud7.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud7.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud7.dir\
   TARGET_FILE = aud7.exe
   TARGET_IMPLIB = libaud7.dll.a
-  TARGET_PDB = aud7.pdb
+  TARGET_PDB = aud7.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud8
@@ -2142,8 +1968,6 @@ build CMakeFiles/aud8.dir/aud_online/aud3/aud8.cpp.obj: CXX_COMPILER__aud8_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud8.dir
   OBJECT_FILE_DIR = CMakeFiles\aud8.dir\aud_online\aud3
-  TARGET_COMPILE_PDB = CMakeFiles\aud8.dir\
-  TARGET_PDB = aud8.pdb
 
 
 # =============================================================================
@@ -2159,10 +1983,9 @@ build aud8.exe: CXX_EXECUTABLE_LINKER__aud8_Debug CMakeFiles/aud8.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud8.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud8.dir\
   TARGET_FILE = aud8.exe
   TARGET_IMPLIB = libaud8.dll.a
-  TARGET_PDB = aud8.pdb
+  TARGET_PDB = aud8.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud9
@@ -2178,8 +2001,6 @@ build CMakeFiles/aud9.dir/aud_online/aud3/aud9.cpp.obj: CXX_COMPILER__aud9_unsca
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud9.dir
   OBJECT_FILE_DIR = CMakeFiles\aud9.dir\aud_online\aud3
-  TARGET_COMPILE_PDB = CMakeFiles\aud9.dir\
-  TARGET_PDB = aud9.pdb
 
 
 # =============================================================================
@@ -2195,10 +2016,9 @@ build aud9.exe: CXX_EXECUTABLE_LINKER__aud9_Debug CMakeFiles/aud9.dir/aud_online
   OBJECT_DIR = CMakeFiles\aud9.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud9.dir\
   TARGET_FILE = aud9.exe
   TARGET_IMPLIB = libaud9.dll.a
-  TARGET_PDB = aud9.pdb
+  TARGET_PDB = aud9.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud10
@@ -2214,8 +2034,6 @@ build CMakeFiles/aud10.dir/aud_online/aud3/aud10.cpp.obj: CXX_COMPILER__aud10_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud10.dir
   OBJECT_FILE_DIR = CMakeFiles\aud10.dir\aud_online\aud3
-  TARGET_COMPILE_PDB = CMakeFiles\aud10.dir\
-  TARGET_PDB = aud10.pdb
 
 
 # =============================================================================
@@ -2231,10 +2049,9 @@ build aud10.exe: CXX_EXECUTABLE_LINKER__aud10_Debug CMakeFiles/aud10.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud10.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud10.dir\
   TARGET_FILE = aud10.exe
   TARGET_IMPLIB = libaud10.dll.a
-  TARGET_PDB = aud10.pdb
+  TARGET_PDB = aud10.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud14
@@ -2250,8 +2067,6 @@ build CMakeFiles/aud14.dir/aud_online/aud4/aud14.cpp.obj: CXX_COMPILER__aud14_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud14.dir
   OBJECT_FILE_DIR = CMakeFiles\aud14.dir\aud_online\aud4
-  TARGET_COMPILE_PDB = CMakeFiles\aud14.dir\
-  TARGET_PDB = aud14.pdb
 
 
 # =============================================================================
@@ -2267,10 +2082,9 @@ build aud14.exe: CXX_EXECUTABLE_LINKER__aud14_Debug CMakeFiles/aud14.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud14.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud14.dir\
   TARGET_FILE = aud14.exe
   TARGET_IMPLIB = libaud14.dll.a
-  TARGET_PDB = aud14.pdb
+  TARGET_PDB = aud14.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud15
@@ -2286,8 +2100,6 @@ build CMakeFiles/aud15.dir/aud_online/aud4/aud15.cpp.obj: CXX_COMPILER__aud15_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud15.dir
   OBJECT_FILE_DIR = CMakeFiles\aud15.dir\aud_online\aud4
-  TARGET_COMPILE_PDB = CMakeFiles\aud15.dir\
-  TARGET_PDB = aud15.pdb
 
 
 # =============================================================================
@@ -2303,10 +2115,9 @@ build aud15.exe: CXX_EXECUTABLE_LINKER__aud15_Debug CMakeFiles/aud15.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud15.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud15.dir\
   TARGET_FILE = aud15.exe
   TARGET_IMPLIB = libaud15.dll.a
-  TARGET_PDB = aud15.pdb
+  TARGET_PDB = aud15.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud16
@@ -2322,8 +2133,6 @@ build CMakeFiles/aud16.dir/aud_online/aud5/aud16.cpp.obj: CXX_COMPILER__aud16_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud16.dir
   OBJECT_FILE_DIR = CMakeFiles\aud16.dir\aud_online\aud5
-  TARGET_COMPILE_PDB = CMakeFiles\aud16.dir\
-  TARGET_PDB = aud16.pdb
 
 
 # =============================================================================
@@ -2339,10 +2148,9 @@ build aud16.exe: CXX_EXECUTABLE_LINKER__aud16_Debug CMakeFiles/aud16.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud16.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud16.dir\
   TARGET_FILE = aud16.exe
   TARGET_IMPLIB = libaud16.dll.a
-  TARGET_PDB = aud16.pdb
+  TARGET_PDB = aud16.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud17
@@ -2358,8 +2166,6 @@ build CMakeFiles/aud17.dir/aud_online/aud5/aud17.cpp.obj: CXX_COMPILER__aud17_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud17.dir
   OBJECT_FILE_DIR = CMakeFiles\aud17.dir\aud_online\aud5
-  TARGET_COMPILE_PDB = CMakeFiles\aud17.dir\
-  TARGET_PDB = aud17.pdb
 
 
 # =============================================================================
@@ -2375,10 +2181,9 @@ build aud17.exe: CXX_EXECUTABLE_LINKER__aud17_Debug CMakeFiles/aud17.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud17.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud17.dir\
   TARGET_FILE = aud17.exe
   TARGET_IMPLIB = libaud17.dll.a
-  TARGET_PDB = aud17.pdb
+  TARGET_PDB = aud17.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud18
@@ -2394,8 +2199,6 @@ build CMakeFiles/aud18.dir/aud_online/aud6/aud18.cpp.obj: CXX_COMPILER__aud18_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud18.dir
   OBJECT_FILE_DIR = CMakeFiles\aud18.dir\aud_online\aud6
-  TARGET_COMPILE_PDB = CMakeFiles\aud18.dir\
-  TARGET_PDB = aud18.pdb
 
 
 # =============================================================================
@@ -2411,10 +2214,9 @@ build aud18.exe: CXX_EXECUTABLE_LINKER__aud18_Debug CMakeFiles/aud18.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud18.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud18.dir\
   TARGET_FILE = aud18.exe
   TARGET_IMPLIB = libaud18.dll.a
-  TARGET_PDB = aud18.pdb
+  TARGET_PDB = aud18.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud19
@@ -2430,8 +2232,6 @@ build CMakeFiles/aud19.dir/aud_online/aud6/aud19.cpp.obj: CXX_COMPILER__aud19_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud19.dir
   OBJECT_FILE_DIR = CMakeFiles\aud19.dir\aud_online\aud6
-  TARGET_COMPILE_PDB = CMakeFiles\aud19.dir\
-  TARGET_PDB = aud19.pdb
 
 
 # =============================================================================
@@ -2447,10 +2247,9 @@ build aud19.exe: CXX_EXECUTABLE_LINKER__aud19_Debug CMakeFiles/aud19.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud19.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud19.dir\
   TARGET_FILE = aud19.exe
   TARGET_IMPLIB = libaud19.dll.a
-  TARGET_PDB = aud19.pdb
+  TARGET_PDB = aud19.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud20
@@ -2466,8 +2265,6 @@ build CMakeFiles/aud20.dir/aud_online/aud6/aud20.cpp.obj: CXX_COMPILER__aud20_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud20.dir
   OBJECT_FILE_DIR = CMakeFiles\aud20.dir\aud_online\aud6
-  TARGET_COMPILE_PDB = CMakeFiles\aud20.dir\
-  TARGET_PDB = aud20.pdb
 
 
 # =============================================================================
@@ -2483,10 +2280,9 @@ build aud20.exe: CXX_EXECUTABLE_LINKER__aud20_Debug CMakeFiles/aud20.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud20.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud20.dir\
   TARGET_FILE = aud20.exe
   TARGET_IMPLIB = libaud20.dll.a
-  TARGET_PDB = aud20.pdb
+  TARGET_PDB = aud20.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud24
@@ -2502,8 +2298,6 @@ build CMakeFiles/aud24.dir/aud_online/aud6/aud24.cpp.obj: CXX_COMPILER__aud24_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud24.dir
   OBJECT_FILE_DIR = CMakeFiles\aud24.dir\aud_online\aud6
-  TARGET_COMPILE_PDB = CMakeFiles\aud24.dir\
-  TARGET_PDB = aud24.pdb
 
 
 # =============================================================================
@@ -2519,10 +2313,9 @@ build aud24.exe: CXX_EXECUTABLE_LINKER__aud24_Debug CMakeFiles/aud24.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud24.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud24.dir\
   TARGET_FILE = aud24.exe
   TARGET_IMPLIB = libaud24.dll.a
-  TARGET_PDB = aud24.pdb
+  TARGET_PDB = aud24.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud25
@@ -2538,8 +2331,6 @@ build CMakeFiles/aud25.dir/aud_online/aud7/aud25.cpp.obj: CXX_COMPILER__aud25_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud25.dir
   OBJECT_FILE_DIR = CMakeFiles\aud25.dir\aud_online\aud7
-  TARGET_COMPILE_PDB = CMakeFiles\aud25.dir\
-  TARGET_PDB = aud25.pdb
 
 
 # =============================================================================
@@ -2555,10 +2346,9 @@ build aud25.exe: CXX_EXECUTABLE_LINKER__aud25_Debug CMakeFiles/aud25.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud25.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud25.dir\
   TARGET_FILE = aud25.exe
   TARGET_IMPLIB = libaud25.dll.a
-  TARGET_PDB = aud25.pdb
+  TARGET_PDB = aud25.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud26
@@ -2574,8 +2364,6 @@ build CMakeFiles/aud26.dir/aud_online/aud7/aud26.cpp.obj: CXX_COMPILER__aud26_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud26.dir
   OBJECT_FILE_DIR = CMakeFiles\aud26.dir\aud_online\aud7
-  TARGET_COMPILE_PDB = CMakeFiles\aud26.dir\
-  TARGET_PDB = aud26.pdb
 
 
 # =============================================================================
@@ -2591,10 +2379,9 @@ build aud26.exe: CXX_EXECUTABLE_LINKER__aud26_Debug CMakeFiles/aud26.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud26.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud26.dir\
   TARGET_FILE = aud26.exe
   TARGET_IMPLIB = libaud26.dll.a
-  TARGET_PDB = aud26.pdb
+  TARGET_PDB = aud26.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud27
@@ -2610,8 +2397,6 @@ build CMakeFiles/aud27.dir/aud_online/aud7/aud27.cpp.obj: CXX_COMPILER__aud27_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud27.dir
   OBJECT_FILE_DIR = CMakeFiles\aud27.dir\aud_online\aud7
-  TARGET_COMPILE_PDB = CMakeFiles\aud27.dir\
-  TARGET_PDB = aud27.pdb
 
 
 # =============================================================================
@@ -2627,10 +2412,9 @@ build aud27.exe: CXX_EXECUTABLE_LINKER__aud27_Debug CMakeFiles/aud27.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud27.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud27.dir\
   TARGET_FILE = aud27.exe
   TARGET_IMPLIB = libaud27.dll.a
-  TARGET_PDB = aud27.pdb
+  TARGET_PDB = aud27.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud28
@@ -2646,8 +2430,6 @@ build CMakeFiles/aud28.dir/aud_online/aud8/aud28.cpp.obj: CXX_COMPILER__aud28_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud28.dir
   OBJECT_FILE_DIR = CMakeFiles\aud28.dir\aud_online\aud8
-  TARGET_COMPILE_PDB = CMakeFiles\aud28.dir\
-  TARGET_PDB = aud28.pdb
 
 
 # =============================================================================
@@ -2663,10 +2445,9 @@ build aud28.exe: CXX_EXECUTABLE_LINKER__aud28_Debug CMakeFiles/aud28.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud28.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud28.dir\
   TARGET_FILE = aud28.exe
   TARGET_IMPLIB = libaud28.dll.a
-  TARGET_PDB = aud28.pdb
+  TARGET_PDB = aud28.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud29
@@ -2682,8 +2463,6 @@ build CMakeFiles/aud29.dir/aud_online/aud8/aud29.cpp.obj: CXX_COMPILER__aud29_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud29.dir
   OBJECT_FILE_DIR = CMakeFiles\aud29.dir\aud_online\aud8
-  TARGET_COMPILE_PDB = CMakeFiles\aud29.dir\
-  TARGET_PDB = aud29.pdb
 
 
 # =============================================================================
@@ -2699,10 +2478,9 @@ build aud29.exe: CXX_EXECUTABLE_LINKER__aud29_Debug CMakeFiles/aud29.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud29.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud29.dir\
   TARGET_FILE = aud29.exe
   TARGET_IMPLIB = libaud29.dll.a
-  TARGET_PDB = aud29.pdb
+  TARGET_PDB = aud29.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud30
@@ -2718,8 +2496,6 @@ build CMakeFiles/aud30.dir/aud_online/aud8/aud30.cpp.obj: CXX_COMPILER__aud30_un
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud30.dir
   OBJECT_FILE_DIR = CMakeFiles\aud30.dir\aud_online\aud8
-  TARGET_COMPILE_PDB = CMakeFiles\aud30.dir\
-  TARGET_PDB = aud30.pdb
 
 
 # =============================================================================
@@ -2735,10 +2511,9 @@ build aud30.exe: CXX_EXECUTABLE_LINKER__aud30_Debug CMakeFiles/aud30.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud30.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud30.dir\
   TARGET_FILE = aud30.exe
   TARGET_IMPLIB = libaud30.dll.a
-  TARGET_PDB = aud30.pdb
+  TARGET_PDB = aud30.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud21
@@ -2754,8 +2529,6 @@ build CMakeFiles/aud21.dir/aud_online/kvali-sept/aud21.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud21.dir
   OBJECT_FILE_DIR = CMakeFiles\aud21.dir\aud_online\kvali-sept
-  TARGET_COMPILE_PDB = CMakeFiles\aud21.dir\
-  TARGET_PDB = aud21.pdb
 
 
 # =============================================================================
@@ -2771,10 +2544,9 @@ build aud21.exe: CXX_EXECUTABLE_LINKER__aud21_Debug CMakeFiles/aud21.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud21.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud21.dir\
   TARGET_FILE = aud21.exe
   TARGET_IMPLIB = libaud21.dll.a
-  TARGET_PDB = aud21.pdb
+  TARGET_PDB = aud21.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud22
@@ -2790,8 +2562,6 @@ build CMakeFiles/aud22.dir/aud_online/kvali-sept/aud22.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud22.dir
   OBJECT_FILE_DIR = CMakeFiles\aud22.dir\aud_online\kvali-sept
-  TARGET_COMPILE_PDB = CMakeFiles\aud22.dir\
-  TARGET_PDB = aud22.pdb
 
 
 # =============================================================================
@@ -2807,10 +2577,9 @@ build aud22.exe: CXX_EXECUTABLE_LINKER__aud22_Debug CMakeFiles/aud22.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud22.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud22.dir\
   TARGET_FILE = aud22.exe
   TARGET_IMPLIB = libaud22.dll.a
-  TARGET_PDB = aud22.pdb
+  TARGET_PDB = aud22.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud23
@@ -2826,8 +2595,6 @@ build CMakeFiles/aud23.dir/aud_online/kvali-sept/aud23.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud23.dir
   OBJECT_FILE_DIR = CMakeFiles\aud23.dir\aud_online\kvali-sept
-  TARGET_COMPILE_PDB = CMakeFiles\aud23.dir\
-  TARGET_PDB = aud23.pdb
 
 
 # =============================================================================
@@ -2843,10 +2610,9 @@ build aud23.exe: CXX_EXECUTABLE_LINKER__aud23_Debug CMakeFiles/aud23.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud23.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud23.dir\
   TARGET_FILE = aud23.exe
   TARGET_IMPLIB = libaud23.dll.a
-  TARGET_PDB = aud23.pdb
+  TARGET_PDB = aud23.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud11
@@ -2862,8 +2628,6 @@ build CMakeFiles/aud11.dir/aud_online/kolokviumski/aud11.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud11.dir
   OBJECT_FILE_DIR = CMakeFiles\aud11.dir\aud_online\kolokviumski
-  TARGET_COMPILE_PDB = CMakeFiles\aud11.dir\
-  TARGET_PDB = aud11.pdb
 
 
 # =============================================================================
@@ -2879,10 +2643,9 @@ build aud11.exe: CXX_EXECUTABLE_LINKER__aud11_Debug CMakeFiles/aud11.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud11.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud11.dir\
   TARGET_FILE = aud11.exe
   TARGET_IMPLIB = libaud11.dll.a
-  TARGET_PDB = aud11.pdb
+  TARGET_PDB = aud11.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud12
@@ -2898,8 +2661,6 @@ build CMakeFiles/aud12.dir/aud_online/kolokviumski/aud12.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud12.dir
   OBJECT_FILE_DIR = CMakeFiles\aud12.dir\aud_online\kolokviumski
-  TARGET_COMPILE_PDB = CMakeFiles\aud12.dir\
-  TARGET_PDB = aud12.pdb
 
 
 # =============================================================================
@@ -2915,10 +2676,9 @@ build aud12.exe: CXX_EXECUTABLE_LINKER__aud12_Debug CMakeFiles/aud12.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud12.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud12.dir\
   TARGET_FILE = aud12.exe
   TARGET_IMPLIB = libaud12.dll.a
-  TARGET_PDB = aud12.pdb
+  TARGET_PDB = aud12.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud13
@@ -2934,8 +2694,6 @@ build CMakeFiles/aud13.dir/aud_online/kolokviumski/aud13.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud13.dir
   OBJECT_FILE_DIR = CMakeFiles\aud13.dir\aud_online\kolokviumski
-  TARGET_COMPILE_PDB = CMakeFiles\aud13.dir\
-  TARGET_PDB = aud13.pdb
 
 
 # =============================================================================
@@ -2951,10 +2709,9 @@ build aud13.exe: CXX_EXECUTABLE_LINKER__aud13_Debug CMakeFiles/aud13.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud13.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud13.dir\
   TARGET_FILE = aud13.exe
   TARGET_IMPLIB = libaud13.dll.a
-  TARGET_PDB = aud13.pdb
+  TARGET_PDB = aud13.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud31
@@ -2970,8 +2727,6 @@ build CMakeFiles/aud31.dir/aud_online/kolokviumski/aud31.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud31.dir
   OBJECT_FILE_DIR = CMakeFiles\aud31.dir\aud_online\kolokviumski
-  TARGET_COMPILE_PDB = CMakeFiles\aud31.dir\
-  TARGET_PDB = aud31.pdb
 
 
 # =============================================================================
@@ -2987,10 +2742,9 @@ build aud31.exe: CXX_EXECUTABLE_LINKER__aud31_Debug CMakeFiles/aud31.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud31.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud31.dir\
   TARGET_FILE = aud31.exe
   TARGET_IMPLIB = libaud31.dll.a
-  TARGET_PDB = aud31.pdb
+  TARGET_PDB = aud31.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud32
@@ -3006,8 +2760,6 @@ build CMakeFiles/aud32.dir/aud_online/kolokviumski/aud32.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud32.dir
   OBJECT_FILE_DIR = CMakeFiles\aud32.dir\aud_online\kolokviumski
-  TARGET_COMPILE_PDB = CMakeFiles\aud32.dir\
-  TARGET_PDB = aud32.pdb
 
 
 # =============================================================================
@@ -3023,10 +2775,9 @@ build aud32.exe: CXX_EXECUTABLE_LINKER__aud32_Debug CMakeFiles/aud32.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud32.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud32.dir\
   TARGET_FILE = aud32.exe
   TARGET_IMPLIB = libaud32.dll.a
-  TARGET_PDB = aud32.pdb
+  TARGET_PDB = aud32.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud33
@@ -3042,8 +2793,6 @@ build CMakeFiles/aud33.dir/aud_online/labs_courses/aud33.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud33.dir
   OBJECT_FILE_DIR = CMakeFiles\aud33.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud33.dir\
-  TARGET_PDB = aud33.pdb
 
 
 # =============================================================================
@@ -3059,10 +2808,9 @@ build aud33.exe: CXX_EXECUTABLE_LINKER__aud33_Debug CMakeFiles/aud33.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud33.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud33.dir\
   TARGET_FILE = aud33.exe
   TARGET_IMPLIB = libaud33.dll.a
-  TARGET_PDB = aud33.pdb
+  TARGET_PDB = aud33.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud34
@@ -3078,8 +2826,6 @@ build CMakeFiles/aud34.dir/aud_online/labs_courses/aud34.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud34.dir
   OBJECT_FILE_DIR = CMakeFiles\aud34.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud34.dir\
-  TARGET_PDB = aud34.pdb
 
 
 # =============================================================================
@@ -3095,10 +2841,9 @@ build aud34.exe: CXX_EXECUTABLE_LINKER__aud34_Debug CMakeFiles/aud34.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud34.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud34.dir\
   TARGET_FILE = aud34.exe
   TARGET_IMPLIB = libaud34.dll.a
-  TARGET_PDB = aud34.pdb
+  TARGET_PDB = aud34.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud35
@@ -3114,8 +2859,6 @@ build CMakeFiles/aud35.dir/aud_online/labs_courses/aud35.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud35.dir
   OBJECT_FILE_DIR = CMakeFiles\aud35.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud35.dir\
-  TARGET_PDB = aud35.pdb
 
 
 # =============================================================================
@@ -3131,10 +2874,9 @@ build aud35.exe: CXX_EXECUTABLE_LINKER__aud35_Debug CMakeFiles/aud35.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud35.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud35.dir\
   TARGET_FILE = aud35.exe
   TARGET_IMPLIB = libaud35.dll.a
-  TARGET_PDB = aud35.pdb
+  TARGET_PDB = aud35.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud36
@@ -3150,8 +2892,6 @@ build CMakeFiles/aud36.dir/aud_online/labs_courses/aud36.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud36.dir
   OBJECT_FILE_DIR = CMakeFiles\aud36.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud36.dir\
-  TARGET_PDB = aud36.pdb
 
 
 # =============================================================================
@@ -3167,10 +2907,9 @@ build aud36.exe: CXX_EXECUTABLE_LINKER__aud36_Debug CMakeFiles/aud36.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud36.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud36.dir\
   TARGET_FILE = aud36.exe
   TARGET_IMPLIB = libaud36.dll.a
-  TARGET_PDB = aud36.pdb
+  TARGET_PDB = aud36.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud37
@@ -3186,8 +2925,6 @@ build CMakeFiles/aud37.dir/aud_online/labs_courses/aud37.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud37.dir
   OBJECT_FILE_DIR = CMakeFiles\aud37.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud37.dir\
-  TARGET_PDB = aud37.pdb
 
 
 # =============================================================================
@@ -3203,10 +2940,9 @@ build aud37.exe: CXX_EXECUTABLE_LINKER__aud37_Debug CMakeFiles/aud37.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud37.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud37.dir\
   TARGET_FILE = aud37.exe
   TARGET_IMPLIB = libaud37.dll.a
-  TARGET_PDB = aud37.pdb
+  TARGET_PDB = aud37.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud38
@@ -3222,8 +2958,6 @@ build CMakeFiles/aud38.dir/aud_online/labs_courses/aud38.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud38.dir
   OBJECT_FILE_DIR = CMakeFiles\aud38.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud38.dir\
-  TARGET_PDB = aud38.pdb
 
 
 # =============================================================================
@@ -3239,10 +2973,9 @@ build aud38.exe: CXX_EXECUTABLE_LINKER__aud38_Debug CMakeFiles/aud38.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud38.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud38.dir\
   TARGET_FILE = aud38.exe
   TARGET_IMPLIB = libaud38.dll.a
-  TARGET_PDB = aud38.pdb
+  TARGET_PDB = aud38.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud51
@@ -3258,8 +2991,6 @@ build CMakeFiles/aud51.dir/aud_online/labs_courses/aud51.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud51.dir
   OBJECT_FILE_DIR = CMakeFiles\aud51.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud51.dir\
-  TARGET_PDB = aud51.pdb
 
 
 # =============================================================================
@@ -3275,10 +3006,9 @@ build aud51.exe: CXX_EXECUTABLE_LINKER__aud51_Debug CMakeFiles/aud51.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud51.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud51.dir\
   TARGET_FILE = aud51.exe
   TARGET_IMPLIB = libaud51.dll.a
-  TARGET_PDB = aud51.pdb
+  TARGET_PDB = aud51.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud52
@@ -3294,8 +3024,6 @@ build CMakeFiles/aud52.dir/aud_online/labs_courses/aud52.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud52.dir
   OBJECT_FILE_DIR = CMakeFiles\aud52.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud52.dir\
-  TARGET_PDB = aud52.pdb
 
 
 # =============================================================================
@@ -3311,10 +3039,9 @@ build aud52.exe: CXX_EXECUTABLE_LINKER__aud52_Debug CMakeFiles/aud52.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud52.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud52.dir\
   TARGET_FILE = aud52.exe
   TARGET_IMPLIB = libaud52.dll.a
-  TARGET_PDB = aud52.pdb
+  TARGET_PDB = aud52.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud53
@@ -3330,8 +3057,6 @@ build CMakeFiles/aud53.dir/aud_online/labs_courses/aud53.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud53.dir
   OBJECT_FILE_DIR = CMakeFiles\aud53.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud53.dir\
-  TARGET_PDB = aud53.pdb
 
 
 # =============================================================================
@@ -3347,10 +3072,9 @@ build aud53.exe: CXX_EXECUTABLE_LINKER__aud53_Debug CMakeFiles/aud53.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud53.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud53.dir\
   TARGET_FILE = aud53.exe
   TARGET_IMPLIB = libaud53.dll.a
-  TARGET_PDB = aud53.pdb
+  TARGET_PDB = aud53.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud54
@@ -3366,8 +3090,6 @@ build CMakeFiles/aud54.dir/aud_online/labs_courses/aud54.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud54.dir
   OBJECT_FILE_DIR = CMakeFiles\aud54.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud54.dir\
-  TARGET_PDB = aud54.pdb
 
 
 # =============================================================================
@@ -3383,10 +3105,9 @@ build aud54.exe: CXX_EXECUTABLE_LINKER__aud54_Debug CMakeFiles/aud54.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud54.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud54.dir\
   TARGET_FILE = aud54.exe
   TARGET_IMPLIB = libaud54.dll.a
-  TARGET_PDB = aud54.pdb
+  TARGET_PDB = aud54.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud55
@@ -3402,8 +3123,6 @@ build CMakeFiles/aud55.dir/aud_online/labs_courses/aud55.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud55.dir
   OBJECT_FILE_DIR = CMakeFiles\aud55.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud55.dir\
-  TARGET_PDB = aud55.pdb
 
 
 # =============================================================================
@@ -3419,10 +3138,9 @@ build aud55.exe: CXX_EXECUTABLE_LINKER__aud55_Debug CMakeFiles/aud55.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud55.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud55.dir\
   TARGET_FILE = aud55.exe
   TARGET_IMPLIB = libaud55.dll.a
-  TARGET_PDB = aud55.pdb
+  TARGET_PDB = aud55.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud56
@@ -3438,8 +3156,6 @@ build CMakeFiles/aud56.dir/aud_online/labs_courses/aud56.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud56.dir
   OBJECT_FILE_DIR = CMakeFiles\aud56.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud56.dir\
-  TARGET_PDB = aud56.pdb
 
 
 # =============================================================================
@@ -3455,10 +3171,9 @@ build aud56.exe: CXX_EXECUTABLE_LINKER__aud56_Debug CMakeFiles/aud56.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud56.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud56.dir\
   TARGET_FILE = aud56.exe
   TARGET_IMPLIB = libaud56.dll.a
-  TARGET_PDB = aud56.pdb
+  TARGET_PDB = aud56.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud57
@@ -3474,8 +3189,6 @@ build CMakeFiles/aud57.dir/aud_online/labs_courses/aud57.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud57.dir
   OBJECT_FILE_DIR = CMakeFiles\aud57.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud57.dir\
-  TARGET_PDB = aud57.pdb
 
 
 # =============================================================================
@@ -3491,10 +3204,9 @@ build aud57.exe: CXX_EXECUTABLE_LINKER__aud57_Debug CMakeFiles/aud57.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud57.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud57.dir\
   TARGET_FILE = aud57.exe
   TARGET_IMPLIB = libaud57.dll.a
-  TARGET_PDB = aud57.pdb
+  TARGET_PDB = aud57.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud58
@@ -3510,8 +3222,6 @@ build CMakeFiles/aud58.dir/aud_online/labs_courses/aud58.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud58.dir
   OBJECT_FILE_DIR = CMakeFiles\aud58.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud58.dir\
-  TARGET_PDB = aud58.pdb
 
 
 # =============================================================================
@@ -3527,10 +3237,9 @@ build aud58.exe: CXX_EXECUTABLE_LINKER__aud58_Debug CMakeFiles/aud58.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud58.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud58.dir\
   TARGET_FILE = aud58.exe
   TARGET_IMPLIB = libaud58.dll.a
-  TARGET_PDB = aud58.pdb
+  TARGET_PDB = aud58.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud59
@@ -3546,8 +3255,6 @@ build CMakeFiles/aud59.dir/aud_online/labs_courses/aud59.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud59.dir
   OBJECT_FILE_DIR = CMakeFiles\aud59.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud59.dir\
-  TARGET_PDB = aud59.pdb
 
 
 # =============================================================================
@@ -3563,10 +3270,9 @@ build aud59.exe: CXX_EXECUTABLE_LINKER__aud59_Debug CMakeFiles/aud59.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud59.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud59.dir\
   TARGET_FILE = aud59.exe
   TARGET_IMPLIB = libaud59.dll.a
-  TARGET_PDB = aud59.pdb
+  TARGET_PDB = aud59.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud60
@@ -3582,8 +3288,6 @@ build CMakeFiles/aud60.dir/aud_online/labs_courses/aud60.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud60.dir
   OBJECT_FILE_DIR = CMakeFiles\aud60.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud60.dir\
-  TARGET_PDB = aud60.pdb
 
 
 # =============================================================================
@@ -3599,10 +3303,9 @@ build aud60.exe: CXX_EXECUTABLE_LINKER__aud60_Debug CMakeFiles/aud60.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud60.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud60.dir\
   TARGET_FILE = aud60.exe
   TARGET_IMPLIB = libaud60.dll.a
-  TARGET_PDB = aud60.pdb
+  TARGET_PDB = aud60.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud61
@@ -3618,8 +3321,6 @@ build CMakeFiles/aud61.dir/aud_online/labs_courses/aud61.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud61.dir
   OBJECT_FILE_DIR = CMakeFiles\aud61.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud61.dir\
-  TARGET_PDB = aud61.pdb
 
 
 # =============================================================================
@@ -3635,10 +3336,9 @@ build aud61.exe: CXX_EXECUTABLE_LINKER__aud61_Debug CMakeFiles/aud61.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud61.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud61.dir\
   TARGET_FILE = aud61.exe
   TARGET_IMPLIB = libaud61.dll.a
-  TARGET_PDB = aud61.pdb
+  TARGET_PDB = aud61.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud62
@@ -3654,8 +3354,6 @@ build CMakeFiles/aud62.dir/aud_online/labs_courses/aud62.cpp.obj: CXX_COMPILER__
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud62.dir
   OBJECT_FILE_DIR = CMakeFiles\aud62.dir\aud_online\labs_courses
-  TARGET_COMPILE_PDB = CMakeFiles\aud62.dir\
-  TARGET_PDB = aud62.pdb
 
 
 # =============================================================================
@@ -3671,10 +3369,9 @@ build aud62.exe: CXX_EXECUTABLE_LINKER__aud62_Debug CMakeFiles/aud62.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud62.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud62.dir\
   TARGET_FILE = aud62.exe
   TARGET_IMPLIB = libaud62.dll.a
-  TARGET_PDB = aud62.pdb
+  TARGET_PDB = aud62.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud39
@@ -3690,8 +3387,6 @@ build CMakeFiles/aud39.dir/aud_online/aud9-files/aud39.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud39.dir
   OBJECT_FILE_DIR = CMakeFiles\aud39.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud39.dir\
-  TARGET_PDB = aud39.pdb
 
 
 # =============================================================================
@@ -3707,10 +3402,9 @@ build aud39.exe: CXX_EXECUTABLE_LINKER__aud39_Debug CMakeFiles/aud39.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud39.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud39.dir\
   TARGET_FILE = aud39.exe
   TARGET_IMPLIB = libaud39.dll.a
-  TARGET_PDB = aud39.pdb
+  TARGET_PDB = aud39.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud40
@@ -3726,8 +3420,6 @@ build CMakeFiles/aud40.dir/aud_online/aud9-files/aud40.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud40.dir
   OBJECT_FILE_DIR = CMakeFiles\aud40.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud40.dir\
-  TARGET_PDB = aud40.pdb
 
 
 # =============================================================================
@@ -3743,10 +3435,9 @@ build aud40.exe: CXX_EXECUTABLE_LINKER__aud40_Debug CMakeFiles/aud40.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud40.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud40.dir\
   TARGET_FILE = aud40.exe
   TARGET_IMPLIB = libaud40.dll.a
-  TARGET_PDB = aud40.pdb
+  TARGET_PDB = aud40.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud41
@@ -3762,8 +3453,6 @@ build CMakeFiles/aud41.dir/aud_online/aud9-files/aud41.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud41.dir
   OBJECT_FILE_DIR = CMakeFiles\aud41.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud41.dir\
-  TARGET_PDB = aud41.pdb
 
 
 # =============================================================================
@@ -3779,10 +3468,9 @@ build aud41.exe: CXX_EXECUTABLE_LINKER__aud41_Debug CMakeFiles/aud41.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud41.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud41.dir\
   TARGET_FILE = aud41.exe
   TARGET_IMPLIB = libaud41.dll.a
-  TARGET_PDB = aud41.pdb
+  TARGET_PDB = aud41.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud42
@@ -3798,8 +3486,6 @@ build CMakeFiles/aud42.dir/aud_online/aud9-files/aud42.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud42.dir
   OBJECT_FILE_DIR = CMakeFiles\aud42.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud42.dir\
-  TARGET_PDB = aud42.pdb
 
 
 # =============================================================================
@@ -3815,10 +3501,9 @@ build aud42.exe: CXX_EXECUTABLE_LINKER__aud42_Debug CMakeFiles/aud42.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud42.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud42.dir\
   TARGET_FILE = aud42.exe
   TARGET_IMPLIB = libaud42.dll.a
-  TARGET_PDB = aud42.pdb
+  TARGET_PDB = aud42.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud43
@@ -3834,8 +3519,6 @@ build CMakeFiles/aud43.dir/aud_online/aud9-files/aud43.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud43.dir
   OBJECT_FILE_DIR = CMakeFiles\aud43.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud43.dir\
-  TARGET_PDB = aud43.pdb
 
 
 # =============================================================================
@@ -3851,10 +3534,9 @@ build aud43.exe: CXX_EXECUTABLE_LINKER__aud43_Debug CMakeFiles/aud43.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud43.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud43.dir\
   TARGET_FILE = aud43.exe
   TARGET_IMPLIB = libaud43.dll.a
-  TARGET_PDB = aud43.pdb
+  TARGET_PDB = aud43.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud44
@@ -3870,8 +3552,6 @@ build CMakeFiles/aud44.dir/aud_online/aud9-files/aud44.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud44.dir
   OBJECT_FILE_DIR = CMakeFiles\aud44.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud44.dir\
-  TARGET_PDB = aud44.pdb
 
 
 # =============================================================================
@@ -3887,10 +3567,9 @@ build aud44.exe: CXX_EXECUTABLE_LINKER__aud44_Debug CMakeFiles/aud44.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud44.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud44.dir\
   TARGET_FILE = aud44.exe
   TARGET_IMPLIB = libaud44.dll.a
-  TARGET_PDB = aud44.pdb
+  TARGET_PDB = aud44.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud45
@@ -3906,8 +3585,6 @@ build CMakeFiles/aud45.dir/aud_online/aud9-files/aud45.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud45.dir
   OBJECT_FILE_DIR = CMakeFiles\aud45.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud45.dir\
-  TARGET_PDB = aud45.pdb
 
 
 # =============================================================================
@@ -3923,10 +3600,9 @@ build aud45.exe: CXX_EXECUTABLE_LINKER__aud45_Debug CMakeFiles/aud45.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud45.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud45.dir\
   TARGET_FILE = aud45.exe
   TARGET_IMPLIB = libaud45.dll.a
-  TARGET_PDB = aud45.pdb
+  TARGET_PDB = aud45.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud46
@@ -3942,8 +3618,6 @@ build CMakeFiles/aud46.dir/aud_online/aud9-files/aud46.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud46.dir
   OBJECT_FILE_DIR = CMakeFiles\aud46.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud46.dir\
-  TARGET_PDB = aud46.pdb
 
 
 # =============================================================================
@@ -3959,10 +3633,9 @@ build aud46.exe: CXX_EXECUTABLE_LINKER__aud46_Debug CMakeFiles/aud46.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud46.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud46.dir\
   TARGET_FILE = aud46.exe
   TARGET_IMPLIB = libaud46.dll.a
-  TARGET_PDB = aud46.pdb
+  TARGET_PDB = aud46.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud47
@@ -3978,8 +3651,6 @@ build CMakeFiles/aud47.dir/aud_online/aud9-files/aud47.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud47.dir
   OBJECT_FILE_DIR = CMakeFiles\aud47.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud47.dir\
-  TARGET_PDB = aud47.pdb
 
 
 # =============================================================================
@@ -3995,10 +3666,9 @@ build aud47.exe: CXX_EXECUTABLE_LINKER__aud47_Debug CMakeFiles/aud47.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud47.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud47.dir\
   TARGET_FILE = aud47.exe
   TARGET_IMPLIB = libaud47.dll.a
-  TARGET_PDB = aud47.pdb
+  TARGET_PDB = aud47.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud48
@@ -4014,8 +3684,6 @@ build CMakeFiles/aud48.dir/aud_online/aud9-files/aud48.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud48.dir
   OBJECT_FILE_DIR = CMakeFiles\aud48.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud48.dir\
-  TARGET_PDB = aud48.pdb
 
 
 # =============================================================================
@@ -4031,10 +3699,9 @@ build aud48.exe: CXX_EXECUTABLE_LINKER__aud48_Debug CMakeFiles/aud48.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud48.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud48.dir\
   TARGET_FILE = aud48.exe
   TARGET_IMPLIB = libaud48.dll.a
-  TARGET_PDB = aud48.pdb
+  TARGET_PDB = aud48.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud49
@@ -4050,8 +3717,6 @@ build CMakeFiles/aud49.dir/aud_online/aud9-files/aud49.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud49.dir
   OBJECT_FILE_DIR = CMakeFiles\aud49.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud49.dir\
-  TARGET_PDB = aud49.pdb
 
 
 # =============================================================================
@@ -4067,10 +3732,9 @@ build aud49.exe: CXX_EXECUTABLE_LINKER__aud49_Debug CMakeFiles/aud49.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud49.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud49.dir\
   TARGET_FILE = aud49.exe
   TARGET_IMPLIB = libaud49.dll.a
-  TARGET_PDB = aud49.pdb
+  TARGET_PDB = aud49.exe.dbg
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud50
@@ -4086,8 +3750,6 @@ build CMakeFiles/aud50.dir/aud_online/aud9-files/aud50.cpp.obj: CXX_COMPILER__au
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud50.dir
   OBJECT_FILE_DIR = CMakeFiles\aud50.dir\aud_online\aud9-files
-  TARGET_COMPILE_PDB = CMakeFiles\aud50.dir\
-  TARGET_PDB = aud50.pdb
 
 
 # =============================================================================
@@ -4103,10 +3765,9 @@ build aud50.exe: CXX_EXECUTABLE_LINKER__aud50_Debug CMakeFiles/aud50.dir/aud_onl
   OBJECT_DIR = CMakeFiles\aud50.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_COMPILE_PDB = CMakeFiles\aud50.dir\
   TARGET_FILE = aud50.exe
   TARGET_IMPLIB = libaud50.dll.a
-  TARGET_PDB = aud50.pdb
+  TARGET_PDB = aud50.exe.dbg
 
 
 #############################################
@@ -4377,14 +4038,14 @@ build all: phony oop23_24.exe ispitna1.exe ispitna2.exe ispitna3.exe ispitna4.ex
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/OOP-24-25/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/OOP-24-25/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/OOP-24-25/CMakeLists.txt: phony
+build C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/oop/OOP-24-25/CMakeLists.txt: phony
 
 
 #############################################
