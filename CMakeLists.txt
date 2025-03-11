@@ -133,6 +133,7 @@ add_executable(oop23_24 pldh/main.cpp)
 #add_executable(aud50 aud_online/aud9-files/aud50.cpp)
 
 add_executable(labs_vjet aud_24-25/labs_24-25/labs_vjet.cpp)
+add_executable(labs1.3 aud_24-25/labs_24-25/labs1.3.cpp)
 
 add_executable(aud1.1 aud_24-25/aud1/zad1.cpp)
 add_executable(aud1.2 aud_24-25/aud1/zad2.cpp)
