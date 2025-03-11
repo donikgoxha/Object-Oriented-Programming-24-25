@@ -23,49 +23,63 @@
     <generated>
       <config projectName="oop23_24" targetName="oop23_24" />
       <config projectName="oop23_24" targetName="labs_vjet" />
-      <config projectName="oop23_24" targetName="aud6.2" />
+      <config projectName="oop23_24" targetName="labs1.3" />
       <config projectName="oop23_24" targetName="aud5.3" />
+      <config projectName="oop23_24" targetName="aud6.2" />
       <config projectName="oop23_24" targetName="aud7.1" />
       <config projectName="oop23_24" targetName="aud6.3" />
-      <config projectName="oop23_24" targetName="aud8.1" />
       <config projectName="oop23_24" targetName="aud7.2" />
-      <config projectName="oop23_24" targetName="aud4.2" />
+      <config projectName="oop23_24" targetName="aud8.1" />
       <config projectName="oop23_24" targetName="aud3.3" />
+      <config projectName="oop23_24" targetName="aud4.2" />
       <config projectName="oop23_24" targetName="aud5.1" />
       <config projectName="oop23_24" targetName="aud4.3" />
-      <config projectName="oop23_24" targetName="aud6.1" />
       <config projectName="oop23_24" targetName="aud5.2" />
+      <config projectName="oop23_24" targetName="aud6.1" />
       <config projectName="oop23_24" targetName="aud9.3" />
-      <config projectName="oop23_24" targetName="aud8.2" />
       <config projectName="oop23_24" targetName="aud7.3" />
+      <config projectName="oop23_24" targetName="aud8.2" />
       <config projectName="oop23_24" targetName="aud9.1" />
       <config projectName="oop23_24" targetName="aud8.3" />
       <config projectName="oop23_24" targetName="aud9.2" />
-      <config projectName="oop23_24" targetName="aud2.2" />
+      <config projectName="oop23_24" targetName="labs1.1" />
+      <config projectName="oop23_24" targetName="labs1.2" />
       <config projectName="oop23_24" targetName="aud1.3" />
+      <config projectName="oop23_24" targetName="aud2.2" />
       <config projectName="oop23_24" targetName="aud3.1" />
       <config projectName="oop23_24" targetName="aud2.3" />
-      <config projectName="oop23_24" targetName="aud4.1" />
       <config projectName="oop23_24" targetName="aud3.2" />
+      <config projectName="oop23_24" targetName="aud4.1" />
       <config projectName="oop23_24" targetName="aud1.1" />
-      <config projectName="oop23_24" targetName="aud2.1" />
       <config projectName="oop23_24" targetName="aud1.2" />
+      <config projectName="oop23_24" targetName="aud2.1" />
       <config projectName="oop23_24" targetName="aud10.2" />
       <config projectName="oop23_24" targetName="aud10.1" />
       <config projectName="oop23_24" targetName="aud10.3" />
     </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8d95fc7-942b-48d2-9057-689a4970e832" name="Changes" comment="add">
-      <change afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.2.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.3.cpp" afterDir="false" />
+    <list default="true" id="244851fb-bc77-48e4-90f5-c43e07f36e4f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.3.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/material_theme_project_new.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/oop23-24.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,17 +91,11 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
-    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;assignee&quot;: &quot;donikgoxha&quot;
-    }
-  ],
   &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
     &quot;assignee&quot;: &quot;donikgoxha&quot;
   }
 }</component>
@@ -97,77 +105,22 @@
     &quot;accountId&quot;: &quot;8ec8f520-0b96-4c94-9cbb-868232372686&quot;
   }
 }</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/aud_online/aud1/aud1.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/aud2/aud4.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/aud4/aud14.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/aud5/aud16.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/aud6/aud18.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/aud7/aud25.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/aud9-files/aud40.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/kolokviumski/aud12.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/aud_online/kvali-sept/aud21.cpp" root0="FORCE_HIGHLIGHTING" />
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2024" />
-    <option name="minorVersion" value="2.2" />
+    <option name="minorVersion" value="3.2" />
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2qJ9UuT5m7wh5Wre5syhfbb5xxE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="false" id="Update" />
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2uAowhAiUKckh2Sf6jqjxE7FInH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "C/C++ File.ispitna35_eng.cpp.executor": "Run",
-    "C/C++ File.ispitna36_eng.cpp.executor": "Run",
-    "C/C++ File.labs1.1.cpp.executor": "Run",
-    "CMake Application.aud1.1.executor": "Run",
-    "CMake Application.aud1.2.executor": "Run",
-    "CMake Application.aud1.executor": "Run",
-    "CMake Application.aud10.executor": "Run",
-    "CMake Application.aud12.executor": "Run",
-    "CMake Application.aud13.executor": "Run",
-    "CMake Application.aud14.executor": "Run",
-    "CMake Application.aud15.executor": "Run",
-    "CMake Application.aud16.executor": "Run",
-    "CMake Application.aud17.executor": "Run",
-    "CMake Application.aud19.executor": "Run",
-    "CMake Application.aud2.1.executor": "Run",
-    "CMake Application.aud2.executor": "Run",
-    "CMake Application.aud20.executor": "Run",
-    "CMake Application.aud24.executor": "Run",
-    "CMake Application.aud25.executor": "Run",
-    "CMake Application.aud26.executor": "Run",
-    "CMake Application.aud27.executor": "Run",
-    "CMake Application.aud28.executor": "Run",
-    "CMake Application.aud29.executor": "Run",
-    "CMake Application.aud3.executor": "Run",
-    "CMake Application.aud30.executor": "Run",
-    "CMake Application.aud31.executor": "Run",
-    "CMake Application.aud39.executor": "Run",
-    "CMake Application.aud4.executor": "Run",
-    "CMake Application.aud5.executor": "Run",
-    "CMake Application.aud6.executor": "Run",
-    "CMake Application.aud8.executor": "Run",
-    "CMake Application.ispitna1.executor": "Run",
-    "CMake Application.ispitna15.executor": "Run",
-    "CMake Application.ispitna26.executor": "Run",
-    "CMake Application.ispitna3.executor": "Run",
-    "CMake Application.ispitna36.executor": "Run",
-    "CMake Application.oop23_24.executor": "Run",
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -177,274 +130,245 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/aud_24-25/labs_24-25/labs1.1.cpp",
+    "last_opened_file_path": "D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "settings.editor.selected.configurable": "configurable.group.other",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\labs_24-25" />
-      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\aud10" />
-      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\aud9" />
-      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\aud8" />
-      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\aud7" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\pldh" />
-      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25" />
-      <recent name="D:\documents\CLASSES\oop\oop23-24\aud_online\aud9-files" />
-      <recent name="D:\documents\CLASSES\oop\oop23-24\aud_online\labs_courses" />
-      <recent name="D:\documents\CLASSES\oop\oop23-24\aud_online\kolokviumski" />
-    </key>
+  <component name="RunManager" selected="CMake Application.aud1.1">
+    <configuration name="aud10.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud10.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud10.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud10.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud10.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud10.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud10.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud10.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud10.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud1.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud1.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud1.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud1.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud1.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud1.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud1.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud1.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud1.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud2.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud2.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud2.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud2.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud2.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud2.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud2.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud2.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud2.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud3.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud3.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud3.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud3.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud3.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud3.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud3.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud3.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud3.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud4.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud4.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud4.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud4.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud4.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud4.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud4.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud4.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud4.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud5.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud5.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud5.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud5.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud5.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud5.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud5.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud5.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud5.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud6.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud6.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud6.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud6.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud6.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud6.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud6.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud6.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud6.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud7.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud7.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud7.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud7.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud7.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud7.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud7.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud7.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud7.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud8.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud8.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud8.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud8.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud8.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud8.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud8.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud8.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud8.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud9.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud9.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud9.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud9.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud9.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud9.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aud9.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud9.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud9.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs1.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs1.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs1.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs1.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs1.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs1.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs1.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs1.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs1.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs_vjet" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs_vjet" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs_vjet">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="oop23_24" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="oop23_24" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="oop23_24">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.aud10.1" />
+      <item itemvalue="CMake Application.aud10.2" />
+      <item itemvalue="CMake Application.aud10.3" />
+      <item itemvalue="CMake Application.aud1.1" />
+      <item itemvalue="CMake Application.aud1.2" />
+      <item itemvalue="CMake Application.aud1.3" />
+      <item itemvalue="CMake Application.aud2.1" />
+      <item itemvalue="CMake Application.aud2.2" />
+      <item itemvalue="CMake Application.aud2.3" />
+      <item itemvalue="CMake Application.aud3.1" />
+      <item itemvalue="CMake Application.aud3.2" />
+      <item itemvalue="CMake Application.aud3.3" />
+      <item itemvalue="CMake Application.aud4.1" />
+      <item itemvalue="CMake Application.aud4.2" />
+      <item itemvalue="CMake Application.aud4.3" />
+      <item itemvalue="CMake Application.aud5.1" />
+      <item itemvalue="CMake Application.aud5.2" />
+      <item itemvalue="CMake Application.aud5.3" />
+      <item itemvalue="CMake Application.aud6.1" />
+      <item itemvalue="CMake Application.aud6.2" />
+      <item itemvalue="CMake Application.aud6.3" />
+      <item itemvalue="CMake Application.aud7.1" />
+      <item itemvalue="CMake Application.aud7.2" />
+      <item itemvalue="CMake Application.aud7.3" />
+      <item itemvalue="CMake Application.aud8.1" />
+      <item itemvalue="CMake Application.aud8.2" />
+      <item itemvalue="CMake Application.aud8.3" />
+      <item itemvalue="CMake Application.aud9.1" />
+      <item itemvalue="CMake Application.aud9.2" />
+      <item itemvalue="CMake Application.aud9.3" />
+      <item itemvalue="CMake Application.labs1.1" />
+      <item itemvalue="CMake Application.labs1.2" />
+      <item itemvalue="CMake Application.labs1.3" />
+      <item itemvalue="CMake Application.labs_vjet" />
+      <item itemvalue="CMake Application.oop23_24" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c8d95fc7-942b-48d2-9057-689a4970e832" name="Changes" comment="" />
-      <created>1734369829308</created>
+      <changelist id="244851fb-bc77-48e4-90f5-c43e07f36e4f" name="Changes" comment="" />
+      <created>1741700980006</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1734369829308</updated>
-      <workItem from="1734369831418" duration="9217000" />
-      <workItem from="1734431081255" duration="11260000" />
-      <workItem from="1735157963688" duration="197000" />
-      <workItem from="1735202869270" duration="37370000" />
-      <workItem from="1735674887741" duration="1007000" />
-      <workItem from="1735675916810" duration="2617000" />
-      <workItem from="1735821000027" duration="6389000" />
-      <workItem from="1735832927729" duration="35763000" />
-      <workItem from="1736114287371" duration="7887000" />
-      <workItem from="1736259325241" duration="11761000" />
-      <workItem from="1736322867641" duration="7118000" />
-      <workItem from="1736336264296" duration="523000" />
-      <workItem from="1736343108031" duration="81000" />
-      <workItem from="1736413368462" duration="17488000" />
-      <workItem from="1736495259226" duration="4771000" />
-      <workItem from="1736504519426" duration="7476000" />
-      <workItem from="1736515209745" duration="5469000" />
-      <workItem from="1736614289782" duration="1191000" />
-      <workItem from="1736706280681" duration="1202000" />
-      <workItem from="1736707524994" duration="13774000" />
-      <workItem from="1736776693879" duration="4773000" />
-      <workItem from="1736942687948" duration="110000" />
-      <workItem from="1737043612670" duration="2806000" />
-      <workItem from="1737075585350" duration="35000" />
-      <workItem from="1737075692943" duration="88000" />
-      <workItem from="1737076660702" duration="48000" />
-      <workItem from="1737159628557" duration="1900000" />
-      <workItem from="1737224282367" duration="12615000" />
-      <workItem from="1737411923714" duration="3357000" />
-      <workItem from="1737663991232" duration="7767000" />
-      <workItem from="1737672031647" duration="1813000" />
-      <workItem from="1737676065544" duration="969000" />
-      <workItem from="1737728276940" duration="10000" />
-      <workItem from="1737741479614" duration="7755000" />
-      <workItem from="1737809306582" duration="5271000" />
-      <workItem from="1737833987625" duration="471000" />
-      <workItem from="1737834473966" duration="28000" />
-      <workItem from="1737834517633" duration="2717000" />
-      <workItem from="1737895586259" duration="4977000" />
-      <workItem from="1738178244083" duration="65000" />
-      <workItem from="1740648336893" duration="431000" />
-      <workItem from="1740661061943" duration="5499000" />
-      <workItem from="1741266001478" duration="5998000" />
-      <workItem from="1741466394742" duration="1023000" />
-      <workItem from="1741467606181" duration="6000" />
-      <workItem from="1741467685688" duration="687000" />
-      <workItem from="1741699583253" duration="207000" />
+      <updated>1741700980006</updated>
+      <workItem from="1741700981967" duration="32000" />
+      <workItem from="1741701034526" duration="37000" />
+      <workItem from="1741701084103" duration="1380000" />
     </task>
-    <task id="LOCAL-00001" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1734381292406</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1734381292406</updated>
-    </task>
-    <task id="LOCAL-00002" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1735158148815</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1735158148815</updated>
-    </task>
-    <task id="LOCAL-00003" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1735644845724</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1735644845724</updated>
-    </task>
-    <task id="LOCAL-00004" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1735818808826</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1735818808826</updated>
-    </task>
-    <task id="LOCAL-00005" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1735818818789</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1735818818789</updated>
-    </task>
-    <task id="LOCAL-00006" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1735996146380</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1735996146380</updated>
-    </task>
-    <task id="LOCAL-00007" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1736018197664</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1736018197664</updated>
-    </task>
-    <task id="LOCAL-00008" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1736324190039</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1736324190039</updated>
-    </task>
-    <task id="LOCAL-00009" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1736447907738</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1736447907738</updated>
-    </task>
-    <task id="LOCAL-00010" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1736514315534</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1736514315534</updated>
-    </task>
-    <task id="LOCAL-00011" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1736783227659</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1736783227659</updated>
-    </task>
-    <task id="LOCAL-00012" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1736783245120</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1736783245120</updated>
-    </task>
-    <task id="LOCAL-00013" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1736783254424</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1736783254424</updated>
-    </task>
-    <task id="LOCAL-00014" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1737682145766</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1737682145766</updated>
-    </task>
-    <task id="LOCAL-00015" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1737682205940</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1737682205940</updated>
-    </task>
-    <task id="LOCAL-00016" summary="adding new or just working on existing... idk anymore">
-      <option name="closed" value="true" />
-      <created>1737933495762</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1737933495762</updated>
-    </task>
-    <task id="LOCAL-00017" summary="add">
-      <option name="closed" value="true" />
-      <created>1741467165093</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1741467165093</updated>
-    </task>
-    <task id="LOCAL-00018" summary="add">
-      <option name="closed" value="true" />
-      <created>1741467256278</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1741467256278</updated>
-    </task>
-    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VCPKGProject">
-    <isAutomaticCheckingOnLaunch value="false" />
-    <isAutomaticFoundErrors value="true" />
-    <isAutomaticReloadCMake value="true" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <MESSAGE value="adding new or just working on existing... idk anymore" />
-    <MESSAGE value="add" />
-    <option name="LAST_COMMIT_MESSAGE" value="add" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna26_eng.cpp</url>
-          <line>94</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="CMakeLineBreakpoint">
-          <url>file://$PROJECT_DIR$/CMakeLists.txt</url>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
