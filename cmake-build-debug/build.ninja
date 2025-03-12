@@ -41,39 +41,6 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target oop23_24
-
-
-#############################################
-# Order-only phony target for oop23_24
-
-build cmake_object_order_depends_target_oop23_24: phony || .
-
-build CMakeFiles/oop23_24.dir/pldh/main.cpp.obj: CXX_COMPILER__oop23_24_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/pldh/main.cpp || cmake_object_order_depends_target_oop23_24
-  DEP_FILE = CMakeFiles\oop23_24.dir\pldh\main.cpp.obj.d
-  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\oop23_24.dir
-  OBJECT_FILE_DIR = CMakeFiles\oop23_24.dir\pldh
-
-
-# =============================================================================
-# Link build statements for EXECUTABLE target oop23_24
-
-
-#############################################
-# Link the executable oop23_24.exe
-
-build oop23_24.exe: CXX_EXECUTABLE_LINKER__oop23_24_Debug CMakeFiles/oop23_24.dir/pldh/main.cpp.obj
-  FLAGS = -g
-  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\oop23_24.dir
-  POST_BUILD = cd .
-  PRE_LINK = cd .
-  TARGET_FILE = oop23_24.exe
-  TARGET_IMPLIB = liboop23_24.dll.a
-  TARGET_PDB = oop23_24.exe.dbg
-
-# =============================================================================
 # Object build statements for EXECUTABLE target labs_vjet
 
 
@@ -1784,8 +1751,6 @@ build labs1.3: phony labs1.3.exe
 
 build labs_vjet: phony labs_vjet.exe
 
-build oop23_24: phony oop23_24.exe
-
 build zad1_kvali: phony zad1_kvali.exe
 
 build zad1_kvali_isp: phony zad1_kvali_isp.exe
@@ -1824,7 +1789,7 @@ build zad9_kvali_isp: phony zad9_kvali_isp.exe
 #############################################
 # Folder: D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug
 
-build all: phony oop23_24.exe labs_vjet.exe labs1.1.exe labs1.2.exe labs1.3.exe aud1.1.exe aud1.2.exe aud1.3.exe aud2.1.exe aud2.2.exe aud2.3.exe aud3.1.exe aud3.2.exe aud3.3.exe aud4.1.exe aud4.2.exe aud4.3.exe aud5.1.exe aud5.2.exe aud5.3.exe aud6.1.exe aud6.2.exe aud6.3.exe aud7.1.exe aud7.2.exe aud7.3.exe aud8.1.exe aud8.2.exe aud8.3.exe aud9.1.exe aud9.2.exe aud9.3.exe aud10.1.exe aud10.2.exe aud10.3.exe zad1_kvali.exe zad2_kvali.exe zad3_kvali.exe zad4_kvali.exe zad5_kvali.exe zad6_kvali.exe zad1_kvali_isp.exe zad2_kvali_isp.exe zad3_kvali_isp.exe zad4_kvali_isp.exe zad5_kvali_isp.exe zad6_kvali_isp.exe zad7_kvali_isp.exe zad8_kvali_isp.exe zad9_kvali_isp.exe
+build all: phony labs_vjet.exe labs1.1.exe labs1.2.exe labs1.3.exe aud1.1.exe aud1.2.exe aud1.3.exe aud2.1.exe aud2.2.exe aud2.3.exe aud3.1.exe aud3.2.exe aud3.3.exe aud4.1.exe aud4.2.exe aud4.3.exe aud5.1.exe aud5.2.exe aud5.3.exe aud6.1.exe aud6.2.exe aud6.3.exe aud7.1.exe aud7.2.exe aud7.3.exe aud8.1.exe aud8.2.exe aud8.3.exe aud9.1.exe aud9.2.exe aud9.3.exe aud10.1.exe aud10.2.exe aud10.3.exe zad1_kvali.exe zad2_kvali.exe zad3_kvali.exe zad4_kvali.exe zad5_kvali.exe zad6_kvali.exe zad1_kvali_isp.exe zad2_kvali_isp.exe zad3_kvali_isp.exe zad4_kvali_isp.exe zad5_kvali_isp.exe zad6_kvali_isp.exe zad7_kvali_isp.exe zad8_kvali_isp.exe zad9_kvali_isp.exe
 
 # =============================================================================
 # Built-in targets

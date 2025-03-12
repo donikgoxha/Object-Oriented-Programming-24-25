@@ -1,4 +1,3 @@
-D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug/CMakeFiles/oop23_24.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug/CMakeFiles/labs_vjet.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug/CMakeFiles/labs1.1.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug/CMakeFiles/labs1.2.dir

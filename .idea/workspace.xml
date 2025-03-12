@@ -7,8 +7,8 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
   </component>
   <component name="CMakePresetLoader">{
   &quot;useNewFormat&quot;: true
@@ -21,41 +21,55 @@
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="oop23_24" targetName="oop23_24" />
-      <config projectName="oop23_24" targetName="labs_vjet" />
+      <config projectName="oop23_24" targetName="zad5_kvali" />
+      <config projectName="oop23_24" targetName="zad4_kvali_isp" />
       <config projectName="oop23_24" targetName="labs1.3" />
-      <config projectName="oop23_24" targetName="aud5.3" />
+      <config projectName="oop23_24" targetName="zad1_kvali" />
+      <config projectName="oop23_24" targetName="zad8_kvali_isp" />
       <config projectName="oop23_24" targetName="aud6.2" />
-      <config projectName="oop23_24" targetName="aud7.1" />
       <config projectName="oop23_24" targetName="aud6.3" />
-      <config projectName="oop23_24" targetName="aud7.2" />
       <config projectName="oop23_24" targetName="aud8.1" />
-      <config projectName="oop23_24" targetName="aud3.3" />
       <config projectName="oop23_24" targetName="aud4.2" />
-      <config projectName="oop23_24" targetName="aud5.1" />
+      <config projectName="oop23_24" targetName="zad3_kvali_isp" />
       <config projectName="oop23_24" targetName="aud4.3" />
-      <config projectName="oop23_24" targetName="aud5.2" />
       <config projectName="oop23_24" targetName="aud6.1" />
+      <config projectName="oop23_24" targetName="zad1_kvali_isp" />
+      <config projectName="oop23_24" targetName="aud8.2" />
+      <config projectName="oop23_24" targetName="aud8.3" />
+      <config projectName="oop23_24" targetName="aud2.2" />
+      <config projectName="oop23_24" targetName="aud2.3" />
+      <config projectName="oop23_24" targetName="aud4.1" />
+      <config projectName="oop23_24" targetName="aud2.1" />
+      <config projectName="oop23_24" targetName="aud10.2" />
+      <config projectName="oop23_24" targetName="aud10.1" />
+      <config projectName="oop23_24" targetName="zad7_kvali_isp" />
+      <config projectName="oop23_24" targetName="aud10.3" />
+      <config projectName="oop23_24" targetName="zad2_kvali" />
+      <config projectName="oop23_24" targetName="labs_vjet" />
+      <config projectName="oop23_24" targetName="zad3_kvali" />
+      <config projectName="oop23_24" targetName="zad6_kvali_isp" />
+      <config projectName="oop23_24" targetName="zad6_kvali" />
+      <config projectName="oop23_24" targetName="aud5.3" />
+      <config projectName="oop23_24" targetName="aud7.1" />
+      <config projectName="oop23_24" targetName="aud7.2" />
+      <config projectName="oop23_24" targetName="aud3.3" />
+      <config projectName="oop23_24" targetName="aud5.1" />
+      <config projectName="oop23_24" targetName="aud5.2" />
       <config projectName="oop23_24" targetName="aud9.3" />
       <config projectName="oop23_24" targetName="aud7.3" />
-      <config projectName="oop23_24" targetName="aud8.2" />
       <config projectName="oop23_24" targetName="aud9.1" />
-      <config projectName="oop23_24" targetName="aud8.3" />
       <config projectName="oop23_24" targetName="aud9.2" />
       <config projectName="oop23_24" targetName="labs1.1" />
       <config projectName="oop23_24" targetName="labs1.2" />
       <config projectName="oop23_24" targetName="aud1.3" />
-      <config projectName="oop23_24" targetName="aud2.2" />
       <config projectName="oop23_24" targetName="aud3.1" />
-      <config projectName="oop23_24" targetName="aud2.3" />
       <config projectName="oop23_24" targetName="aud3.2" />
-      <config projectName="oop23_24" targetName="aud4.1" />
       <config projectName="oop23_24" targetName="aud1.1" />
       <config projectName="oop23_24" targetName="aud1.2" />
-      <config projectName="oop23_24" targetName="aud2.1" />
-      <config projectName="oop23_24" targetName="aud10.2" />
-      <config projectName="oop23_24" targetName="aud10.1" />
-      <config projectName="oop23_24" targetName="aud10.3" />
+      <config projectName="oop23_24" targetName="zad4_kvali" />
+      <config projectName="oop23_24" targetName="zad5_kvali_isp" />
+      <config projectName="oop23_24" targetName="zad9_kvali_isp" />
+      <config projectName="oop23_24" targetName="zad2_kvali_isp" />
     </generated>
   </component>
   <component name="CMakeSettings" AUTO_RELOAD="true">
@@ -64,22 +78,285 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="244851fb-bc77-48e4-90f5-c43e07f36e4f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="244851fb-bc77-48e4-90f5-c43e07f36e4f" name="Changes" comment="add">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.1.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.3.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aud_24-25/labs_24-25/labs1.3.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/oop23-24.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pldh/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-9a4440666ecfd52afa73.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-03-11T22-44-07-0046.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud1.1-Debug-8fa107f9e195dfc2ec5b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud1.2-Debug-8c99b8e11c2d1e378e85.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud1.3-Debug-9ea17075f5ecd1dd365d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud10.1-Debug-71682e229bb8cb053d2c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud10.2-Debug-26dcf3f0505aba09af84.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud10.3-Debug-e07c55d95818ce6a8f7d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud2.1-Debug-1b0eeb5cea351c714496.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud2.2-Debug-722097cf7e981bbcbb8f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud2.3-Debug-f7d5ffbd5c020af36986.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud3.1-Debug-ce59c8324c4d0554ff94.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud3.2-Debug-f4b8d63877d994ef4642.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud3.3-Debug-36a4c8bf1b30eb2806c5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud4.1-Debug-eb4d9834380c0f3bd3e1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud4.2-Debug-14cdc37fcbadd74f01d0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud4.3-Debug-4c3cec75096f2acbefa3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud5.1-Debug-58ff895b6e272b78d9fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud5.2-Debug-7d7cdf2e58af63922217.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud5.3-Debug-a26902b8406ae4851a70.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud6.1-Debug-6c1ab81ecc3166bbca40.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud6.2-Debug-12199c13f39b43113d68.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud6.3-Debug-d149c56de6cd34e3928a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud7.1-Debug-15b0714688b5f2d7b730.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud7.2-Debug-41dbbdd9ad3ba6448dc7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud7.3-Debug-34f73df605cd2d212380.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud8.1-Debug-535d942558a224369f6b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud8.2-Debug-97ecf3e379a77a262626.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud8.3-Debug-adbdd2739ace18415918.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud9.1-Debug-5ab9c796948ea17a6c63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud9.2-Debug-69ca579fd4d9c2b3b532.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud9.3-Debug-9956e3283ea082ea493e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-labs1.1-Debug-ba862005ee1e0ad9a698.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-labs1.2-Debug-4e3ceacd0298e7d6ac25.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-labs1.3-Debug-f412dd757696b6c55c27.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-labs_vjet-Debug-787eeaa4c0db9a0a3de2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-oop23_24-Debug-95c8704584e298c97e01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad1_kvali-Debug-7ab88c0867d4fa0e2131.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad1_kvali_isp-Debug-0f22ded139fd8b544d88.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad2_kvali-Debug-bb6b2f6c7be954b180a4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad2_kvali_isp-Debug-208902a226a0902ce92d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad3_kvali-Debug-cfb01af92801442be29c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad3_kvali_isp-Debug-c15aa73e2336de3277c0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad4_kvali-Debug-0da044b88993f7319cea.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad4_kvali_isp-Debug-5c831a3805541433612d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad5_kvali-Debug-676eb63049ed0a515f6e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad5_kvali_isp-Debug-d6502676402f9faa8160.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad6_kvali-Debug-7b0571e06ba83ae25bfe.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad6_kvali_isp-Debug-bbcec57fd386d7f8557c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad7_kvali_isp-Debug-30014934b60cac617891.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad8_kvali_isp-Debug-813a0a983e299ebc608a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad9_kvali_isp-Debug-f583d7a1411455104e12.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud1/aud1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud1/aud2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud1/aud3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud2/aud4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud2/aud5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud2/aud6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud3/aud10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud3/aud7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud3/aud8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud3/aud9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud4/aud14.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud4/aud15.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud5/aud16.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud5/aud17.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud6/aud18.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud6/aud19.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud6/aud20.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud6/aud24.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud7/aud25.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud7/aud26.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud7/aud27.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud8/aud28.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud8/aud29.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud8/aud30.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud39.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud40.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud41.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud42.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud43.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud44.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud45.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud46.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud47.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud48.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud49.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/aud9-files/aud50.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kolokviumski/aud11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kolokviumski/aud12.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kolokviumski/aud13.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kolokviumski/aud31.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kolokviumski/aud32.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kvali-sept/aud21.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kvali-sept/aud22.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/kvali-sept/aud23.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud33.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud34.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud35.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud36.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud37.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud38.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud51.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud52.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud53.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud54.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud55.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud56.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud57.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud58.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud59.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud60.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud61.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/aud_online/labs_courses/aud62.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/cache-v2-22bdf4997a976d9db9f4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-a4bb5a7bcc50d335e2de.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c8f866ff838875084f83.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/index-2025-03-08T20-51-41-0170.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud1.1-Debug-417f15754626f21c7524.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud1.2-Debug-6aab96c772006024d00d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud1.3-Debug-4b911ad80b41559c5f58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud10.1-Debug-a4e725351096d6dd88cb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud10.2-Debug-af7123de8116625d6830.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud10.3-Debug-b1d85bf113cf31faf0b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud2.1-Debug-7c469a496f01f6ab7e4c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud2.2-Debug-2ebde433f27f8cd8479b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud2.3-Debug-9aab6552b61ec7c1211d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud3.1-Debug-3bcae77cda6684527ca8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud3.2-Debug-c55bd1fb0c1648fd1463.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud3.3-Debug-3911fd5f22b84c781b9d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud4.1-Debug-f6be8f3a89c169fd613d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud4.2-Debug-5f391208332c058d8348.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud4.3-Debug-930300ec27721b2e7d4c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud5.1-Debug-44fd7a0e388cc7f0cac9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud5.2-Debug-eefc491b88e13869da72.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud5.3-Debug-2b93572cb093edc9485c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud6.1-Debug-5525ec250cc472c6cfb8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud6.2-Debug-e60f655acec99d7d6c98.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud6.3-Debug-176f524c7dc721ad9abb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud7.1-Debug-7c203d7d3ff701358eee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud7.2-Debug-a1b9f31ba72ba7395912.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud7.3-Debug-0ab86f14e05d97dd7b4e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud8.1-Debug-2da9ee6d8607e2782cb7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud8.2-Debug-e90e245559b58a24e346.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud8.3-Debug-e63f2f4f57adaae1e661.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud9.1-Debug-3fba3cc1b8192aa22c24.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud9.2-Debug-5bea985fec4efa745597.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-aud9.3-Debug-a2e2c1e156cdffae6ad1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-labs_vjet-Debug-787eeaa4c0db9a0a3de2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/target-oop23_24-Debug-95c8704584e298c97e01.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-8013bf291f9ea1c58861.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/aud1.1.dir/aud_24-25/aud1/zad1.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/aud1.2.dir/aud_24-25/aud1/zad2.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/aud2.1.dir/aud_24-25/aud2/zad1.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud1.1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud1.2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud10.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud12.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud13.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud14.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud16.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud17.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud19.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud2.1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud20.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud24.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud25.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud26.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud27.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud28.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud29.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud30.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud31.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud39.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud4.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud5.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud6.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/aud8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/ispitna1.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/ispitna15.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/ispitna26.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/ispitna3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/ispitna36.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/cmake-build-debug/oop23_24.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop zadaci ispit septemvri 2024.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna10.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna11.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna12.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna13.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna14.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna15.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna16.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna17.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna18_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna19_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna20_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna21_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna22_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna23_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna24_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna25_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna26_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna27_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna28_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna29_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna30_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna31_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna32_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna33_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna34_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna37_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna38_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna39_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna40_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna41_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna42_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna43_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna44_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna45_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna46_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna47_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna48_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna49_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna50_eng.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna6.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna7.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna8.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna9.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna_sesija_sept_zad1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/oop_jan_ispitna/ispitna_sesija_sept_zad2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/prva.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/treta.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pldh/vtora.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,32 +392,45 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2uAowhAiUKckh2Sf6jqjxE7FInH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.other",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Debug.oop23_24.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.other&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="CMake Application.aud1.1">
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\kvali_ispiti" />
+      <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\kvali_prvkolok" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Debug.oop23_24">
+    <configuration name="oop23_24" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
+      <method v="2" />
+    </configuration>
     <configuration name="aud10.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="aud10.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="aud10.1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -311,12 +601,83 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oop23_24" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="oop23_24" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="oop23_24">
+    <configuration name="zad1_kvali" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad1_kvali" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad1_kvali">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad1_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad1_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad1_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad2_kvali" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad2_kvali" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad2_kvali">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad2_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad2_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad2_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3_kvali" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad3_kvali" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad3_kvali">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad3_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad3_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad3_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_kvali" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad4_kvali" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad4_kvali">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad4_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad4_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad4_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad5_kvali" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad5_kvali" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad5_kvali">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad5_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad5_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad5_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad6_kvali" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad6_kvali" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad6_kvali">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad6_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad6_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad6_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad7_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad7_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad7_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad8_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad8_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad8_kvali_isp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zad9_kvali_isp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="zad9_kvali_isp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="zad9_kvali_isp">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Debug.oop23_24" />
       <item itemvalue="CMake Application.aud10.1" />
       <item itemvalue="CMake Application.aud10.2" />
       <item itemvalue="CMake Application.aud10.3" />
@@ -351,8 +712,27 @@
       <item itemvalue="CMake Application.labs1.2" />
       <item itemvalue="CMake Application.labs1.3" />
       <item itemvalue="CMake Application.labs_vjet" />
-      <item itemvalue="CMake Application.oop23_24" />
+      <item itemvalue="CMake Application.zad1_kvali" />
+      <item itemvalue="CMake Application.zad1_kvali_isp" />
+      <item itemvalue="CMake Application.zad2_kvali" />
+      <item itemvalue="CMake Application.zad2_kvali_isp" />
+      <item itemvalue="CMake Application.zad3_kvali" />
+      <item itemvalue="CMake Application.zad3_kvali_isp" />
+      <item itemvalue="CMake Application.zad4_kvali" />
+      <item itemvalue="CMake Application.zad4_kvali_isp" />
+      <item itemvalue="CMake Application.zad5_kvali" />
+      <item itemvalue="CMake Application.zad5_kvali_isp" />
+      <item itemvalue="CMake Application.zad6_kvali" />
+      <item itemvalue="CMake Application.zad6_kvali_isp" />
+      <item itemvalue="CMake Application.zad7_kvali_isp" />
+      <item itemvalue="CMake Application.zad8_kvali_isp" />
+      <item itemvalue="CMake Application.zad9_kvali_isp" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="CMake Debug.oop23_24" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -365,10 +745,30 @@
       <workItem from="1741700981967" duration="32000" />
       <workItem from="1741701034526" duration="37000" />
       <workItem from="1741701084103" duration="1380000" />
+      <workItem from="1741702487987" duration="3378000" />
+      <workItem from="1741787862729" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <option name="closed" value="true" />
+      <created>1741733077550</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741733077550</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
 </project>
