@@ -39,7 +39,7 @@ include CMakeFiles/rules.ninja
 #############################################
 # Logical path to working directory; prefix for absolute paths.
 
-cmake_ninja_workdir = D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug/
+cmake_ninja_workdir = D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/cmake-build-debug/
 # =============================================================================
 # Object build statements for EXECUTABLE target labs_vjet
 
@@ -49,11 +49,13 @@ cmake_ninja_workdir = D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/cma
 
 build cmake_object_order_depends_target_labs_vjet: phony || .
 
-build CMakeFiles/labs_vjet.dir/aud_24-25/labs_24-25/labs_vjet.cpp.obj: CXX_COMPILER__labs_vjet_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/labs_24-25/labs_vjet.cpp || cmake_object_order_depends_target_labs_vjet
+build CMakeFiles/labs_vjet.dir/aud_24-25/labs_24-25/labs_vjet.cpp.obj: CXX_COMPILER__labs_vjet_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/labs_24-25/labs_vjet.cpp || cmake_object_order_depends_target_labs_vjet
   DEP_FILE = CMakeFiles\labs_vjet.dir\aud_24-25\labs_24-25\labs_vjet.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\labs_vjet.dir
   OBJECT_FILE_DIR = CMakeFiles\labs_vjet.dir\aud_24-25\labs_24-25
+  TARGET_COMPILE_PDB = CMakeFiles\labs_vjet.dir\
+  TARGET_PDB = labs_vjet.pdb
 
 
 # =============================================================================
@@ -69,9 +71,10 @@ build labs_vjet.exe: CXX_EXECUTABLE_LINKER__labs_vjet_Debug CMakeFiles/labs_vjet
   OBJECT_DIR = CMakeFiles\labs_vjet.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\labs_vjet.dir\
   TARGET_FILE = labs_vjet.exe
   TARGET_IMPLIB = liblabs_vjet.dll.a
-  TARGET_PDB = labs_vjet.exe.dbg
+  TARGET_PDB = labs_vjet.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target labs1.1
@@ -82,11 +85,13 @@ build labs_vjet.exe: CXX_EXECUTABLE_LINKER__labs_vjet_Debug CMakeFiles/labs_vjet
 
 build cmake_object_order_depends_target_labs1.1: phony || .
 
-build CMakeFiles/labs1.1.dir/aud_24-25/labs_24-25/labs1.1.cpp.obj: CXX_COMPILER__labs1.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/labs_24-25/labs1.1.cpp || cmake_object_order_depends_target_labs1.1
+build CMakeFiles/labs1.1.dir/aud_24-25/labs_24-25/labs1.1.cpp.obj: CXX_COMPILER__labs1.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/labs_24-25/labs1.1.cpp || cmake_object_order_depends_target_labs1.1
   DEP_FILE = CMakeFiles\labs1.1.dir\aud_24-25\labs_24-25\labs1.1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\labs1.1.dir
   OBJECT_FILE_DIR = CMakeFiles\labs1.1.dir\aud_24-25\labs_24-25
+  TARGET_COMPILE_PDB = CMakeFiles\labs1.1.dir\
+  TARGET_PDB = labs1.1.pdb
 
 
 # =============================================================================
@@ -102,9 +107,10 @@ build labs1.1.exe: CXX_EXECUTABLE_LINKER__labs1.2e1_Debug CMakeFiles/labs1.1.dir
   OBJECT_DIR = CMakeFiles\labs1.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\labs1.1.dir\
   TARGET_FILE = labs1.1.exe
   TARGET_IMPLIB = liblabs1.1.dll.a
-  TARGET_PDB = labs1.1.exe.dbg
+  TARGET_PDB = labs1.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target labs1.2
@@ -115,11 +121,13 @@ build labs1.1.exe: CXX_EXECUTABLE_LINKER__labs1.2e1_Debug CMakeFiles/labs1.1.dir
 
 build cmake_object_order_depends_target_labs1.2: phony || .
 
-build CMakeFiles/labs1.2.dir/aud_24-25/labs_24-25/labs1.2.cpp.obj: CXX_COMPILER__labs1.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/labs_24-25/labs1.2.cpp || cmake_object_order_depends_target_labs1.2
+build CMakeFiles/labs1.2.dir/aud_24-25/labs_24-25/labs1.2.cpp.obj: CXX_COMPILER__labs1.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/labs_24-25/labs1.2.cpp || cmake_object_order_depends_target_labs1.2
   DEP_FILE = CMakeFiles\labs1.2.dir\aud_24-25\labs_24-25\labs1.2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\labs1.2.dir
   OBJECT_FILE_DIR = CMakeFiles\labs1.2.dir\aud_24-25\labs_24-25
+  TARGET_COMPILE_PDB = CMakeFiles\labs1.2.dir\
+  TARGET_PDB = labs1.2.pdb
 
 
 # =============================================================================
@@ -135,9 +143,10 @@ build labs1.2.exe: CXX_EXECUTABLE_LINKER__labs1.2e2_Debug CMakeFiles/labs1.2.dir
   OBJECT_DIR = CMakeFiles\labs1.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\labs1.2.dir\
   TARGET_FILE = labs1.2.exe
   TARGET_IMPLIB = liblabs1.2.dll.a
-  TARGET_PDB = labs1.2.exe.dbg
+  TARGET_PDB = labs1.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target labs1.3
@@ -148,11 +157,13 @@ build labs1.2.exe: CXX_EXECUTABLE_LINKER__labs1.2e2_Debug CMakeFiles/labs1.2.dir
 
 build cmake_object_order_depends_target_labs1.3: phony || .
 
-build CMakeFiles/labs1.3.dir/aud_24-25/labs_24-25/labs1.3.cpp.obj: CXX_COMPILER__labs1.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/labs_24-25/labs1.3.cpp || cmake_object_order_depends_target_labs1.3
+build CMakeFiles/labs1.3.dir/aud_24-25/labs_24-25/labs1.3.cpp.obj: CXX_COMPILER__labs1.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/labs_24-25/labs1.3.cpp || cmake_object_order_depends_target_labs1.3
   DEP_FILE = CMakeFiles\labs1.3.dir\aud_24-25\labs_24-25\labs1.3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\labs1.3.dir
   OBJECT_FILE_DIR = CMakeFiles\labs1.3.dir\aud_24-25\labs_24-25
+  TARGET_COMPILE_PDB = CMakeFiles\labs1.3.dir\
+  TARGET_PDB = labs1.3.pdb
 
 
 # =============================================================================
@@ -168,9 +179,10 @@ build labs1.3.exe: CXX_EXECUTABLE_LINKER__labs1.2e3_Debug CMakeFiles/labs1.3.dir
   OBJECT_DIR = CMakeFiles\labs1.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\labs1.3.dir\
   TARGET_FILE = labs1.3.exe
   TARGET_IMPLIB = liblabs1.3.dll.a
-  TARGET_PDB = labs1.3.exe.dbg
+  TARGET_PDB = labs1.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud1.1
@@ -181,11 +193,13 @@ build labs1.3.exe: CXX_EXECUTABLE_LINKER__labs1.2e3_Debug CMakeFiles/labs1.3.dir
 
 build cmake_object_order_depends_target_aud1.1: phony || .
 
-build CMakeFiles/aud1.1.dir/aud_24-25/aud1/zad1.cpp.obj: CXX_COMPILER__aud1.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud1/zad1.cpp || cmake_object_order_depends_target_aud1.1
+build CMakeFiles/aud1.1.dir/aud_24-25/aud1/zad1.cpp.obj: CXX_COMPILER__aud1.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud1/zad1.cpp || cmake_object_order_depends_target_aud1.1
   DEP_FILE = CMakeFiles\aud1.1.dir\aud_24-25\aud1\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud1.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud1.1.dir\aud_24-25\aud1
+  TARGET_COMPILE_PDB = CMakeFiles\aud1.1.dir\
+  TARGET_PDB = aud1.1.pdb
 
 
 # =============================================================================
@@ -201,9 +215,10 @@ build aud1.1.exe: CXX_EXECUTABLE_LINKER__aud1.2e1_Debug CMakeFiles/aud1.1.dir/au
   OBJECT_DIR = CMakeFiles\aud1.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud1.1.dir\
   TARGET_FILE = aud1.1.exe
   TARGET_IMPLIB = libaud1.1.dll.a
-  TARGET_PDB = aud1.1.exe.dbg
+  TARGET_PDB = aud1.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud1.2
@@ -214,11 +229,13 @@ build aud1.1.exe: CXX_EXECUTABLE_LINKER__aud1.2e1_Debug CMakeFiles/aud1.1.dir/au
 
 build cmake_object_order_depends_target_aud1.2: phony || .
 
-build CMakeFiles/aud1.2.dir/aud_24-25/aud1/zad2.cpp.obj: CXX_COMPILER__aud1.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud1/zad2.cpp || cmake_object_order_depends_target_aud1.2
+build CMakeFiles/aud1.2.dir/aud_24-25/aud1/zad2.cpp.obj: CXX_COMPILER__aud1.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud1/zad2.cpp || cmake_object_order_depends_target_aud1.2
   DEP_FILE = CMakeFiles\aud1.2.dir\aud_24-25\aud1\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud1.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud1.2.dir\aud_24-25\aud1
+  TARGET_COMPILE_PDB = CMakeFiles\aud1.2.dir\
+  TARGET_PDB = aud1.2.pdb
 
 
 # =============================================================================
@@ -234,9 +251,10 @@ build aud1.2.exe: CXX_EXECUTABLE_LINKER__aud1.2e2_Debug CMakeFiles/aud1.2.dir/au
   OBJECT_DIR = CMakeFiles\aud1.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud1.2.dir\
   TARGET_FILE = aud1.2.exe
   TARGET_IMPLIB = libaud1.2.dll.a
-  TARGET_PDB = aud1.2.exe.dbg
+  TARGET_PDB = aud1.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud1.3
@@ -247,11 +265,13 @@ build aud1.2.exe: CXX_EXECUTABLE_LINKER__aud1.2e2_Debug CMakeFiles/aud1.2.dir/au
 
 build cmake_object_order_depends_target_aud1.3: phony || .
 
-build CMakeFiles/aud1.3.dir/aud_24-25/aud1/zad3.cpp.obj: CXX_COMPILER__aud1.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud1/zad3.cpp || cmake_object_order_depends_target_aud1.3
+build CMakeFiles/aud1.3.dir/aud_24-25/aud1/zad3.cpp.obj: CXX_COMPILER__aud1.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud1/zad3.cpp || cmake_object_order_depends_target_aud1.3
   DEP_FILE = CMakeFiles\aud1.3.dir\aud_24-25\aud1\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud1.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud1.3.dir\aud_24-25\aud1
+  TARGET_COMPILE_PDB = CMakeFiles\aud1.3.dir\
+  TARGET_PDB = aud1.3.pdb
 
 
 # =============================================================================
@@ -267,9 +287,10 @@ build aud1.3.exe: CXX_EXECUTABLE_LINKER__aud1.2e3_Debug CMakeFiles/aud1.3.dir/au
   OBJECT_DIR = CMakeFiles\aud1.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud1.3.dir\
   TARGET_FILE = aud1.3.exe
   TARGET_IMPLIB = libaud1.3.dll.a
-  TARGET_PDB = aud1.3.exe.dbg
+  TARGET_PDB = aud1.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud2.1
@@ -280,11 +301,13 @@ build aud1.3.exe: CXX_EXECUTABLE_LINKER__aud1.2e3_Debug CMakeFiles/aud1.3.dir/au
 
 build cmake_object_order_depends_target_aud2.1: phony || .
 
-build CMakeFiles/aud2.1.dir/aud_24-25/aud2/zad1.cpp.obj: CXX_COMPILER__aud2.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud2/zad1.cpp || cmake_object_order_depends_target_aud2.1
+build CMakeFiles/aud2.1.dir/aud_24-25/aud2/zad1.cpp.obj: CXX_COMPILER__aud2.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud2/zad1.cpp || cmake_object_order_depends_target_aud2.1
   DEP_FILE = CMakeFiles\aud2.1.dir\aud_24-25\aud2\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud2.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud2.1.dir\aud_24-25\aud2
+  TARGET_COMPILE_PDB = CMakeFiles\aud2.1.dir\
+  TARGET_PDB = aud2.1.pdb
 
 
 # =============================================================================
@@ -300,9 +323,10 @@ build aud2.1.exe: CXX_EXECUTABLE_LINKER__aud2.2e1_Debug CMakeFiles/aud2.1.dir/au
   OBJECT_DIR = CMakeFiles\aud2.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud2.1.dir\
   TARGET_FILE = aud2.1.exe
   TARGET_IMPLIB = libaud2.1.dll.a
-  TARGET_PDB = aud2.1.exe.dbg
+  TARGET_PDB = aud2.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud2.2
@@ -313,11 +337,13 @@ build aud2.1.exe: CXX_EXECUTABLE_LINKER__aud2.2e1_Debug CMakeFiles/aud2.1.dir/au
 
 build cmake_object_order_depends_target_aud2.2: phony || .
 
-build CMakeFiles/aud2.2.dir/aud_24-25/aud2/zad2.cpp.obj: CXX_COMPILER__aud2.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud2/zad2.cpp || cmake_object_order_depends_target_aud2.2
+build CMakeFiles/aud2.2.dir/aud_24-25/aud2/zad2.cpp.obj: CXX_COMPILER__aud2.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud2/zad2.cpp || cmake_object_order_depends_target_aud2.2
   DEP_FILE = CMakeFiles\aud2.2.dir\aud_24-25\aud2\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud2.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud2.2.dir\aud_24-25\aud2
+  TARGET_COMPILE_PDB = CMakeFiles\aud2.2.dir\
+  TARGET_PDB = aud2.2.pdb
 
 
 # =============================================================================
@@ -333,9 +359,10 @@ build aud2.2.exe: CXX_EXECUTABLE_LINKER__aud2.2e2_Debug CMakeFiles/aud2.2.dir/au
   OBJECT_DIR = CMakeFiles\aud2.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud2.2.dir\
   TARGET_FILE = aud2.2.exe
   TARGET_IMPLIB = libaud2.2.dll.a
-  TARGET_PDB = aud2.2.exe.dbg
+  TARGET_PDB = aud2.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud2.3
@@ -346,11 +373,13 @@ build aud2.2.exe: CXX_EXECUTABLE_LINKER__aud2.2e2_Debug CMakeFiles/aud2.2.dir/au
 
 build cmake_object_order_depends_target_aud2.3: phony || .
 
-build CMakeFiles/aud2.3.dir/aud_24-25/aud2/zad3.cpp.obj: CXX_COMPILER__aud2.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud2/zad3.cpp || cmake_object_order_depends_target_aud2.3
+build CMakeFiles/aud2.3.dir/aud_24-25/aud2/zad3.cpp.obj: CXX_COMPILER__aud2.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud2/zad3.cpp || cmake_object_order_depends_target_aud2.3
   DEP_FILE = CMakeFiles\aud2.3.dir\aud_24-25\aud2\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud2.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud2.3.dir\aud_24-25\aud2
+  TARGET_COMPILE_PDB = CMakeFiles\aud2.3.dir\
+  TARGET_PDB = aud2.3.pdb
 
 
 # =============================================================================
@@ -366,9 +395,10 @@ build aud2.3.exe: CXX_EXECUTABLE_LINKER__aud2.2e3_Debug CMakeFiles/aud2.3.dir/au
   OBJECT_DIR = CMakeFiles\aud2.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud2.3.dir\
   TARGET_FILE = aud2.3.exe
   TARGET_IMPLIB = libaud2.3.dll.a
-  TARGET_PDB = aud2.3.exe.dbg
+  TARGET_PDB = aud2.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud3.1
@@ -379,11 +409,13 @@ build aud2.3.exe: CXX_EXECUTABLE_LINKER__aud2.2e3_Debug CMakeFiles/aud2.3.dir/au
 
 build cmake_object_order_depends_target_aud3.1: phony || .
 
-build CMakeFiles/aud3.1.dir/aud_24-25/aud3/zad1.cpp.obj: CXX_COMPILER__aud3.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud3/zad1.cpp || cmake_object_order_depends_target_aud3.1
+build CMakeFiles/aud3.1.dir/aud_24-25/aud3/zad1.cpp.obj: CXX_COMPILER__aud3.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud3/zad1.cpp || cmake_object_order_depends_target_aud3.1
   DEP_FILE = CMakeFiles\aud3.1.dir\aud_24-25\aud3\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud3.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud3.1.dir\aud_24-25\aud3
+  TARGET_COMPILE_PDB = CMakeFiles\aud3.1.dir\
+  TARGET_PDB = aud3.1.pdb
 
 
 # =============================================================================
@@ -399,9 +431,10 @@ build aud3.1.exe: CXX_EXECUTABLE_LINKER__aud3.2e1_Debug CMakeFiles/aud3.1.dir/au
   OBJECT_DIR = CMakeFiles\aud3.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud3.1.dir\
   TARGET_FILE = aud3.1.exe
   TARGET_IMPLIB = libaud3.1.dll.a
-  TARGET_PDB = aud3.1.exe.dbg
+  TARGET_PDB = aud3.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud3.2
@@ -412,11 +445,13 @@ build aud3.1.exe: CXX_EXECUTABLE_LINKER__aud3.2e1_Debug CMakeFiles/aud3.1.dir/au
 
 build cmake_object_order_depends_target_aud3.2: phony || .
 
-build CMakeFiles/aud3.2.dir/aud_24-25/aud3/zad2.cpp.obj: CXX_COMPILER__aud3.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud3/zad2.cpp || cmake_object_order_depends_target_aud3.2
+build CMakeFiles/aud3.2.dir/aud_24-25/aud3/zad2.cpp.obj: CXX_COMPILER__aud3.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud3/zad2.cpp || cmake_object_order_depends_target_aud3.2
   DEP_FILE = CMakeFiles\aud3.2.dir\aud_24-25\aud3\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud3.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud3.2.dir\aud_24-25\aud3
+  TARGET_COMPILE_PDB = CMakeFiles\aud3.2.dir\
+  TARGET_PDB = aud3.2.pdb
 
 
 # =============================================================================
@@ -432,9 +467,10 @@ build aud3.2.exe: CXX_EXECUTABLE_LINKER__aud3.2e2_Debug CMakeFiles/aud3.2.dir/au
   OBJECT_DIR = CMakeFiles\aud3.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud3.2.dir\
   TARGET_FILE = aud3.2.exe
   TARGET_IMPLIB = libaud3.2.dll.a
-  TARGET_PDB = aud3.2.exe.dbg
+  TARGET_PDB = aud3.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud3.3
@@ -445,11 +481,13 @@ build aud3.2.exe: CXX_EXECUTABLE_LINKER__aud3.2e2_Debug CMakeFiles/aud3.2.dir/au
 
 build cmake_object_order_depends_target_aud3.3: phony || .
 
-build CMakeFiles/aud3.3.dir/aud_24-25/aud3/zad3.cpp.obj: CXX_COMPILER__aud3.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud3/zad3.cpp || cmake_object_order_depends_target_aud3.3
+build CMakeFiles/aud3.3.dir/aud_24-25/aud3/zad3.cpp.obj: CXX_COMPILER__aud3.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud3/zad3.cpp || cmake_object_order_depends_target_aud3.3
   DEP_FILE = CMakeFiles\aud3.3.dir\aud_24-25\aud3\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud3.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud3.3.dir\aud_24-25\aud3
+  TARGET_COMPILE_PDB = CMakeFiles\aud3.3.dir\
+  TARGET_PDB = aud3.3.pdb
 
 
 # =============================================================================
@@ -465,9 +503,10 @@ build aud3.3.exe: CXX_EXECUTABLE_LINKER__aud3.2e3_Debug CMakeFiles/aud3.3.dir/au
   OBJECT_DIR = CMakeFiles\aud3.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud3.3.dir\
   TARGET_FILE = aud3.3.exe
   TARGET_IMPLIB = libaud3.3.dll.a
-  TARGET_PDB = aud3.3.exe.dbg
+  TARGET_PDB = aud3.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud4.1
@@ -478,11 +517,13 @@ build aud3.3.exe: CXX_EXECUTABLE_LINKER__aud3.2e3_Debug CMakeFiles/aud3.3.dir/au
 
 build cmake_object_order_depends_target_aud4.1: phony || .
 
-build CMakeFiles/aud4.1.dir/aud_24-25/aud4/zad1.cpp.obj: CXX_COMPILER__aud4.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud4/zad1.cpp || cmake_object_order_depends_target_aud4.1
+build CMakeFiles/aud4.1.dir/aud_24-25/aud4/zad1.cpp.obj: CXX_COMPILER__aud4.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud4/zad1.cpp || cmake_object_order_depends_target_aud4.1
   DEP_FILE = CMakeFiles\aud4.1.dir\aud_24-25\aud4\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud4.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud4.1.dir\aud_24-25\aud4
+  TARGET_COMPILE_PDB = CMakeFiles\aud4.1.dir\
+  TARGET_PDB = aud4.1.pdb
 
 
 # =============================================================================
@@ -498,9 +539,10 @@ build aud4.1.exe: CXX_EXECUTABLE_LINKER__aud4.2e1_Debug CMakeFiles/aud4.1.dir/au
   OBJECT_DIR = CMakeFiles\aud4.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud4.1.dir\
   TARGET_FILE = aud4.1.exe
   TARGET_IMPLIB = libaud4.1.dll.a
-  TARGET_PDB = aud4.1.exe.dbg
+  TARGET_PDB = aud4.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud4.2
@@ -511,11 +553,13 @@ build aud4.1.exe: CXX_EXECUTABLE_LINKER__aud4.2e1_Debug CMakeFiles/aud4.1.dir/au
 
 build cmake_object_order_depends_target_aud4.2: phony || .
 
-build CMakeFiles/aud4.2.dir/aud_24-25/aud4/zad2.cpp.obj: CXX_COMPILER__aud4.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud4/zad2.cpp || cmake_object_order_depends_target_aud4.2
+build CMakeFiles/aud4.2.dir/aud_24-25/aud4/zad2.cpp.obj: CXX_COMPILER__aud4.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud4/zad2.cpp || cmake_object_order_depends_target_aud4.2
   DEP_FILE = CMakeFiles\aud4.2.dir\aud_24-25\aud4\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud4.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud4.2.dir\aud_24-25\aud4
+  TARGET_COMPILE_PDB = CMakeFiles\aud4.2.dir\
+  TARGET_PDB = aud4.2.pdb
 
 
 # =============================================================================
@@ -531,9 +575,10 @@ build aud4.2.exe: CXX_EXECUTABLE_LINKER__aud4.2e2_Debug CMakeFiles/aud4.2.dir/au
   OBJECT_DIR = CMakeFiles\aud4.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud4.2.dir\
   TARGET_FILE = aud4.2.exe
   TARGET_IMPLIB = libaud4.2.dll.a
-  TARGET_PDB = aud4.2.exe.dbg
+  TARGET_PDB = aud4.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud4.3
@@ -544,11 +589,13 @@ build aud4.2.exe: CXX_EXECUTABLE_LINKER__aud4.2e2_Debug CMakeFiles/aud4.2.dir/au
 
 build cmake_object_order_depends_target_aud4.3: phony || .
 
-build CMakeFiles/aud4.3.dir/aud_24-25/aud4/zad3.cpp.obj: CXX_COMPILER__aud4.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud4/zad3.cpp || cmake_object_order_depends_target_aud4.3
+build CMakeFiles/aud4.3.dir/aud_24-25/aud4/zad3.cpp.obj: CXX_COMPILER__aud4.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud4/zad3.cpp || cmake_object_order_depends_target_aud4.3
   DEP_FILE = CMakeFiles\aud4.3.dir\aud_24-25\aud4\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud4.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud4.3.dir\aud_24-25\aud4
+  TARGET_COMPILE_PDB = CMakeFiles\aud4.3.dir\
+  TARGET_PDB = aud4.3.pdb
 
 
 # =============================================================================
@@ -564,9 +611,10 @@ build aud4.3.exe: CXX_EXECUTABLE_LINKER__aud4.2e3_Debug CMakeFiles/aud4.3.dir/au
   OBJECT_DIR = CMakeFiles\aud4.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud4.3.dir\
   TARGET_FILE = aud4.3.exe
   TARGET_IMPLIB = libaud4.3.dll.a
-  TARGET_PDB = aud4.3.exe.dbg
+  TARGET_PDB = aud4.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud5.1
@@ -577,11 +625,13 @@ build aud4.3.exe: CXX_EXECUTABLE_LINKER__aud4.2e3_Debug CMakeFiles/aud4.3.dir/au
 
 build cmake_object_order_depends_target_aud5.1: phony || .
 
-build CMakeFiles/aud5.1.dir/aud_24-25/aud5/zad1.cpp.obj: CXX_COMPILER__aud5.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud5/zad1.cpp || cmake_object_order_depends_target_aud5.1
+build CMakeFiles/aud5.1.dir/aud_24-25/aud5/zad1.cpp.obj: CXX_COMPILER__aud5.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud5/zad1.cpp || cmake_object_order_depends_target_aud5.1
   DEP_FILE = CMakeFiles\aud5.1.dir\aud_24-25\aud5\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud5.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud5.1.dir\aud_24-25\aud5
+  TARGET_COMPILE_PDB = CMakeFiles\aud5.1.dir\
+  TARGET_PDB = aud5.1.pdb
 
 
 # =============================================================================
@@ -597,9 +647,10 @@ build aud5.1.exe: CXX_EXECUTABLE_LINKER__aud5.2e1_Debug CMakeFiles/aud5.1.dir/au
   OBJECT_DIR = CMakeFiles\aud5.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud5.1.dir\
   TARGET_FILE = aud5.1.exe
   TARGET_IMPLIB = libaud5.1.dll.a
-  TARGET_PDB = aud5.1.exe.dbg
+  TARGET_PDB = aud5.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud5.2
@@ -610,11 +661,13 @@ build aud5.1.exe: CXX_EXECUTABLE_LINKER__aud5.2e1_Debug CMakeFiles/aud5.1.dir/au
 
 build cmake_object_order_depends_target_aud5.2: phony || .
 
-build CMakeFiles/aud5.2.dir/aud_24-25/aud5/zad2.cpp.obj: CXX_COMPILER__aud5.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud5/zad2.cpp || cmake_object_order_depends_target_aud5.2
+build CMakeFiles/aud5.2.dir/aud_24-25/aud5/zad2.cpp.obj: CXX_COMPILER__aud5.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud5/zad2.cpp || cmake_object_order_depends_target_aud5.2
   DEP_FILE = CMakeFiles\aud5.2.dir\aud_24-25\aud5\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud5.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud5.2.dir\aud_24-25\aud5
+  TARGET_COMPILE_PDB = CMakeFiles\aud5.2.dir\
+  TARGET_PDB = aud5.2.pdb
 
 
 # =============================================================================
@@ -630,9 +683,10 @@ build aud5.2.exe: CXX_EXECUTABLE_LINKER__aud5.2e2_Debug CMakeFiles/aud5.2.dir/au
   OBJECT_DIR = CMakeFiles\aud5.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud5.2.dir\
   TARGET_FILE = aud5.2.exe
   TARGET_IMPLIB = libaud5.2.dll.a
-  TARGET_PDB = aud5.2.exe.dbg
+  TARGET_PDB = aud5.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud5.3
@@ -643,11 +697,13 @@ build aud5.2.exe: CXX_EXECUTABLE_LINKER__aud5.2e2_Debug CMakeFiles/aud5.2.dir/au
 
 build cmake_object_order_depends_target_aud5.3: phony || .
 
-build CMakeFiles/aud5.3.dir/aud_24-25/aud5/zad3.cpp.obj: CXX_COMPILER__aud5.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud5/zad3.cpp || cmake_object_order_depends_target_aud5.3
+build CMakeFiles/aud5.3.dir/aud_24-25/aud5/zad3.cpp.obj: CXX_COMPILER__aud5.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud5/zad3.cpp || cmake_object_order_depends_target_aud5.3
   DEP_FILE = CMakeFiles\aud5.3.dir\aud_24-25\aud5\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud5.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud5.3.dir\aud_24-25\aud5
+  TARGET_COMPILE_PDB = CMakeFiles\aud5.3.dir\
+  TARGET_PDB = aud5.3.pdb
 
 
 # =============================================================================
@@ -663,9 +719,10 @@ build aud5.3.exe: CXX_EXECUTABLE_LINKER__aud5.2e3_Debug CMakeFiles/aud5.3.dir/au
   OBJECT_DIR = CMakeFiles\aud5.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud5.3.dir\
   TARGET_FILE = aud5.3.exe
   TARGET_IMPLIB = libaud5.3.dll.a
-  TARGET_PDB = aud5.3.exe.dbg
+  TARGET_PDB = aud5.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud6.1
@@ -676,11 +733,13 @@ build aud5.3.exe: CXX_EXECUTABLE_LINKER__aud5.2e3_Debug CMakeFiles/aud5.3.dir/au
 
 build cmake_object_order_depends_target_aud6.1: phony || .
 
-build CMakeFiles/aud6.1.dir/aud_24-25/aud6/zad1.cpp.obj: CXX_COMPILER__aud6.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud6/zad1.cpp || cmake_object_order_depends_target_aud6.1
+build CMakeFiles/aud6.1.dir/aud_24-25/aud6/zad1.cpp.obj: CXX_COMPILER__aud6.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud6/zad1.cpp || cmake_object_order_depends_target_aud6.1
   DEP_FILE = CMakeFiles\aud6.1.dir\aud_24-25\aud6\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud6.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud6.1.dir\aud_24-25\aud6
+  TARGET_COMPILE_PDB = CMakeFiles\aud6.1.dir\
+  TARGET_PDB = aud6.1.pdb
 
 
 # =============================================================================
@@ -696,9 +755,10 @@ build aud6.1.exe: CXX_EXECUTABLE_LINKER__aud6.2e1_Debug CMakeFiles/aud6.1.dir/au
   OBJECT_DIR = CMakeFiles\aud6.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud6.1.dir\
   TARGET_FILE = aud6.1.exe
   TARGET_IMPLIB = libaud6.1.dll.a
-  TARGET_PDB = aud6.1.exe.dbg
+  TARGET_PDB = aud6.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud6.2
@@ -709,11 +769,13 @@ build aud6.1.exe: CXX_EXECUTABLE_LINKER__aud6.2e1_Debug CMakeFiles/aud6.1.dir/au
 
 build cmake_object_order_depends_target_aud6.2: phony || .
 
-build CMakeFiles/aud6.2.dir/aud_24-25/aud6/zad2.cpp.obj: CXX_COMPILER__aud6.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud6/zad2.cpp || cmake_object_order_depends_target_aud6.2
+build CMakeFiles/aud6.2.dir/aud_24-25/aud6/zad2.cpp.obj: CXX_COMPILER__aud6.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud6/zad2.cpp || cmake_object_order_depends_target_aud6.2
   DEP_FILE = CMakeFiles\aud6.2.dir\aud_24-25\aud6\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud6.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud6.2.dir\aud_24-25\aud6
+  TARGET_COMPILE_PDB = CMakeFiles\aud6.2.dir\
+  TARGET_PDB = aud6.2.pdb
 
 
 # =============================================================================
@@ -729,9 +791,10 @@ build aud6.2.exe: CXX_EXECUTABLE_LINKER__aud6.2e2_Debug CMakeFiles/aud6.2.dir/au
   OBJECT_DIR = CMakeFiles\aud6.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud6.2.dir\
   TARGET_FILE = aud6.2.exe
   TARGET_IMPLIB = libaud6.2.dll.a
-  TARGET_PDB = aud6.2.exe.dbg
+  TARGET_PDB = aud6.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud6.3
@@ -742,11 +805,13 @@ build aud6.2.exe: CXX_EXECUTABLE_LINKER__aud6.2e2_Debug CMakeFiles/aud6.2.dir/au
 
 build cmake_object_order_depends_target_aud6.3: phony || .
 
-build CMakeFiles/aud6.3.dir/aud_24-25/aud6/zad3.cpp.obj: CXX_COMPILER__aud6.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud6/zad3.cpp || cmake_object_order_depends_target_aud6.3
+build CMakeFiles/aud6.3.dir/aud_24-25/aud6/zad3.cpp.obj: CXX_COMPILER__aud6.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud6/zad3.cpp || cmake_object_order_depends_target_aud6.3
   DEP_FILE = CMakeFiles\aud6.3.dir\aud_24-25\aud6\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud6.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud6.3.dir\aud_24-25\aud6
+  TARGET_COMPILE_PDB = CMakeFiles\aud6.3.dir\
+  TARGET_PDB = aud6.3.pdb
 
 
 # =============================================================================
@@ -762,9 +827,10 @@ build aud6.3.exe: CXX_EXECUTABLE_LINKER__aud6.2e3_Debug CMakeFiles/aud6.3.dir/au
   OBJECT_DIR = CMakeFiles\aud6.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud6.3.dir\
   TARGET_FILE = aud6.3.exe
   TARGET_IMPLIB = libaud6.3.dll.a
-  TARGET_PDB = aud6.3.exe.dbg
+  TARGET_PDB = aud6.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud7.1
@@ -775,11 +841,13 @@ build aud6.3.exe: CXX_EXECUTABLE_LINKER__aud6.2e3_Debug CMakeFiles/aud6.3.dir/au
 
 build cmake_object_order_depends_target_aud7.1: phony || .
 
-build CMakeFiles/aud7.1.dir/aud_24-25/aud7/zad1.cpp.obj: CXX_COMPILER__aud7.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud7/zad1.cpp || cmake_object_order_depends_target_aud7.1
+build CMakeFiles/aud7.1.dir/aud_24-25/aud7/zad1.cpp.obj: CXX_COMPILER__aud7.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud7/zad1.cpp || cmake_object_order_depends_target_aud7.1
   DEP_FILE = CMakeFiles\aud7.1.dir\aud_24-25\aud7\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud7.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud7.1.dir\aud_24-25\aud7
+  TARGET_COMPILE_PDB = CMakeFiles\aud7.1.dir\
+  TARGET_PDB = aud7.1.pdb
 
 
 # =============================================================================
@@ -795,9 +863,10 @@ build aud7.1.exe: CXX_EXECUTABLE_LINKER__aud7.2e1_Debug CMakeFiles/aud7.1.dir/au
   OBJECT_DIR = CMakeFiles\aud7.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud7.1.dir\
   TARGET_FILE = aud7.1.exe
   TARGET_IMPLIB = libaud7.1.dll.a
-  TARGET_PDB = aud7.1.exe.dbg
+  TARGET_PDB = aud7.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud7.2
@@ -808,11 +877,13 @@ build aud7.1.exe: CXX_EXECUTABLE_LINKER__aud7.2e1_Debug CMakeFiles/aud7.1.dir/au
 
 build cmake_object_order_depends_target_aud7.2: phony || .
 
-build CMakeFiles/aud7.2.dir/aud_24-25/aud7/zad2.cpp.obj: CXX_COMPILER__aud7.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud7/zad2.cpp || cmake_object_order_depends_target_aud7.2
+build CMakeFiles/aud7.2.dir/aud_24-25/aud7/zad2.cpp.obj: CXX_COMPILER__aud7.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud7/zad2.cpp || cmake_object_order_depends_target_aud7.2
   DEP_FILE = CMakeFiles\aud7.2.dir\aud_24-25\aud7\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud7.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud7.2.dir\aud_24-25\aud7
+  TARGET_COMPILE_PDB = CMakeFiles\aud7.2.dir\
+  TARGET_PDB = aud7.2.pdb
 
 
 # =============================================================================
@@ -828,9 +899,10 @@ build aud7.2.exe: CXX_EXECUTABLE_LINKER__aud7.2e2_Debug CMakeFiles/aud7.2.dir/au
   OBJECT_DIR = CMakeFiles\aud7.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud7.2.dir\
   TARGET_FILE = aud7.2.exe
   TARGET_IMPLIB = libaud7.2.dll.a
-  TARGET_PDB = aud7.2.exe.dbg
+  TARGET_PDB = aud7.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud7.3
@@ -841,11 +913,13 @@ build aud7.2.exe: CXX_EXECUTABLE_LINKER__aud7.2e2_Debug CMakeFiles/aud7.2.dir/au
 
 build cmake_object_order_depends_target_aud7.3: phony || .
 
-build CMakeFiles/aud7.3.dir/aud_24-25/aud7/zad3.cpp.obj: CXX_COMPILER__aud7.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud7/zad3.cpp || cmake_object_order_depends_target_aud7.3
+build CMakeFiles/aud7.3.dir/aud_24-25/aud7/zad3.cpp.obj: CXX_COMPILER__aud7.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud7/zad3.cpp || cmake_object_order_depends_target_aud7.3
   DEP_FILE = CMakeFiles\aud7.3.dir\aud_24-25\aud7\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud7.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud7.3.dir\aud_24-25\aud7
+  TARGET_COMPILE_PDB = CMakeFiles\aud7.3.dir\
+  TARGET_PDB = aud7.3.pdb
 
 
 # =============================================================================
@@ -861,9 +935,10 @@ build aud7.3.exe: CXX_EXECUTABLE_LINKER__aud7.2e3_Debug CMakeFiles/aud7.3.dir/au
   OBJECT_DIR = CMakeFiles\aud7.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud7.3.dir\
   TARGET_FILE = aud7.3.exe
   TARGET_IMPLIB = libaud7.3.dll.a
-  TARGET_PDB = aud7.3.exe.dbg
+  TARGET_PDB = aud7.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud8.1
@@ -874,11 +949,13 @@ build aud7.3.exe: CXX_EXECUTABLE_LINKER__aud7.2e3_Debug CMakeFiles/aud7.3.dir/au
 
 build cmake_object_order_depends_target_aud8.1: phony || .
 
-build CMakeFiles/aud8.1.dir/aud_24-25/aud8/zad1.cpp.obj: CXX_COMPILER__aud8.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud8/zad1.cpp || cmake_object_order_depends_target_aud8.1
+build CMakeFiles/aud8.1.dir/aud_24-25/aud8/zad1.cpp.obj: CXX_COMPILER__aud8.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud8/zad1.cpp || cmake_object_order_depends_target_aud8.1
   DEP_FILE = CMakeFiles\aud8.1.dir\aud_24-25\aud8\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud8.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud8.1.dir\aud_24-25\aud8
+  TARGET_COMPILE_PDB = CMakeFiles\aud8.1.dir\
+  TARGET_PDB = aud8.1.pdb
 
 
 # =============================================================================
@@ -894,9 +971,10 @@ build aud8.1.exe: CXX_EXECUTABLE_LINKER__aud8.2e1_Debug CMakeFiles/aud8.1.dir/au
   OBJECT_DIR = CMakeFiles\aud8.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud8.1.dir\
   TARGET_FILE = aud8.1.exe
   TARGET_IMPLIB = libaud8.1.dll.a
-  TARGET_PDB = aud8.1.exe.dbg
+  TARGET_PDB = aud8.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud8.2
@@ -907,11 +985,13 @@ build aud8.1.exe: CXX_EXECUTABLE_LINKER__aud8.2e1_Debug CMakeFiles/aud8.1.dir/au
 
 build cmake_object_order_depends_target_aud8.2: phony || .
 
-build CMakeFiles/aud8.2.dir/aud_24-25/aud8/zad2.cpp.obj: CXX_COMPILER__aud8.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud8/zad2.cpp || cmake_object_order_depends_target_aud8.2
+build CMakeFiles/aud8.2.dir/aud_24-25/aud8/zad2.cpp.obj: CXX_COMPILER__aud8.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud8/zad2.cpp || cmake_object_order_depends_target_aud8.2
   DEP_FILE = CMakeFiles\aud8.2.dir\aud_24-25\aud8\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud8.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud8.2.dir\aud_24-25\aud8
+  TARGET_COMPILE_PDB = CMakeFiles\aud8.2.dir\
+  TARGET_PDB = aud8.2.pdb
 
 
 # =============================================================================
@@ -927,9 +1007,10 @@ build aud8.2.exe: CXX_EXECUTABLE_LINKER__aud8.2e2_Debug CMakeFiles/aud8.2.dir/au
   OBJECT_DIR = CMakeFiles\aud8.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud8.2.dir\
   TARGET_FILE = aud8.2.exe
   TARGET_IMPLIB = libaud8.2.dll.a
-  TARGET_PDB = aud8.2.exe.dbg
+  TARGET_PDB = aud8.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud8.3
@@ -940,11 +1021,13 @@ build aud8.2.exe: CXX_EXECUTABLE_LINKER__aud8.2e2_Debug CMakeFiles/aud8.2.dir/au
 
 build cmake_object_order_depends_target_aud8.3: phony || .
 
-build CMakeFiles/aud8.3.dir/aud_24-25/aud8/zad3.cpp.obj: CXX_COMPILER__aud8.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud8/zad3.cpp || cmake_object_order_depends_target_aud8.3
+build CMakeFiles/aud8.3.dir/aud_24-25/aud8/zad3.cpp.obj: CXX_COMPILER__aud8.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud8/zad3.cpp || cmake_object_order_depends_target_aud8.3
   DEP_FILE = CMakeFiles\aud8.3.dir\aud_24-25\aud8\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud8.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud8.3.dir\aud_24-25\aud8
+  TARGET_COMPILE_PDB = CMakeFiles\aud8.3.dir\
+  TARGET_PDB = aud8.3.pdb
 
 
 # =============================================================================
@@ -960,9 +1043,10 @@ build aud8.3.exe: CXX_EXECUTABLE_LINKER__aud8.2e3_Debug CMakeFiles/aud8.3.dir/au
   OBJECT_DIR = CMakeFiles\aud8.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud8.3.dir\
   TARGET_FILE = aud8.3.exe
   TARGET_IMPLIB = libaud8.3.dll.a
-  TARGET_PDB = aud8.3.exe.dbg
+  TARGET_PDB = aud8.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud9.1
@@ -973,11 +1057,13 @@ build aud8.3.exe: CXX_EXECUTABLE_LINKER__aud8.2e3_Debug CMakeFiles/aud8.3.dir/au
 
 build cmake_object_order_depends_target_aud9.1: phony || .
 
-build CMakeFiles/aud9.1.dir/aud_24-25/aud9/zad1.cpp.obj: CXX_COMPILER__aud9.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud9/zad1.cpp || cmake_object_order_depends_target_aud9.1
+build CMakeFiles/aud9.1.dir/aud_24-25/aud9/zad1.cpp.obj: CXX_COMPILER__aud9.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud9/zad1.cpp || cmake_object_order_depends_target_aud9.1
   DEP_FILE = CMakeFiles\aud9.1.dir\aud_24-25\aud9\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud9.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud9.1.dir\aud_24-25\aud9
+  TARGET_COMPILE_PDB = CMakeFiles\aud9.1.dir\
+  TARGET_PDB = aud9.1.pdb
 
 
 # =============================================================================
@@ -993,9 +1079,10 @@ build aud9.1.exe: CXX_EXECUTABLE_LINKER__aud9.2e1_Debug CMakeFiles/aud9.1.dir/au
   OBJECT_DIR = CMakeFiles\aud9.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud9.1.dir\
   TARGET_FILE = aud9.1.exe
   TARGET_IMPLIB = libaud9.1.dll.a
-  TARGET_PDB = aud9.1.exe.dbg
+  TARGET_PDB = aud9.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud9.2
@@ -1006,11 +1093,13 @@ build aud9.1.exe: CXX_EXECUTABLE_LINKER__aud9.2e1_Debug CMakeFiles/aud9.1.dir/au
 
 build cmake_object_order_depends_target_aud9.2: phony || .
 
-build CMakeFiles/aud9.2.dir/aud_24-25/aud9/zad2.cpp.obj: CXX_COMPILER__aud9.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud9/zad2.cpp || cmake_object_order_depends_target_aud9.2
+build CMakeFiles/aud9.2.dir/aud_24-25/aud9/zad2.cpp.obj: CXX_COMPILER__aud9.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud9/zad2.cpp || cmake_object_order_depends_target_aud9.2
   DEP_FILE = CMakeFiles\aud9.2.dir\aud_24-25\aud9\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud9.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud9.2.dir\aud_24-25\aud9
+  TARGET_COMPILE_PDB = CMakeFiles\aud9.2.dir\
+  TARGET_PDB = aud9.2.pdb
 
 
 # =============================================================================
@@ -1026,9 +1115,10 @@ build aud9.2.exe: CXX_EXECUTABLE_LINKER__aud9.2e2_Debug CMakeFiles/aud9.2.dir/au
   OBJECT_DIR = CMakeFiles\aud9.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud9.2.dir\
   TARGET_FILE = aud9.2.exe
   TARGET_IMPLIB = libaud9.2.dll.a
-  TARGET_PDB = aud9.2.exe.dbg
+  TARGET_PDB = aud9.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud9.3
@@ -1039,11 +1129,13 @@ build aud9.2.exe: CXX_EXECUTABLE_LINKER__aud9.2e2_Debug CMakeFiles/aud9.2.dir/au
 
 build cmake_object_order_depends_target_aud9.3: phony || .
 
-build CMakeFiles/aud9.3.dir/aud_24-25/aud9/zad3.cpp.obj: CXX_COMPILER__aud9.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud9/zad3.cpp || cmake_object_order_depends_target_aud9.3
+build CMakeFiles/aud9.3.dir/aud_24-25/aud9/zad3.cpp.obj: CXX_COMPILER__aud9.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud9/zad3.cpp || cmake_object_order_depends_target_aud9.3
   DEP_FILE = CMakeFiles\aud9.3.dir\aud_24-25\aud9\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud9.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud9.3.dir\aud_24-25\aud9
+  TARGET_COMPILE_PDB = CMakeFiles\aud9.3.dir\
+  TARGET_PDB = aud9.3.pdb
 
 
 # =============================================================================
@@ -1059,9 +1151,10 @@ build aud9.3.exe: CXX_EXECUTABLE_LINKER__aud9.2e3_Debug CMakeFiles/aud9.3.dir/au
   OBJECT_DIR = CMakeFiles\aud9.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud9.3.dir\
   TARGET_FILE = aud9.3.exe
   TARGET_IMPLIB = libaud9.3.dll.a
-  TARGET_PDB = aud9.3.exe.dbg
+  TARGET_PDB = aud9.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud10.1
@@ -1072,11 +1165,13 @@ build aud9.3.exe: CXX_EXECUTABLE_LINKER__aud9.2e3_Debug CMakeFiles/aud9.3.dir/au
 
 build cmake_object_order_depends_target_aud10.1: phony || .
 
-build CMakeFiles/aud10.1.dir/aud_24-25/aud10/zad1.cpp.obj: CXX_COMPILER__aud10.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud10/zad1.cpp || cmake_object_order_depends_target_aud10.1
+build CMakeFiles/aud10.1.dir/aud_24-25/aud10/zad1.cpp.obj: CXX_COMPILER__aud10.2e1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud10/zad1.cpp || cmake_object_order_depends_target_aud10.1
   DEP_FILE = CMakeFiles\aud10.1.dir\aud_24-25\aud10\zad1.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud10.1.dir
   OBJECT_FILE_DIR = CMakeFiles\aud10.1.dir\aud_24-25\aud10
+  TARGET_COMPILE_PDB = CMakeFiles\aud10.1.dir\
+  TARGET_PDB = aud10.1.pdb
 
 
 # =============================================================================
@@ -1092,9 +1187,10 @@ build aud10.1.exe: CXX_EXECUTABLE_LINKER__aud10.2e1_Debug CMakeFiles/aud10.1.dir
   OBJECT_DIR = CMakeFiles\aud10.1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud10.1.dir\
   TARGET_FILE = aud10.1.exe
   TARGET_IMPLIB = libaud10.1.dll.a
-  TARGET_PDB = aud10.1.exe.dbg
+  TARGET_PDB = aud10.1.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud10.2
@@ -1105,11 +1201,13 @@ build aud10.1.exe: CXX_EXECUTABLE_LINKER__aud10.2e1_Debug CMakeFiles/aud10.1.dir
 
 build cmake_object_order_depends_target_aud10.2: phony || .
 
-build CMakeFiles/aud10.2.dir/aud_24-25/aud10/zad2.cpp.obj: CXX_COMPILER__aud10.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud10/zad2.cpp || cmake_object_order_depends_target_aud10.2
+build CMakeFiles/aud10.2.dir/aud_24-25/aud10/zad2.cpp.obj: CXX_COMPILER__aud10.2e2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud10/zad2.cpp || cmake_object_order_depends_target_aud10.2
   DEP_FILE = CMakeFiles\aud10.2.dir\aud_24-25\aud10\zad2.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud10.2.dir
   OBJECT_FILE_DIR = CMakeFiles\aud10.2.dir\aud_24-25\aud10
+  TARGET_COMPILE_PDB = CMakeFiles\aud10.2.dir\
+  TARGET_PDB = aud10.2.pdb
 
 
 # =============================================================================
@@ -1125,9 +1223,10 @@ build aud10.2.exe: CXX_EXECUTABLE_LINKER__aud10.2e2_Debug CMakeFiles/aud10.2.dir
   OBJECT_DIR = CMakeFiles\aud10.2.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud10.2.dir\
   TARGET_FILE = aud10.2.exe
   TARGET_IMPLIB = libaud10.2.dll.a
-  TARGET_PDB = aud10.2.exe.dbg
+  TARGET_PDB = aud10.2.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target aud10.3
@@ -1138,11 +1237,13 @@ build aud10.2.exe: CXX_EXECUTABLE_LINKER__aud10.2e2_Debug CMakeFiles/aud10.2.dir
 
 build cmake_object_order_depends_target_aud10.3: phony || .
 
-build CMakeFiles/aud10.3.dir/aud_24-25/aud10/zad3.cpp.obj: CXX_COMPILER__aud10.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/aud10/zad3.cpp || cmake_object_order_depends_target_aud10.3
+build CMakeFiles/aud10.3.dir/aud_24-25/aud10/zad3.cpp.obj: CXX_COMPILER__aud10.2e3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/aud10/zad3.cpp || cmake_object_order_depends_target_aud10.3
   DEP_FILE = CMakeFiles\aud10.3.dir\aud_24-25\aud10\zad3.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\aud10.3.dir
   OBJECT_FILE_DIR = CMakeFiles\aud10.3.dir\aud_24-25\aud10
+  TARGET_COMPILE_PDB = CMakeFiles\aud10.3.dir\
+  TARGET_PDB = aud10.3.pdb
 
 
 # =============================================================================
@@ -1158,9 +1259,10 @@ build aud10.3.exe: CXX_EXECUTABLE_LINKER__aud10.2e3_Debug CMakeFiles/aud10.3.dir
   OBJECT_DIR = CMakeFiles\aud10.3.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\aud10.3.dir\
   TARGET_FILE = aud10.3.exe
   TARGET_IMPLIB = libaud10.3.dll.a
-  TARGET_PDB = aud10.3.exe.dbg
+  TARGET_PDB = aud10.3.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad1_kvali
@@ -1171,11 +1273,13 @@ build aud10.3.exe: CXX_EXECUTABLE_LINKER__aud10.2e3_Debug CMakeFiles/aud10.3.dir
 
 build cmake_object_order_depends_target_zad1_kvali: phony || .
 
-build CMakeFiles/zad1_kvali.dir/aud_24-25/kvali_prvkolok/zad1_kvali_kolok.cpp.obj: CXX_COMPILER__zad1_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_prvkolok/zad1_kvali_kolok.cpp || cmake_object_order_depends_target_zad1_kvali
-  DEP_FILE = CMakeFiles\zad1_kvali.dir\aud_24-25\kvali_prvkolok\zad1_kvali_kolok.cpp.obj.d
+build CMakeFiles/zad1_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad1_kvali_kolok.cpp.obj: CXX_COMPILER__zad1_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_prv_kolok_courses/zad1_kvali_kolok.cpp || cmake_object_order_depends_target_zad1_kvali
+  DEP_FILE = CMakeFiles\zad1_kvali.dir\aud_24-25\kvali_prv_kolok_courses\zad1_kvali_kolok.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad1_kvali.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad1_kvali.dir\aud_24-25\kvali_prvkolok
+  OBJECT_FILE_DIR = CMakeFiles\zad1_kvali.dir\aud_24-25\kvali_prv_kolok_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad1_kvali.dir\
+  TARGET_PDB = zad1_kvali.pdb
 
 
 # =============================================================================
@@ -1185,15 +1289,16 @@ build CMakeFiles/zad1_kvali.dir/aud_24-25/kvali_prvkolok/zad1_kvali_kolok.cpp.ob
 #############################################
 # Link the executable zad1_kvali.exe
 
-build zad1_kvali.exe: CXX_EXECUTABLE_LINKER__zad1_kvali_Debug CMakeFiles/zad1_kvali.dir/aud_24-25/kvali_prvkolok/zad1_kvali_kolok.cpp.obj
+build zad1_kvali.exe: CXX_EXECUTABLE_LINKER__zad1_kvali_Debug CMakeFiles/zad1_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad1_kvali_kolok.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad1_kvali.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad1_kvali.dir\
   TARGET_FILE = zad1_kvali.exe
   TARGET_IMPLIB = libzad1_kvali.dll.a
-  TARGET_PDB = zad1_kvali.exe.dbg
+  TARGET_PDB = zad1_kvali.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad2_kvali
@@ -1204,11 +1309,13 @@ build zad1_kvali.exe: CXX_EXECUTABLE_LINKER__zad1_kvali_Debug CMakeFiles/zad1_kv
 
 build cmake_object_order_depends_target_zad2_kvali: phony || .
 
-build CMakeFiles/zad2_kvali.dir/aud_24-25/kvali_prvkolok/zad2_kvali_kolok.cpp.obj: CXX_COMPILER__zad2_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_prvkolok/zad2_kvali_kolok.cpp || cmake_object_order_depends_target_zad2_kvali
-  DEP_FILE = CMakeFiles\zad2_kvali.dir\aud_24-25\kvali_prvkolok\zad2_kvali_kolok.cpp.obj.d
+build CMakeFiles/zad2_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad2_kvali_kolok.cpp.obj: CXX_COMPILER__zad2_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_prv_kolok_courses/zad2_kvali_kolok.cpp || cmake_object_order_depends_target_zad2_kvali
+  DEP_FILE = CMakeFiles\zad2_kvali.dir\aud_24-25\kvali_prv_kolok_courses\zad2_kvali_kolok.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad2_kvali.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad2_kvali.dir\aud_24-25\kvali_prvkolok
+  OBJECT_FILE_DIR = CMakeFiles\zad2_kvali.dir\aud_24-25\kvali_prv_kolok_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad2_kvali.dir\
+  TARGET_PDB = zad2_kvali.pdb
 
 
 # =============================================================================
@@ -1218,15 +1325,16 @@ build CMakeFiles/zad2_kvali.dir/aud_24-25/kvali_prvkolok/zad2_kvali_kolok.cpp.ob
 #############################################
 # Link the executable zad2_kvali.exe
 
-build zad2_kvali.exe: CXX_EXECUTABLE_LINKER__zad2_kvali_Debug CMakeFiles/zad2_kvali.dir/aud_24-25/kvali_prvkolok/zad2_kvali_kolok.cpp.obj
+build zad2_kvali.exe: CXX_EXECUTABLE_LINKER__zad2_kvali_Debug CMakeFiles/zad2_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad2_kvali_kolok.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad2_kvali.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad2_kvali.dir\
   TARGET_FILE = zad2_kvali.exe
   TARGET_IMPLIB = libzad2_kvali.dll.a
-  TARGET_PDB = zad2_kvali.exe.dbg
+  TARGET_PDB = zad2_kvali.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad3_kvali
@@ -1237,11 +1345,13 @@ build zad2_kvali.exe: CXX_EXECUTABLE_LINKER__zad2_kvali_Debug CMakeFiles/zad2_kv
 
 build cmake_object_order_depends_target_zad3_kvali: phony || .
 
-build CMakeFiles/zad3_kvali.dir/aud_24-25/kvali_prvkolok/zad3_kvali_kolok.cpp.obj: CXX_COMPILER__zad3_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_prvkolok/zad3_kvali_kolok.cpp || cmake_object_order_depends_target_zad3_kvali
-  DEP_FILE = CMakeFiles\zad3_kvali.dir\aud_24-25\kvali_prvkolok\zad3_kvali_kolok.cpp.obj.d
+build CMakeFiles/zad3_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad3_kvali_kolok.cpp.obj: CXX_COMPILER__zad3_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_prv_kolok_courses/zad3_kvali_kolok.cpp || cmake_object_order_depends_target_zad3_kvali
+  DEP_FILE = CMakeFiles\zad3_kvali.dir\aud_24-25\kvali_prv_kolok_courses\zad3_kvali_kolok.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad3_kvali.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad3_kvali.dir\aud_24-25\kvali_prvkolok
+  OBJECT_FILE_DIR = CMakeFiles\zad3_kvali.dir\aud_24-25\kvali_prv_kolok_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad3_kvali.dir\
+  TARGET_PDB = zad3_kvali.pdb
 
 
 # =============================================================================
@@ -1251,15 +1361,16 @@ build CMakeFiles/zad3_kvali.dir/aud_24-25/kvali_prvkolok/zad3_kvali_kolok.cpp.ob
 #############################################
 # Link the executable zad3_kvali.exe
 
-build zad3_kvali.exe: CXX_EXECUTABLE_LINKER__zad3_kvali_Debug CMakeFiles/zad3_kvali.dir/aud_24-25/kvali_prvkolok/zad3_kvali_kolok.cpp.obj
+build zad3_kvali.exe: CXX_EXECUTABLE_LINKER__zad3_kvali_Debug CMakeFiles/zad3_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad3_kvali_kolok.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad3_kvali.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad3_kvali.dir\
   TARGET_FILE = zad3_kvali.exe
   TARGET_IMPLIB = libzad3_kvali.dll.a
-  TARGET_PDB = zad3_kvali.exe.dbg
+  TARGET_PDB = zad3_kvali.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad4_kvali
@@ -1270,11 +1381,13 @@ build zad3_kvali.exe: CXX_EXECUTABLE_LINKER__zad3_kvali_Debug CMakeFiles/zad3_kv
 
 build cmake_object_order_depends_target_zad4_kvali: phony || .
 
-build CMakeFiles/zad4_kvali.dir/aud_24-25/kvali_prvkolok/zad4_kvali_kolok.cpp.obj: CXX_COMPILER__zad4_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_prvkolok/zad4_kvali_kolok.cpp || cmake_object_order_depends_target_zad4_kvali
-  DEP_FILE = CMakeFiles\zad4_kvali.dir\aud_24-25\kvali_prvkolok\zad4_kvali_kolok.cpp.obj.d
+build CMakeFiles/zad4_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad4_kvali_kolok.cpp.obj: CXX_COMPILER__zad4_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_prv_kolok_courses/zad4_kvali_kolok.cpp || cmake_object_order_depends_target_zad4_kvali
+  DEP_FILE = CMakeFiles\zad4_kvali.dir\aud_24-25\kvali_prv_kolok_courses\zad4_kvali_kolok.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad4_kvali.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad4_kvali.dir\aud_24-25\kvali_prvkolok
+  OBJECT_FILE_DIR = CMakeFiles\zad4_kvali.dir\aud_24-25\kvali_prv_kolok_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad4_kvali.dir\
+  TARGET_PDB = zad4_kvali.pdb
 
 
 # =============================================================================
@@ -1284,15 +1397,16 @@ build CMakeFiles/zad4_kvali.dir/aud_24-25/kvali_prvkolok/zad4_kvali_kolok.cpp.ob
 #############################################
 # Link the executable zad4_kvali.exe
 
-build zad4_kvali.exe: CXX_EXECUTABLE_LINKER__zad4_kvali_Debug CMakeFiles/zad4_kvali.dir/aud_24-25/kvali_prvkolok/zad4_kvali_kolok.cpp.obj
+build zad4_kvali.exe: CXX_EXECUTABLE_LINKER__zad4_kvali_Debug CMakeFiles/zad4_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad4_kvali_kolok.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad4_kvali.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad4_kvali.dir\
   TARGET_FILE = zad4_kvali.exe
   TARGET_IMPLIB = libzad4_kvali.dll.a
-  TARGET_PDB = zad4_kvali.exe.dbg
+  TARGET_PDB = zad4_kvali.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad5_kvali
@@ -1303,11 +1417,13 @@ build zad4_kvali.exe: CXX_EXECUTABLE_LINKER__zad4_kvali_Debug CMakeFiles/zad4_kv
 
 build cmake_object_order_depends_target_zad5_kvali: phony || .
 
-build CMakeFiles/zad5_kvali.dir/aud_24-25/kvali_prvkolok/zad5_kvali_kolok.cpp.obj: CXX_COMPILER__zad5_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_prvkolok/zad5_kvali_kolok.cpp || cmake_object_order_depends_target_zad5_kvali
-  DEP_FILE = CMakeFiles\zad5_kvali.dir\aud_24-25\kvali_prvkolok\zad5_kvali_kolok.cpp.obj.d
+build CMakeFiles/zad5_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad5_kvali_kolok.cpp.obj: CXX_COMPILER__zad5_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_prv_kolok_courses/zad5_kvali_kolok.cpp || cmake_object_order_depends_target_zad5_kvali
+  DEP_FILE = CMakeFiles\zad5_kvali.dir\aud_24-25\kvali_prv_kolok_courses\zad5_kvali_kolok.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad5_kvali.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad5_kvali.dir\aud_24-25\kvali_prvkolok
+  OBJECT_FILE_DIR = CMakeFiles\zad5_kvali.dir\aud_24-25\kvali_prv_kolok_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad5_kvali.dir\
+  TARGET_PDB = zad5_kvali.pdb
 
 
 # =============================================================================
@@ -1317,15 +1433,16 @@ build CMakeFiles/zad5_kvali.dir/aud_24-25/kvali_prvkolok/zad5_kvali_kolok.cpp.ob
 #############################################
 # Link the executable zad5_kvali.exe
 
-build zad5_kvali.exe: CXX_EXECUTABLE_LINKER__zad5_kvali_Debug CMakeFiles/zad5_kvali.dir/aud_24-25/kvali_prvkolok/zad5_kvali_kolok.cpp.obj
+build zad5_kvali.exe: CXX_EXECUTABLE_LINKER__zad5_kvali_Debug CMakeFiles/zad5_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad5_kvali_kolok.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad5_kvali.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad5_kvali.dir\
   TARGET_FILE = zad5_kvali.exe
   TARGET_IMPLIB = libzad5_kvali.dll.a
-  TARGET_PDB = zad5_kvali.exe.dbg
+  TARGET_PDB = zad5_kvali.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad6_kvali
@@ -1336,11 +1453,13 @@ build zad5_kvali.exe: CXX_EXECUTABLE_LINKER__zad5_kvali_Debug CMakeFiles/zad5_kv
 
 build cmake_object_order_depends_target_zad6_kvali: phony || .
 
-build CMakeFiles/zad6_kvali.dir/aud_24-25/kvali_prvkolok/zad6_kvali_kolok.cpp.obj: CXX_COMPILER__zad6_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_prvkolok/zad6_kvali_kolok.cpp || cmake_object_order_depends_target_zad6_kvali
-  DEP_FILE = CMakeFiles\zad6_kvali.dir\aud_24-25\kvali_prvkolok\zad6_kvali_kolok.cpp.obj.d
+build CMakeFiles/zad6_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad6_kvali_kolok.cpp.obj: CXX_COMPILER__zad6_kvali_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_prv_kolok_courses/zad6_kvali_kolok.cpp || cmake_object_order_depends_target_zad6_kvali
+  DEP_FILE = CMakeFiles\zad6_kvali.dir\aud_24-25\kvali_prv_kolok_courses\zad6_kvali_kolok.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad6_kvali.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad6_kvali.dir\aud_24-25\kvali_prvkolok
+  OBJECT_FILE_DIR = CMakeFiles\zad6_kvali.dir\aud_24-25\kvali_prv_kolok_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad6_kvali.dir\
+  TARGET_PDB = zad6_kvali.pdb
 
 
 # =============================================================================
@@ -1350,15 +1469,808 @@ build CMakeFiles/zad6_kvali.dir/aud_24-25/kvali_prvkolok/zad6_kvali_kolok.cpp.ob
 #############################################
 # Link the executable zad6_kvali.exe
 
-build zad6_kvali.exe: CXX_EXECUTABLE_LINKER__zad6_kvali_Debug CMakeFiles/zad6_kvali.dir/aud_24-25/kvali_prvkolok/zad6_kvali_kolok.cpp.obj
+build zad6_kvali.exe: CXX_EXECUTABLE_LINKER__zad6_kvali_Debug CMakeFiles/zad6_kvali.dir/aud_24-25/kvali_prv_kolok_courses/zad6_kvali_kolok.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad6_kvali.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad6_kvali.dir\
   TARGET_FILE = zad6_kvali.exe
   TARGET_IMPLIB = libzad6_kvali.dll.a
-  TARGET_PDB = zad6_kvali.exe.dbg
+  TARGET_PDB = zad6_kvali.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad1
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad1
+
+build cmake_object_order_depends_target_prv_kolok_zad1: phony || .
+
+build CMakeFiles/prv_kolok_zad1.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad1.cpp.obj: CXX_COMPILER__prv_kolok_zad1_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad1.cpp || cmake_object_order_depends_target_prv_kolok_zad1
+  DEP_FILE = CMakeFiles\prv_kolok_zad1.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad1.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad1.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad1.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad1.dir\
+  TARGET_PDB = prv_kolok_zad1.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad1
+
+
+#############################################
+# Link the executable prv_kolok_zad1.exe
+
+build prv_kolok_zad1.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad1_Debug CMakeFiles/prv_kolok_zad1.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad1.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad1.dir\
+  TARGET_FILE = prv_kolok_zad1.exe
+  TARGET_IMPLIB = libprv_kolok_zad1.dll.a
+  TARGET_PDB = prv_kolok_zad1.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad2
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad2
+
+build cmake_object_order_depends_target_prv_kolok_zad2: phony || .
+
+build CMakeFiles/prv_kolok_zad2.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad2.cpp.obj: CXX_COMPILER__prv_kolok_zad2_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad2.cpp || cmake_object_order_depends_target_prv_kolok_zad2
+  DEP_FILE = CMakeFiles\prv_kolok_zad2.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad2.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad2.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad2.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad2.dir\
+  TARGET_PDB = prv_kolok_zad2.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad2
+
+
+#############################################
+# Link the executable prv_kolok_zad2.exe
+
+build prv_kolok_zad2.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad2_Debug CMakeFiles/prv_kolok_zad2.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad2.dir\
+  TARGET_FILE = prv_kolok_zad2.exe
+  TARGET_IMPLIB = libprv_kolok_zad2.dll.a
+  TARGET_PDB = prv_kolok_zad2.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad3
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad3
+
+build cmake_object_order_depends_target_prv_kolok_zad3: phony || .
+
+build CMakeFiles/prv_kolok_zad3.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad3.cpp.obj: CXX_COMPILER__prv_kolok_zad3_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad3.cpp || cmake_object_order_depends_target_prv_kolok_zad3
+  DEP_FILE = CMakeFiles\prv_kolok_zad3.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad3.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad3.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad3.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad3.dir\
+  TARGET_PDB = prv_kolok_zad3.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad3
+
+
+#############################################
+# Link the executable prv_kolok_zad3.exe
+
+build prv_kolok_zad3.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad3_Debug CMakeFiles/prv_kolok_zad3.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad3.dir\
+  TARGET_FILE = prv_kolok_zad3.exe
+  TARGET_IMPLIB = libprv_kolok_zad3.dll.a
+  TARGET_PDB = prv_kolok_zad3.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad4
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad4
+
+build cmake_object_order_depends_target_prv_kolok_zad4: phony || .
+
+build CMakeFiles/prv_kolok_zad4.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad4.cpp.obj: CXX_COMPILER__prv_kolok_zad4_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad4.cpp || cmake_object_order_depends_target_prv_kolok_zad4
+  DEP_FILE = CMakeFiles\prv_kolok_zad4.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad4.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad4.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad4.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad4.dir\
+  TARGET_PDB = prv_kolok_zad4.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad4
+
+
+#############################################
+# Link the executable prv_kolok_zad4.exe
+
+build prv_kolok_zad4.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad4_Debug CMakeFiles/prv_kolok_zad4.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad4.dir\
+  TARGET_FILE = prv_kolok_zad4.exe
+  TARGET_IMPLIB = libprv_kolok_zad4.dll.a
+  TARGET_PDB = prv_kolok_zad4.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad5
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad5
+
+build cmake_object_order_depends_target_prv_kolok_zad5: phony || .
+
+build CMakeFiles/prv_kolok_zad5.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad5.cpp.obj: CXX_COMPILER__prv_kolok_zad5_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad5.cpp || cmake_object_order_depends_target_prv_kolok_zad5
+  DEP_FILE = CMakeFiles\prv_kolok_zad5.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad5.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad5.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad5.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad5.dir\
+  TARGET_PDB = prv_kolok_zad5.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad5
+
+
+#############################################
+# Link the executable prv_kolok_zad5.exe
+
+build prv_kolok_zad5.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad5_Debug CMakeFiles/prv_kolok_zad5.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad5.dir\
+  TARGET_FILE = prv_kolok_zad5.exe
+  TARGET_IMPLIB = libprv_kolok_zad5.dll.a
+  TARGET_PDB = prv_kolok_zad5.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad6
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad6
+
+build cmake_object_order_depends_target_prv_kolok_zad6: phony || .
+
+build CMakeFiles/prv_kolok_zad6.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad6.cpp.obj: CXX_COMPILER__prv_kolok_zad6_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad6.cpp || cmake_object_order_depends_target_prv_kolok_zad6
+  DEP_FILE = CMakeFiles\prv_kolok_zad6.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad6.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad6.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad6.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad6.dir\
+  TARGET_PDB = prv_kolok_zad6.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad6
+
+
+#############################################
+# Link the executable prv_kolok_zad6.exe
+
+build prv_kolok_zad6.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad6_Debug CMakeFiles/prv_kolok_zad6.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad6.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad6.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad6.dir\
+  TARGET_FILE = prv_kolok_zad6.exe
+  TARGET_IMPLIB = libprv_kolok_zad6.dll.a
+  TARGET_PDB = prv_kolok_zad6.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad7
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad7
+
+build cmake_object_order_depends_target_prv_kolok_zad7: phony || .
+
+build CMakeFiles/prv_kolok_zad7.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad7.cpp.obj: CXX_COMPILER__prv_kolok_zad7_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad7.cpp || cmake_object_order_depends_target_prv_kolok_zad7
+  DEP_FILE = CMakeFiles\prv_kolok_zad7.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad7.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad7.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad7.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad7.dir\
+  TARGET_PDB = prv_kolok_zad7.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad7
+
+
+#############################################
+# Link the executable prv_kolok_zad7.exe
+
+build prv_kolok_zad7.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad7_Debug CMakeFiles/prv_kolok_zad7.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad7.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad7.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad7.dir\
+  TARGET_FILE = prv_kolok_zad7.exe
+  TARGET_IMPLIB = libprv_kolok_zad7.dll.a
+  TARGET_PDB = prv_kolok_zad7.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad8
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad8
+
+build cmake_object_order_depends_target_prv_kolok_zad8: phony || .
+
+build CMakeFiles/prv_kolok_zad8.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad8.cpp.obj: CXX_COMPILER__prv_kolok_zad8_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad8.cpp || cmake_object_order_depends_target_prv_kolok_zad8
+  DEP_FILE = CMakeFiles\prv_kolok_zad8.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad8.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad8.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad8.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad8.dir\
+  TARGET_PDB = prv_kolok_zad8.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad8
+
+
+#############################################
+# Link the executable prv_kolok_zad8.exe
+
+build prv_kolok_zad8.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad8_Debug CMakeFiles/prv_kolok_zad8.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad8.dir\
+  TARGET_FILE = prv_kolok_zad8.exe
+  TARGET_IMPLIB = libprv_kolok_zad8.dll.a
+  TARGET_PDB = prv_kolok_zad8.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad9
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad9
+
+build cmake_object_order_depends_target_prv_kolok_zad9: phony || .
+
+build CMakeFiles/prv_kolok_zad9.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad9.cpp.obj: CXX_COMPILER__prv_kolok_zad9_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad9.cpp || cmake_object_order_depends_target_prv_kolok_zad9
+  DEP_FILE = CMakeFiles\prv_kolok_zad9.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad9.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad9.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad9.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad9.dir\
+  TARGET_PDB = prv_kolok_zad9.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad9
+
+
+#############################################
+# Link the executable prv_kolok_zad9.exe
+
+build prv_kolok_zad9.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad9_Debug CMakeFiles/prv_kolok_zad9.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad9.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad9.dir\
+  TARGET_FILE = prv_kolok_zad9.exe
+  TARGET_IMPLIB = libprv_kolok_zad9.dll.a
+  TARGET_PDB = prv_kolok_zad9.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad10
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad10
+
+build cmake_object_order_depends_target_prv_kolok_zad10: phony || .
+
+build CMakeFiles/prv_kolok_zad10.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad10.cpp.obj: CXX_COMPILER__prv_kolok_zad10_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad10.cpp || cmake_object_order_depends_target_prv_kolok_zad10
+  DEP_FILE = CMakeFiles\prv_kolok_zad10.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad10.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad10.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad10.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad10.dir\
+  TARGET_PDB = prv_kolok_zad10.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad10
+
+
+#############################################
+# Link the executable prv_kolok_zad10.exe
+
+build prv_kolok_zad10.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad10_Debug CMakeFiles/prv_kolok_zad10.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad10.dir\
+  TARGET_FILE = prv_kolok_zad10.exe
+  TARGET_IMPLIB = libprv_kolok_zad10.dll.a
+  TARGET_PDB = prv_kolok_zad10.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad11
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad11
+
+build cmake_object_order_depends_target_prv_kolok_zad11: phony || .
+
+build CMakeFiles/prv_kolok_zad11.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad11.cpp.obj: CXX_COMPILER__prv_kolok_zad11_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad11.cpp || cmake_object_order_depends_target_prv_kolok_zad11
+  DEP_FILE = CMakeFiles\prv_kolok_zad11.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad11.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad11.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad11.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad11.dir\
+  TARGET_PDB = prv_kolok_zad11.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad11
+
+
+#############################################
+# Link the executable prv_kolok_zad11.exe
+
+build prv_kolok_zad11.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad11_Debug CMakeFiles/prv_kolok_zad11.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad11.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad11.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad11.dir\
+  TARGET_FILE = prv_kolok_zad11.exe
+  TARGET_IMPLIB = libprv_kolok_zad11.dll.a
+  TARGET_PDB = prv_kolok_zad11.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad12
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad12
+
+build cmake_object_order_depends_target_prv_kolok_zad12: phony || .
+
+build CMakeFiles/prv_kolok_zad12.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad12.cpp.obj: CXX_COMPILER__prv_kolok_zad12_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad12.cpp || cmake_object_order_depends_target_prv_kolok_zad12
+  DEP_FILE = CMakeFiles\prv_kolok_zad12.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad12.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad12.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad12.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad12.dir\
+  TARGET_PDB = prv_kolok_zad12.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad12
+
+
+#############################################
+# Link the executable prv_kolok_zad12.exe
+
+build prv_kolok_zad12.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad12_Debug CMakeFiles/prv_kolok_zad12.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad12.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad12.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad12.dir\
+  TARGET_FILE = prv_kolok_zad12.exe
+  TARGET_IMPLIB = libprv_kolok_zad12.dll.a
+  TARGET_PDB = prv_kolok_zad12.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad13
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad13
+
+build cmake_object_order_depends_target_prv_kolok_zad13: phony || .
+
+build CMakeFiles/prv_kolok_zad13.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad13.cpp.obj: CXX_COMPILER__prv_kolok_zad13_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad13.cpp || cmake_object_order_depends_target_prv_kolok_zad13
+  DEP_FILE = CMakeFiles\prv_kolok_zad13.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad13.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad13.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad13.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad13.dir\
+  TARGET_PDB = prv_kolok_zad13.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad13
+
+
+#############################################
+# Link the executable prv_kolok_zad13.exe
+
+build prv_kolok_zad13.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad13_Debug CMakeFiles/prv_kolok_zad13.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad13.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad13.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad13.dir\
+  TARGET_FILE = prv_kolok_zad13.exe
+  TARGET_IMPLIB = libprv_kolok_zad13.dll.a
+  TARGET_PDB = prv_kolok_zad13.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad14
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad14
+
+build cmake_object_order_depends_target_prv_kolok_zad14: phony || .
+
+build CMakeFiles/prv_kolok_zad14.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad14.cpp.obj: CXX_COMPILER__prv_kolok_zad14_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad14.cpp || cmake_object_order_depends_target_prv_kolok_zad14
+  DEP_FILE = CMakeFiles\prv_kolok_zad14.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad14.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad14.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad14.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad14.dir\
+  TARGET_PDB = prv_kolok_zad14.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad14
+
+
+#############################################
+# Link the executable prv_kolok_zad14.exe
+
+build prv_kolok_zad14.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad14_Debug CMakeFiles/prv_kolok_zad14.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad14.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad14.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad14.dir\
+  TARGET_FILE = prv_kolok_zad14.exe
+  TARGET_IMPLIB = libprv_kolok_zad14.dll.a
+  TARGET_PDB = prv_kolok_zad14.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad15
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad15
+
+build cmake_object_order_depends_target_prv_kolok_zad15: phony || .
+
+build CMakeFiles/prv_kolok_zad15.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad15.cpp.obj: CXX_COMPILER__prv_kolok_zad15_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad15.cpp || cmake_object_order_depends_target_prv_kolok_zad15
+  DEP_FILE = CMakeFiles\prv_kolok_zad15.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad15.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad15.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad15.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad15.dir\
+  TARGET_PDB = prv_kolok_zad15.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad15
+
+
+#############################################
+# Link the executable prv_kolok_zad15.exe
+
+build prv_kolok_zad15.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad15_Debug CMakeFiles/prv_kolok_zad15.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad15.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad15.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad15.dir\
+  TARGET_FILE = prv_kolok_zad15.exe
+  TARGET_IMPLIB = libprv_kolok_zad15.dll.a
+  TARGET_PDB = prv_kolok_zad15.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad16
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad16
+
+build cmake_object_order_depends_target_prv_kolok_zad16: phony || .
+
+build CMakeFiles/prv_kolok_zad16.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad16.cpp.obj: CXX_COMPILER__prv_kolok_zad16_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad16.cpp || cmake_object_order_depends_target_prv_kolok_zad16
+  DEP_FILE = CMakeFiles\prv_kolok_zad16.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad16.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad16.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad16.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad16.dir\
+  TARGET_PDB = prv_kolok_zad16.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad16
+
+
+#############################################
+# Link the executable prv_kolok_zad16.exe
+
+build prv_kolok_zad16.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad16_Debug CMakeFiles/prv_kolok_zad16.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad16.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad16.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad16.dir\
+  TARGET_FILE = prv_kolok_zad16.exe
+  TARGET_IMPLIB = libprv_kolok_zad16.dll.a
+  TARGET_PDB = prv_kolok_zad16.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad17
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad17
+
+build cmake_object_order_depends_target_prv_kolok_zad17: phony || .
+
+build CMakeFiles/prv_kolok_zad17.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad17.cpp.obj: CXX_COMPILER__prv_kolok_zad17_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad17.cpp || cmake_object_order_depends_target_prv_kolok_zad17
+  DEP_FILE = CMakeFiles\prv_kolok_zad17.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad17.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad17.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad17.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad17.dir\
+  TARGET_PDB = prv_kolok_zad17.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad17
+
+
+#############################################
+# Link the executable prv_kolok_zad17.exe
+
+build prv_kolok_zad17.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad17_Debug CMakeFiles/prv_kolok_zad17.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad17.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad17.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad17.dir\
+  TARGET_FILE = prv_kolok_zad17.exe
+  TARGET_IMPLIB = libprv_kolok_zad17.dll.a
+  TARGET_PDB = prv_kolok_zad17.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad18
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad18
+
+build cmake_object_order_depends_target_prv_kolok_zad18: phony || .
+
+build CMakeFiles/prv_kolok_zad18.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad18.cpp.obj: CXX_COMPILER__prv_kolok_zad18_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad18.cpp || cmake_object_order_depends_target_prv_kolok_zad18
+  DEP_FILE = CMakeFiles\prv_kolok_zad18.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad18.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad18.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad18.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad18.dir\
+  TARGET_PDB = prv_kolok_zad18.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad18
+
+
+#############################################
+# Link the executable prv_kolok_zad18.exe
+
+build prv_kolok_zad18.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad18_Debug CMakeFiles/prv_kolok_zad18.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad18.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad18.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad18.dir\
+  TARGET_FILE = prv_kolok_zad18.exe
+  TARGET_IMPLIB = libprv_kolok_zad18.dll.a
+  TARGET_PDB = prv_kolok_zad18.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad19
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad19
+
+build cmake_object_order_depends_target_prv_kolok_zad19: phony || .
+
+build CMakeFiles/prv_kolok_zad19.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad19.cpp.obj: CXX_COMPILER__prv_kolok_zad19_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad19.cpp || cmake_object_order_depends_target_prv_kolok_zad19
+  DEP_FILE = CMakeFiles\prv_kolok_zad19.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad19.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad19.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad19.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad19.dir\
+  TARGET_PDB = prv_kolok_zad19.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad19
+
+
+#############################################
+# Link the executable prv_kolok_zad19.exe
+
+build prv_kolok_zad19.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad19_Debug CMakeFiles/prv_kolok_zad19.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad19.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad19.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad19.dir\
+  TARGET_FILE = prv_kolok_zad19.exe
+  TARGET_IMPLIB = libprv_kolok_zad19.dll.a
+  TARGET_PDB = prv_kolok_zad19.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad20
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad20
+
+build cmake_object_order_depends_target_prv_kolok_zad20: phony || .
+
+build CMakeFiles/prv_kolok_zad20.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad20.cpp.obj: CXX_COMPILER__prv_kolok_zad20_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad20.cpp || cmake_object_order_depends_target_prv_kolok_zad20
+  DEP_FILE = CMakeFiles\prv_kolok_zad20.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad20.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad20.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad20.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad20.dir\
+  TARGET_PDB = prv_kolok_zad20.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad20
+
+
+#############################################
+# Link the executable prv_kolok_zad20.exe
+
+build prv_kolok_zad20.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad20_Debug CMakeFiles/prv_kolok_zad20.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad20.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad20.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad20.dir\
+  TARGET_FILE = prv_kolok_zad20.exe
+  TARGET_IMPLIB = libprv_kolok_zad20.dll.a
+  TARGET_PDB = prv_kolok_zad20.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad21
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad21
+
+build cmake_object_order_depends_target_prv_kolok_zad21: phony || .
+
+build CMakeFiles/prv_kolok_zad21.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad21.cpp.obj: CXX_COMPILER__prv_kolok_zad21_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad21.cpp || cmake_object_order_depends_target_prv_kolok_zad21
+  DEP_FILE = CMakeFiles\prv_kolok_zad21.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad21.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad21.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad21.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad21.dir\
+  TARGET_PDB = prv_kolok_zad21.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad21
+
+
+#############################################
+# Link the executable prv_kolok_zad21.exe
+
+build prv_kolok_zad21.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad21_Debug CMakeFiles/prv_kolok_zad21.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad21.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad21.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad21.dir\
+  TARGET_FILE = prv_kolok_zad21.exe
+  TARGET_IMPLIB = libprv_kolok_zad21.dll.a
+  TARGET_PDB = prv_kolok_zad21.pdb
+
+# =============================================================================
+# Object build statements for EXECUTABLE target prv_kolok_zad22
+
+
+#############################################
+# Order-only phony target for prv_kolok_zad22
+
+build cmake_object_order_depends_target_prv_kolok_zad22: phony || .
+
+build CMakeFiles/prv_kolok_zad22.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad22.cpp.obj: CXX_COMPILER__prv_kolok_zad22_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad22.cpp || cmake_object_order_depends_target_prv_kolok_zad22
+  DEP_FILE = CMakeFiles\prv_kolok_zad22.dir\aud_24-25\prv_kolok_zad_courses\prv_kolok_zad22.cpp.obj.d
+  FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad22.dir
+  OBJECT_FILE_DIR = CMakeFiles\prv_kolok_zad22.dir\aud_24-25\prv_kolok_zad_courses
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad22.dir\
+  TARGET_PDB = prv_kolok_zad22.pdb
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target prv_kolok_zad22
+
+
+#############################################
+# Link the executable prv_kolok_zad22.exe
+
+build prv_kolok_zad22.exe: CXX_EXECUTABLE_LINKER__prv_kolok_zad22_Debug CMakeFiles/prv_kolok_zad22.dir/aud_24-25/prv_kolok_zad_courses/prv_kolok_zad22.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\prv_kolok_zad22.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\prv_kolok_zad22.dir\
+  TARGET_FILE = prv_kolok_zad22.exe
+  TARGET_IMPLIB = libprv_kolok_zad22.dll.a
+  TARGET_PDB = prv_kolok_zad22.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad1_kvali_isp
@@ -1369,11 +2281,13 @@ build zad6_kvali.exe: CXX_EXECUTABLE_LINKER__zad6_kvali_Debug CMakeFiles/zad6_kv
 
 build cmake_object_order_depends_target_zad1_kvali_isp: phony || .
 
-build CMakeFiles/zad1_kvali_isp.dir/aud_24-25/kvali_ispiti/zad1_kvali_isp.cpp.obj: CXX_COMPILER__zad1_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad1_kvali_isp.cpp || cmake_object_order_depends_target_zad1_kvali_isp
-  DEP_FILE = CMakeFiles\zad1_kvali_isp.dir\aud_24-25\kvali_ispiti\zad1_kvali_isp.cpp.obj.d
+build CMakeFiles/zad1_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad1_kvali_isp.cpp.obj: CXX_COMPILER__zad1_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad1_kvali_isp.cpp || cmake_object_order_depends_target_zad1_kvali_isp
+  DEP_FILE = CMakeFiles\zad1_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad1_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad1_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad1_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad1_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad1_kvali_isp.dir\
+  TARGET_PDB = zad1_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1383,15 +2297,16 @@ build CMakeFiles/zad1_kvali_isp.dir/aud_24-25/kvali_ispiti/zad1_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad1_kvali_isp.exe
 
-build zad1_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad1_kvali_isp_Debug CMakeFiles/zad1_kvali_isp.dir/aud_24-25/kvali_ispiti/zad1_kvali_isp.cpp.obj
+build zad1_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad1_kvali_isp_Debug CMakeFiles/zad1_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad1_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad1_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad1_kvali_isp.dir\
   TARGET_FILE = zad1_kvali_isp.exe
   TARGET_IMPLIB = libzad1_kvali_isp.dll.a
-  TARGET_PDB = zad1_kvali_isp.exe.dbg
+  TARGET_PDB = zad1_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad2_kvali_isp
@@ -1402,11 +2317,13 @@ build zad1_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad1_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad2_kvali_isp: phony || .
 
-build CMakeFiles/zad2_kvali_isp.dir/aud_24-25/kvali_ispiti/zad2_kvali_isp.cpp.obj: CXX_COMPILER__zad2_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad2_kvali_isp.cpp || cmake_object_order_depends_target_zad2_kvali_isp
-  DEP_FILE = CMakeFiles\zad2_kvali_isp.dir\aud_24-25\kvali_ispiti\zad2_kvali_isp.cpp.obj.d
+build CMakeFiles/zad2_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad2_kvali_isp.cpp.obj: CXX_COMPILER__zad2_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad2_kvali_isp.cpp || cmake_object_order_depends_target_zad2_kvali_isp
+  DEP_FILE = CMakeFiles\zad2_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad2_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad2_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad2_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad2_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad2_kvali_isp.dir\
+  TARGET_PDB = zad2_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1416,15 +2333,16 @@ build CMakeFiles/zad2_kvali_isp.dir/aud_24-25/kvali_ispiti/zad2_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad2_kvali_isp.exe
 
-build zad2_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad2_kvali_isp_Debug CMakeFiles/zad2_kvali_isp.dir/aud_24-25/kvali_ispiti/zad2_kvali_isp.cpp.obj
+build zad2_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad2_kvali_isp_Debug CMakeFiles/zad2_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad2_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad2_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad2_kvali_isp.dir\
   TARGET_FILE = zad2_kvali_isp.exe
   TARGET_IMPLIB = libzad2_kvali_isp.dll.a
-  TARGET_PDB = zad2_kvali_isp.exe.dbg
+  TARGET_PDB = zad2_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad3_kvali_isp
@@ -1435,11 +2353,13 @@ build zad2_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad2_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad3_kvali_isp: phony || .
 
-build CMakeFiles/zad3_kvali_isp.dir/aud_24-25/kvali_ispiti/zad3_kvali_isp.cpp.obj: CXX_COMPILER__zad3_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad3_kvali_isp.cpp || cmake_object_order_depends_target_zad3_kvali_isp
-  DEP_FILE = CMakeFiles\zad3_kvali_isp.dir\aud_24-25\kvali_ispiti\zad3_kvali_isp.cpp.obj.d
+build CMakeFiles/zad3_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad3_kvali_isp.cpp.obj: CXX_COMPILER__zad3_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad3_kvali_isp.cpp || cmake_object_order_depends_target_zad3_kvali_isp
+  DEP_FILE = CMakeFiles\zad3_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad3_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad3_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad3_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad3_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad3_kvali_isp.dir\
+  TARGET_PDB = zad3_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1449,15 +2369,16 @@ build CMakeFiles/zad3_kvali_isp.dir/aud_24-25/kvali_ispiti/zad3_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad3_kvali_isp.exe
 
-build zad3_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad3_kvali_isp_Debug CMakeFiles/zad3_kvali_isp.dir/aud_24-25/kvali_ispiti/zad3_kvali_isp.cpp.obj
+build zad3_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad3_kvali_isp_Debug CMakeFiles/zad3_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad3_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad3_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad3_kvali_isp.dir\
   TARGET_FILE = zad3_kvali_isp.exe
   TARGET_IMPLIB = libzad3_kvali_isp.dll.a
-  TARGET_PDB = zad3_kvali_isp.exe.dbg
+  TARGET_PDB = zad3_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad4_kvali_isp
@@ -1468,11 +2389,13 @@ build zad3_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad3_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad4_kvali_isp: phony || .
 
-build CMakeFiles/zad4_kvali_isp.dir/aud_24-25/kvali_ispiti/zad4_kvali_isp.cpp.obj: CXX_COMPILER__zad4_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad4_kvali_isp.cpp || cmake_object_order_depends_target_zad4_kvali_isp
-  DEP_FILE = CMakeFiles\zad4_kvali_isp.dir\aud_24-25\kvali_ispiti\zad4_kvali_isp.cpp.obj.d
+build CMakeFiles/zad4_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad4_kvali_isp.cpp.obj: CXX_COMPILER__zad4_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad4_kvali_isp.cpp || cmake_object_order_depends_target_zad4_kvali_isp
+  DEP_FILE = CMakeFiles\zad4_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad4_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad4_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad4_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad4_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad4_kvali_isp.dir\
+  TARGET_PDB = zad4_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1482,15 +2405,16 @@ build CMakeFiles/zad4_kvali_isp.dir/aud_24-25/kvali_ispiti/zad4_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad4_kvali_isp.exe
 
-build zad4_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad4_kvali_isp_Debug CMakeFiles/zad4_kvali_isp.dir/aud_24-25/kvali_ispiti/zad4_kvali_isp.cpp.obj
+build zad4_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad4_kvali_isp_Debug CMakeFiles/zad4_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad4_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad4_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad4_kvali_isp.dir\
   TARGET_FILE = zad4_kvali_isp.exe
   TARGET_IMPLIB = libzad4_kvali_isp.dll.a
-  TARGET_PDB = zad4_kvali_isp.exe.dbg
+  TARGET_PDB = zad4_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad5_kvali_isp
@@ -1501,11 +2425,13 @@ build zad4_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad4_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad5_kvali_isp: phony || .
 
-build CMakeFiles/zad5_kvali_isp.dir/aud_24-25/kvali_ispiti/zad5_kvali_isp.cpp.obj: CXX_COMPILER__zad5_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad5_kvali_isp.cpp || cmake_object_order_depends_target_zad5_kvali_isp
-  DEP_FILE = CMakeFiles\zad5_kvali_isp.dir\aud_24-25\kvali_ispiti\zad5_kvali_isp.cpp.obj.d
+build CMakeFiles/zad5_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad5_kvali_isp.cpp.obj: CXX_COMPILER__zad5_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad5_kvali_isp.cpp || cmake_object_order_depends_target_zad5_kvali_isp
+  DEP_FILE = CMakeFiles\zad5_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad5_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad5_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad5_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad5_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad5_kvali_isp.dir\
+  TARGET_PDB = zad5_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1515,15 +2441,16 @@ build CMakeFiles/zad5_kvali_isp.dir/aud_24-25/kvali_ispiti/zad5_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad5_kvali_isp.exe
 
-build zad5_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad5_kvali_isp_Debug CMakeFiles/zad5_kvali_isp.dir/aud_24-25/kvali_ispiti/zad5_kvali_isp.cpp.obj
+build zad5_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad5_kvali_isp_Debug CMakeFiles/zad5_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad5_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad5_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad5_kvali_isp.dir\
   TARGET_FILE = zad5_kvali_isp.exe
   TARGET_IMPLIB = libzad5_kvali_isp.dll.a
-  TARGET_PDB = zad5_kvali_isp.exe.dbg
+  TARGET_PDB = zad5_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad6_kvali_isp
@@ -1534,11 +2461,13 @@ build zad5_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad5_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad6_kvali_isp: phony || .
 
-build CMakeFiles/zad6_kvali_isp.dir/aud_24-25/kvali_ispiti/zad6_kvali_isp.cpp.obj: CXX_COMPILER__zad6_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad6_kvali_isp.cpp || cmake_object_order_depends_target_zad6_kvali_isp
-  DEP_FILE = CMakeFiles\zad6_kvali_isp.dir\aud_24-25\kvali_ispiti\zad6_kvali_isp.cpp.obj.d
+build CMakeFiles/zad6_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad6_kvali_isp.cpp.obj: CXX_COMPILER__zad6_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad6_kvali_isp.cpp || cmake_object_order_depends_target_zad6_kvali_isp
+  DEP_FILE = CMakeFiles\zad6_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad6_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad6_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad6_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad6_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad6_kvali_isp.dir\
+  TARGET_PDB = zad6_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1548,15 +2477,16 @@ build CMakeFiles/zad6_kvali_isp.dir/aud_24-25/kvali_ispiti/zad6_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad6_kvali_isp.exe
 
-build zad6_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad6_kvali_isp_Debug CMakeFiles/zad6_kvali_isp.dir/aud_24-25/kvali_ispiti/zad6_kvali_isp.cpp.obj
+build zad6_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad6_kvali_isp_Debug CMakeFiles/zad6_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad6_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad6_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad6_kvali_isp.dir\
   TARGET_FILE = zad6_kvali_isp.exe
   TARGET_IMPLIB = libzad6_kvali_isp.dll.a
-  TARGET_PDB = zad6_kvali_isp.exe.dbg
+  TARGET_PDB = zad6_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad7_kvali_isp
@@ -1567,11 +2497,13 @@ build zad6_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad6_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad7_kvali_isp: phony || .
 
-build CMakeFiles/zad7_kvali_isp.dir/aud_24-25/kvali_ispiti/zad7_kvali_isp.cpp.obj: CXX_COMPILER__zad7_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad7_kvali_isp.cpp || cmake_object_order_depends_target_zad7_kvali_isp
-  DEP_FILE = CMakeFiles\zad7_kvali_isp.dir\aud_24-25\kvali_ispiti\zad7_kvali_isp.cpp.obj.d
+build CMakeFiles/zad7_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad7_kvali_isp.cpp.obj: CXX_COMPILER__zad7_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad7_kvali_isp.cpp || cmake_object_order_depends_target_zad7_kvali_isp
+  DEP_FILE = CMakeFiles\zad7_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad7_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad7_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad7_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad7_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad7_kvali_isp.dir\
+  TARGET_PDB = zad7_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1581,15 +2513,16 @@ build CMakeFiles/zad7_kvali_isp.dir/aud_24-25/kvali_ispiti/zad7_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad7_kvali_isp.exe
 
-build zad7_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad7_kvali_isp_Debug CMakeFiles/zad7_kvali_isp.dir/aud_24-25/kvali_ispiti/zad7_kvali_isp.cpp.obj
+build zad7_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad7_kvali_isp_Debug CMakeFiles/zad7_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad7_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad7_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad7_kvali_isp.dir\
   TARGET_FILE = zad7_kvali_isp.exe
   TARGET_IMPLIB = libzad7_kvali_isp.dll.a
-  TARGET_PDB = zad7_kvali_isp.exe.dbg
+  TARGET_PDB = zad7_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad8_kvali_isp
@@ -1600,11 +2533,13 @@ build zad7_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad7_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad8_kvali_isp: phony || .
 
-build CMakeFiles/zad8_kvali_isp.dir/aud_24-25/kvali_ispiti/zad8_kvali_isp.cpp.obj: CXX_COMPILER__zad8_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad8_kvali_isp.cpp || cmake_object_order_depends_target_zad8_kvali_isp
-  DEP_FILE = CMakeFiles\zad8_kvali_isp.dir\aud_24-25\kvali_ispiti\zad8_kvali_isp.cpp.obj.d
+build CMakeFiles/zad8_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad8_kvali_isp.cpp.obj: CXX_COMPILER__zad8_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad8_kvali_isp.cpp || cmake_object_order_depends_target_zad8_kvali_isp
+  DEP_FILE = CMakeFiles\zad8_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad8_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad8_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad8_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad8_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad8_kvali_isp.dir\
+  TARGET_PDB = zad8_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1614,15 +2549,16 @@ build CMakeFiles/zad8_kvali_isp.dir/aud_24-25/kvali_ispiti/zad8_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad8_kvali_isp.exe
 
-build zad8_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad8_kvali_isp_Debug CMakeFiles/zad8_kvali_isp.dir/aud_24-25/kvali_ispiti/zad8_kvali_isp.cpp.obj
+build zad8_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad8_kvali_isp_Debug CMakeFiles/zad8_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad8_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad8_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad8_kvali_isp.dir\
   TARGET_FILE = zad8_kvali_isp.exe
   TARGET_IMPLIB = libzad8_kvali_isp.dll.a
-  TARGET_PDB = zad8_kvali_isp.exe.dbg
+  TARGET_PDB = zad8_kvali_isp.pdb
 
 # =============================================================================
 # Object build statements for EXECUTABLE target zad9_kvali_isp
@@ -1633,11 +2569,13 @@ build zad8_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad8_kvali_isp_Debug CMakeFiles
 
 build cmake_object_order_depends_target_zad9_kvali_isp: phony || .
 
-build CMakeFiles/zad9_kvali_isp.dir/aud_24-25/kvali_ispiti/zad9_kvali_isp.cpp.obj: CXX_COMPILER__zad9_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/aud_24-25/kvali_ispiti/zad9_kvali_isp.cpp || cmake_object_order_depends_target_zad9_kvali_isp
-  DEP_FILE = CMakeFiles\zad9_kvali_isp.dir\aud_24-25\kvali_ispiti\zad9_kvali_isp.cpp.obj.d
+build CMakeFiles/zad9_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad9_kvali_isp.cpp.obj: CXX_COMPILER__zad9_kvali_isp_unscanned_Debug D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/aud_24-25/kvali_ispiti_courses/zad9_kvali_isp.cpp || cmake_object_order_depends_target_zad9_kvali_isp
+  DEP_FILE = CMakeFiles\zad9_kvali_isp.dir\aud_24-25\kvali_ispiti_courses\zad9_kvali_isp.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\zad9_kvali_isp.dir
-  OBJECT_FILE_DIR = CMakeFiles\zad9_kvali_isp.dir\aud_24-25\kvali_ispiti
+  OBJECT_FILE_DIR = CMakeFiles\zad9_kvali_isp.dir\aud_24-25\kvali_ispiti_courses
+  TARGET_COMPILE_PDB = CMakeFiles\zad9_kvali_isp.dir\
+  TARGET_PDB = zad9_kvali_isp.pdb
 
 
 # =============================================================================
@@ -1647,22 +2585,23 @@ build CMakeFiles/zad9_kvali_isp.dir/aud_24-25/kvali_ispiti/zad9_kvali_isp.cpp.ob
 #############################################
 # Link the executable zad9_kvali_isp.exe
 
-build zad9_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad9_kvali_isp_Debug CMakeFiles/zad9_kvali_isp.dir/aud_24-25/kvali_ispiti/zad9_kvali_isp.cpp.obj
+build zad9_kvali_isp.exe: CXX_EXECUTABLE_LINKER__zad9_kvali_isp_Debug CMakeFiles/zad9_kvali_isp.dir/aud_24-25/kvali_ispiti_courses/zad9_kvali_isp.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\zad9_kvali_isp.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
+  TARGET_COMPILE_PDB = CMakeFiles\zad9_kvali_isp.dir\
   TARGET_FILE = zad9_kvali_isp.exe
   TARGET_IMPLIB = libzad9_kvali_isp.dll.a
-  TARGET_PDB = zad9_kvali_isp.exe.dbg
+  TARGET_PDB = zad9_kvali_isp.pdb
 
 
 #############################################
 # Utility command for edit_cache
 
 build CMakeFiles/edit_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\cmake-build-debug" && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\documents\CLASSES\4TH SEMESTER\sem4-oop\Object Oriented Programming - C++\cmake-build-debug" && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" -E echo "No interactive CMake dialog available.""
   DESC = No interactive CMake dialog available...
   restat = 1
 
@@ -1673,7 +2612,7 @@ build edit_cache: phony CMakeFiles/edit_cache.util
 # Utility command for rebuild_cache
 
 build CMakeFiles/rebuild_cache.util: CUSTOM_COMMAND
-  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\cmake-build-debug" && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25" -B"D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\cmake-build-debug""
+  COMMAND = C:\WINDOWS\system32\cmd.exe /C "cd /D "D:\documents\CLASSES\4TH SEMESTER\sem4-oop\Object Oriented Programming - C++\cmake-build-debug" && "C:\Users\Donik Goxha\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe" --regenerate-during-build -S"D:\documents\CLASSES\4TH SEMESTER\sem4-oop\Object Oriented Programming - C++" -B"D:\documents\CLASSES\4TH SEMESTER\sem4-oop\Object Oriented Programming - C++\cmake-build-debug""
   DESC = Running CMake to regenerate build system...
   pool = console
   restat = 1
@@ -1751,6 +2690,50 @@ build labs1.3: phony labs1.3.exe
 
 build labs_vjet: phony labs_vjet.exe
 
+build prv_kolok_zad1: phony prv_kolok_zad1.exe
+
+build prv_kolok_zad10: phony prv_kolok_zad10.exe
+
+build prv_kolok_zad11: phony prv_kolok_zad11.exe
+
+build prv_kolok_zad12: phony prv_kolok_zad12.exe
+
+build prv_kolok_zad13: phony prv_kolok_zad13.exe
+
+build prv_kolok_zad14: phony prv_kolok_zad14.exe
+
+build prv_kolok_zad15: phony prv_kolok_zad15.exe
+
+build prv_kolok_zad16: phony prv_kolok_zad16.exe
+
+build prv_kolok_zad17: phony prv_kolok_zad17.exe
+
+build prv_kolok_zad18: phony prv_kolok_zad18.exe
+
+build prv_kolok_zad19: phony prv_kolok_zad19.exe
+
+build prv_kolok_zad2: phony prv_kolok_zad2.exe
+
+build prv_kolok_zad20: phony prv_kolok_zad20.exe
+
+build prv_kolok_zad21: phony prv_kolok_zad21.exe
+
+build prv_kolok_zad22: phony prv_kolok_zad22.exe
+
+build prv_kolok_zad3: phony prv_kolok_zad3.exe
+
+build prv_kolok_zad4: phony prv_kolok_zad4.exe
+
+build prv_kolok_zad5: phony prv_kolok_zad5.exe
+
+build prv_kolok_zad6: phony prv_kolok_zad6.exe
+
+build prv_kolok_zad7: phony prv_kolok_zad7.exe
+
+build prv_kolok_zad8: phony prv_kolok_zad8.exe
+
+build prv_kolok_zad9: phony prv_kolok_zad9.exe
+
 build zad1_kvali: phony zad1_kvali.exe
 
 build zad1_kvali_isp: phony zad1_kvali_isp.exe
@@ -1787,9 +2770,9 @@ build zad9_kvali_isp: phony zad9_kvali_isp.exe
 # =============================================================================
 
 #############################################
-# Folder: D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug
+# Folder: D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug
 
-build all: phony labs_vjet.exe labs1.1.exe labs1.2.exe labs1.3.exe aud1.1.exe aud1.2.exe aud1.3.exe aud2.1.exe aud2.2.exe aud2.3.exe aud3.1.exe aud3.2.exe aud3.3.exe aud4.1.exe aud4.2.exe aud4.3.exe aud5.1.exe aud5.2.exe aud5.3.exe aud6.1.exe aud6.2.exe aud6.3.exe aud7.1.exe aud7.2.exe aud7.3.exe aud8.1.exe aud8.2.exe aud8.3.exe aud9.1.exe aud9.2.exe aud9.3.exe aud10.1.exe aud10.2.exe aud10.3.exe zad1_kvali.exe zad2_kvali.exe zad3_kvali.exe zad4_kvali.exe zad5_kvali.exe zad6_kvali.exe zad1_kvali_isp.exe zad2_kvali_isp.exe zad3_kvali_isp.exe zad4_kvali_isp.exe zad5_kvali_isp.exe zad6_kvali_isp.exe zad7_kvali_isp.exe zad8_kvali_isp.exe zad9_kvali_isp.exe
+build all: phony labs_vjet.exe labs1.1.exe labs1.2.exe labs1.3.exe aud1.1.exe aud1.2.exe aud1.3.exe aud2.1.exe aud2.2.exe aud2.3.exe aud3.1.exe aud3.2.exe aud3.3.exe aud4.1.exe aud4.2.exe aud4.3.exe aud5.1.exe aud5.2.exe aud5.3.exe aud6.1.exe aud6.2.exe aud6.3.exe aud7.1.exe aud7.2.exe aud7.3.exe aud8.1.exe aud8.2.exe aud8.3.exe aud9.1.exe aud9.2.exe aud9.3.exe aud10.1.exe aud10.2.exe aud10.3.exe zad1_kvali.exe zad2_kvali.exe zad3_kvali.exe zad4_kvali.exe zad5_kvali.exe zad6_kvali.exe prv_kolok_zad1.exe prv_kolok_zad2.exe prv_kolok_zad3.exe prv_kolok_zad4.exe prv_kolok_zad5.exe prv_kolok_zad6.exe prv_kolok_zad7.exe prv_kolok_zad8.exe prv_kolok_zad9.exe prv_kolok_zad10.exe prv_kolok_zad11.exe prv_kolok_zad12.exe prv_kolok_zad13.exe prv_kolok_zad14.exe prv_kolok_zad15.exe prv_kolok_zad16.exe prv_kolok_zad17.exe prv_kolok_zad18.exe prv_kolok_zad19.exe prv_kolok_zad20.exe prv_kolok_zad21.exe prv_kolok_zad22.exe zad1_kvali_isp.exe zad2_kvali_isp.exe zad3_kvali_isp.exe zad4_kvali_isp.exe zad5_kvali_isp.exe zad6_kvali_isp.exe zad7_kvali_isp.exe zad8_kvali_isp.exe zad9_kvali_isp.exe
 
 # =============================================================================
 # Built-in targets
@@ -1798,14 +2781,14 @@ build all: phony labs_vjet.exe labs1.1.exe labs1.2.exe labs1.3.exe aud1.1.exe au
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/CMakeLists.txt
+build build.ninja: RERUN_CMAKE | C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/CMakeLists.txt
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/OOP-24-25/CMakeLists.txt: phony
+build C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCCompilerABI.c C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXCompilerABI.cpp C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCXXInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeCompilerIdDetection.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineCompilerSupport.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeDetermineSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeFindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeGenericSystem.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitIncludeInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseImplicitLinkInfo.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeParseLibraryArchitecture.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCCompiler.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeRCInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystem.cmake.in C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCXXCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestCompilerCommon.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/CMakeTestRCCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ADSP-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMCC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/ARMClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/AppleClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Borland-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Bruce-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Clang-DetermineCompilerInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Cray-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/CrayClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Embarcadero-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Fujitsu-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/FujitsuClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GHS-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU-FindBinUtils.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/HP-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IAR-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IBMClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Intel-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/IntelLLVM-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/LCC-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/MSVC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVHPC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/NVIDIA-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/OrangeC-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PGI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/PathScale-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SCO-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SDCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TI-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TIClang-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Tasking-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/Watcom-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XL-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-C-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/CMakeDetermineLinkerId.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Internal/FeatureTesting.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Determine-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-C.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX-ABI.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU-CXX.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-GNU.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows-windres.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/Windows.cmake C$:/Users/Donik$ Goxha/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake CMakeCache.txt CMakeFiles/3.30.5/CMakeCCompiler.cmake CMakeFiles/3.30.5/CMakeCXXCompiler.cmake CMakeFiles/3.30.5/CMakeRCCompiler.cmake CMakeFiles/3.30.5/CMakeSystem.cmake D$:/documents/CLASSES/4TH$ SEMESTER/sem4-oop/Object$ Oriented$ Programming$ -$ C++/CMakeLists.txt: phony
 
 
 #############################################

@@ -1,4 +1,4 @@
-# Install script for directory: D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25
+# Install script for directory: D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "D:/documents/CLASSES/4TH SEMESTER/sem4-oop/OOP-24-25/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()
