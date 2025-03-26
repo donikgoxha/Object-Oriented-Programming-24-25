@@ -2,6 +2,9 @@ D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cma
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/labs1.1.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/labs1.2.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/labs1.3.dir
+D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/labs2.1.dir
+D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/labs2.2.dir
+D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/labs2.3.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/aud1.1.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/aud1.2.dir
 D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++/cmake-build-debug/CMakeFiles/aud1.3.dir

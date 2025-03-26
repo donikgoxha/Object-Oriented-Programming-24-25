@@ -7,7 +7,6 @@
     <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
     <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
-    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexRemoved" />
     <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
   </component>
   <component name="CMakePresetLoader">{
@@ -48,6 +47,7 @@
       <config projectName="oop23_24" targetName="zad1_kvali_isp" />
       <config projectName="oop23_24" targetName="aud8.2" />
       <config projectName="oop23_24" targetName="aud8.3" />
+      <config projectName="oop23_24" targetName="labs2.1" />
       <config projectName="oop23_24" targetName="aud2.2" />
       <config projectName="oop23_24" targetName="aud2.3" />
       <config projectName="oop23_24" targetName="aud4.1" />
@@ -60,6 +60,8 @@
       <config projectName="oop23_24" targetName="labs_vjet" />
       <config projectName="oop23_24" targetName="zad3_kvali" />
       <config projectName="oop23_24" targetName="zad6_kvali_isp" />
+      <config projectName="oop23_24" targetName="labs2.2" />
+      <config projectName="oop23_24" targetName="labs2.3" />
       <config projectName="oop23_24" targetName="zad6_kvali" />
       <config projectName="oop23_24" targetName="aud5.3" />
       <config projectName="oop23_24" targetName="aud7.1" />
@@ -101,7 +103,85 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="244851fb-bc77-48e4-90f5-c43e07f36e4f" name="Changes" comment="add">
-      <change beforePath="$PROJECT_DIR$/aud_24-25/aud3/zad2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/aud_24-25/aud3/zad2.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-56bad6feb5b890fd958b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-c7a2b285e416dfdaee17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-03-21T01-21-52-0742.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud1.1-Debug-3ac036554757ebdc3a59.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud1.2-Debug-8b23e75c4d0e3d432623.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud1.3-Debug-f8ce172cce4bb59cebd0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud10.1-Debug-0e874042668356198409.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud10.2-Debug-c4a6ac2379aa1528fcde.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud10.3-Debug-d4cd39bf934bfafec49e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud2.1-Debug-eaefcfc2221e20d2469a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud2.2-Debug-8961568bda3969231977.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud2.3-Debug-226fe5673fff82ef0a82.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud3.1-Debug-860311bd631585bb73bc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud3.2-Debug-f40abe7523f5ae3f42c7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud3.3-Debug-e6ddad1ee62cec401328.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud4.1-Debug-08bb250f6a454796b26b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud4.2-Debug-d2ff68b10f8d8cfea9d4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud4.3-Debug-639401d78cdd95d0a9dc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud5.1-Debug-d8f5685ded4098f550e7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud5.2-Debug-4f14cc1ca9154b0153a4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud5.3-Debug-5ef84344f710b0c5e2d7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud6.1-Debug-56b9e548bd51ae7722d5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud6.2-Debug-9fde0a65c75e575a44f1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud6.3-Debug-9045cfa4246f6ae70fb0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud7.1-Debug-0394d9c5e79e1079e9b9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud7.2-Debug-8f45e8432f5df3b05e3f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud7.3-Debug-817ffb9a2f278cd0103a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud8.1-Debug-834ecc9d80382cfc72a2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud8.2-Debug-386314b19534a500fcef.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud8.3-Debug-ca9fa021210b7588143e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud9.1-Debug-d16bf8e4709dfcafff2a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud9.2-Debug-4366df9d3fd83ffccba7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-aud9.3-Debug-b546d3cddc45dc8fdb14.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad1-Debug-3fc1c0e687c29f9ba3ee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad10-Debug-83170647251e04235f10.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad11-Debug-be77e681d2487c775c1a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad12-Debug-b2bccc2d087e4d01e5d4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad13-Debug-cb7d83eddde90921270c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad14-Debug-b58c38a32b21c2bc66f3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad15-Debug-659dc7e7c5cd9d69f1d4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad16-Debug-d370a3d96eb3c03d0f45.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad17-Debug-6e31f00f3fde2e8381b3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad18-Debug-b06bcc4907c309b8ebfd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad19-Debug-51b9bb62d84283499596.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad2-Debug-02c1ac81d98b2953f53d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad20-Debug-5100a25699e784e2c4b0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad21-Debug-e6919871c1a4042726b7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad22-Debug-eb74fd8d7f5367e48b34.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad3-Debug-bf403314e54892164afd.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad4-Debug-3882eccef08c0f2126d7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad5-Debug-6c9e84502bd6690d7f19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad6-Debug-faa8de5ef961606360c1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad7-Debug-b92b0127a16432271aba.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad8-Debug-e74d40448bdcf6013ba7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-prv_kolok_zad9-Debug-9cbe45af8cc97d4cd6d7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad1_kvali-Debug-6b34307bce285e5dc6b6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad1_kvali_isp-Debug-c6b8253a1e879f3969be.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad2_kvali-Debug-9cf3fb605c5b5d43662b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad2_kvali_isp-Debug-557167ac651841a81e2e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad3_kvali-Debug-f263e96df7fa51190c13.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad3_kvali_isp-Debug-73f10707deecfd6ac669.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad4_kvali-Debug-0389dfadd392cfed946b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad4_kvali_isp-Debug-1114e3decda2f0a2d968.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad5_kvali-Debug-fac1dc9fa75b4384b329.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad5_kvali_isp-Debug-8e34e29e71e9328ecdda.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad6_kvali-Debug-9985d49d9a7f33d24a15.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad6_kvali_isp-Debug-069e20792fd5068f3bd7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad7_kvali_isp-Debug-a8ebeb024e4ad18cfaca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad8_kvali_isp-Debug-8da34db5b8efc27355c2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-zad9_kvali_isp-Debug-4ef688a51d089cb0f225.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,30 +224,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "CMake Application.aud3.1.executor": "Run",
-    "CMake Application.aud3.3.executor": "Run",
-    "CMake Debug.oop23_24.executor": "Debug",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "RunOnceActivity.west.config.association.type.startup.service": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "configurable.group.other",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;CMake Application.aud3.1.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Application.aud3.3.executor&quot;: &quot;Run&quot;,
+    &quot;CMake Debug.oop23_24.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/documents/CLASSES/4TH SEMESTER/sem4-oop/Object Oriented Programming - C++&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\documents\CLASSES\4TH SEMESTER\sem4-oop\OOP-24-25\aud_24-25\prv_kolok_zad_courses" />
@@ -176,11 +256,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.aud3.3">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="oop23_24" type="CMakeListConfigurationType" factoryName="CMakeListConfigurationFactory" temporary="true">
       <method v="2" />
     </configuration>
@@ -345,6 +420,21 @@
       </method>
     </configuration>
     <configuration name="labs1.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs1.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs1.3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs2.1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs2.1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs2.1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs2.2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs2.2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs2.2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="labs2.3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="oop23_24" TARGET_NAME="labs2.3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="oop23_24" RUN_TARGET_NAME="labs2.3">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -573,8 +663,10 @@
       <item itemvalue="CMake Application.labs1.1" />
       <item itemvalue="CMake Application.labs1.2" />
       <item itemvalue="CMake Application.labs1.3" />
+      <item itemvalue="CMake Application.labs2.1" />
+      <item itemvalue="CMake Application.labs2.2" />
+      <item itemvalue="CMake Application.labs2.3" />
       <item itemvalue="CMake Application.labs_vjet" />
-      <item itemvalue="CMake Application.prv_kolok_zad1" />
       <item itemvalue="CMake Application.prv_kolok_zad10" />
       <item itemvalue="CMake Application.prv_kolok_zad11" />
       <item itemvalue="CMake Application.prv_kolok_zad12" />
@@ -585,10 +677,11 @@
       <item itemvalue="CMake Application.prv_kolok_zad17" />
       <item itemvalue="CMake Application.prv_kolok_zad18" />
       <item itemvalue="CMake Application.prv_kolok_zad19" />
-      <item itemvalue="CMake Application.prv_kolok_zad2" />
+      <item itemvalue="CMake Application.prv_kolok_zad1" />
       <item itemvalue="CMake Application.prv_kolok_zad20" />
       <item itemvalue="CMake Application.prv_kolok_zad21" />
       <item itemvalue="CMake Application.prv_kolok_zad22" />
+      <item itemvalue="CMake Application.prv_kolok_zad2" />
       <item itemvalue="CMake Application.prv_kolok_zad3" />
       <item itemvalue="CMake Application.prv_kolok_zad4" />
       <item itemvalue="CMake Application.prv_kolok_zad5" />
@@ -634,6 +727,10 @@
       <workItem from="1741787862729" duration="3903000" />
       <workItem from="1741870876094" duration="11632000" />
       <workItem from="1742520085706" duration="237000" />
+      <workItem from="1742869605011" duration="976000" />
+      <workItem from="1742940919488" duration="59000" />
+      <workItem from="1743002932393" duration="57000" />
+      <workItem from="1743003009801" duration="4384000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <option name="closed" value="true" />

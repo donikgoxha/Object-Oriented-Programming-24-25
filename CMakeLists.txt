@@ -4,9 +4,13 @@ project(oop23_24)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(labs_vjet aud_24-25/labs_24-25/labs_vjet.cpp)
+
 add_executable(labs1.1 aud_24-25/labs_24-25/labs1.1.cpp)
 add_executable(labs1.2 aud_24-25/labs_24-25/labs1.2.cpp)
 add_executable(labs1.3 aud_24-25/labs_24-25/labs1.3.cpp)
+add_executable(labs2.1 aud_24-25/labs_24-25/labs2.1.cpp)
+add_executable(labs2.2 aud_24-25/labs_24-25/labs2.2.cpp)
+add_executable(labs2.3 aud_24-25/labs_24-25/labs2.3.cpp)
 
 add_executable(aud1.1 aud_24-25/aud1/zad1.cpp)
 add_executable(aud1.2 aud_24-25/aud1/zad2.cpp)
