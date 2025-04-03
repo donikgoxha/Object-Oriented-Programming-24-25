@@ -3,8 +3,8 @@ project(oop23_24)
 
 set(CMAKE_CXX_STANDARD 20)
 
+#labs
 add_executable(labs_vjet aud_24-25/labs_24-25/labs_vjet.cpp)
-
 add_executable(labs1.1 aud_24-25/labs_24-25/labs1.1.cpp)
 add_executable(labs1.2 aud_24-25/labs_24-25/labs1.2.cpp)
 add_executable(labs1.3 aud_24-25/labs_24-25/labs1.3.cpp)
@@ -12,6 +12,7 @@ add_executable(labs2.1 aud_24-25/labs_24-25/labs2.1.cpp)
 add_executable(labs2.2 aud_24-25/labs_24-25/labs2.2.cpp)
 add_executable(labs2.3 aud_24-25/labs_24-25/labs2.3.cpp)
 
+#aud
 add_executable(aud1.1 aud_24-25/aud1/zad1.cpp)
 add_executable(aud1.2 aud_24-25/aud1/zad2.cpp)
 add_executable(aud1.3 aud_24-25/aud1/zad3.cpp)
@@ -48,17 +49,24 @@ add_executable(aud9.1 aud_24-25/aud9/zad1.cpp)
 add_executable(aud9.2 aud_24-25/aud9/zad2.cpp)
 add_executable(aud9.3 aud_24-25/aud9/zad3.cpp)
 
-add_executable(aud10.1 aud_24-25/aud10/zad1.cpp)
-add_executable(aud10.2 aud_24-25/aud10/zad2.cpp)
-add_executable(aud10.3 aud_24-25/aud10/zad3.cpp)
+#aud per kolokviume
+add_executable(zad_kval_prv_stefan_aud aud_24-25/aud_prv_kolokvium/zad_kval_prv_stefan_aud.cpp)
+add_executable(zad1_prv_aud_stefan aud_24-25/aud_prv_kolokvium/zad1_prv_aud_stefan.cpp)
+add_executable(zad2_prv_aud_stefan aud_24-25/aud_prv_kolokvium/zad2_prv_aud_stefan.cpp)
 
-add_executable(zad1_kvali aud_24-25/kvali_prv_kolok_courses/zad1_kvali_kolok.cpp)
-add_executable(zad2_kvali aud_24-25/kvali_prv_kolok_courses/zad2_kvali_kolok.cpp)
-add_executable(zad3_kvali aud_24-25/kvali_prv_kolok_courses/zad3_kvali_kolok.cpp)
-add_executable(zad4_kvali aud_24-25/kvali_prv_kolok_courses/zad4_kvali_kolok.cpp)
-add_executable(zad5_kvali aud_24-25/kvali_prv_kolok_courses/zad5_kvali_kolok.cpp)
-add_executable(zad6_kvali aud_24-25/kvali_prv_kolok_courses/zad6_kvali_kolok.cpp)
+add_executable(zad1_vtor_kolokvium aud_24-25/aud_vtor_kolokvium/zad1_vtor_kolokvium.cpp)
+add_executable(zad2_vtor_kolokvium aud_24-25/aud_vtor_kolokvium/zad2_vtor_kolokvium.cpp)
+add_executable(zad3_vtor_kolokvium aud_24-25/aud_vtor_kolokvium/zad3_vtor_kolokvium.cpp)
 
+#kvalifikaciski za kolokvium resheni
+add_executable(zad1_kvali_firstmidterm aud_24-25/kvali_prv_kolok_courses/zad1_kvali_firstmidterm.cpp)
+add_executable(zad2_kvali_firstmidterm aud_24-25/kvali_prv_kolok_courses/zad2_kvali_firstmidterm.cpp)
+add_executable(zad3_kvali_firstmidterm aud_24-25/kvali_prv_kolok_courses/zad3_kvali_firstmidterm.cpp)
+add_executable(zad4_kvali_firstmidterm aud_24-25/kvali_prv_kolok_courses/zad4_kvali_firstmidterm.cpp)
+add_executable(zad5_kvali_firstmidterm aud_24-25/kvali_prv_kolok_courses/zad5_kvali_firstmidterm.cpp)
+add_executable(zad6_kvali_firstmidterm aud_24-25/kvali_prv_kolok_courses/zad6_kvali_firstmidterm.cpp)
+
+#kolokviumski resheni
 add_executable(prv_kolok_zad1 aud_24-25/prv_kolok_zad_courses/prv_kolok_zad1.cpp)
 add_executable(prv_kolok_zad2 aud_24-25/prv_kolok_zad_courses/prv_kolok_zad2.cpp)
 add_executable(prv_kolok_zad3 aud_24-25/prv_kolok_zad_courses/prv_kolok_zad3.cpp)
@@ -82,6 +90,7 @@ add_executable(prv_kolok_zad20 aud_24-25/prv_kolok_zad_courses/prv_kolok_zad20.c
 add_executable(prv_kolok_zad21 aud_24-25/prv_kolok_zad_courses/prv_kolok_zad21.cpp)
 add_executable(prv_kolok_zad22 aud_24-25/prv_kolok_zad_courses/prv_kolok_zad22.cpp)
 
+#kvalifikaciski za ispit resheni
 add_executable(zad1_kvali_isp aud_24-25/kvali_ispiti_courses/zad1_kvali_isp.cpp)
 add_executable(zad2_kvali_isp aud_24-25/kvali_ispiti_courses/zad2_kvali_isp.cpp)
 add_executable(zad3_kvali_isp aud_24-25/kvali_ispiti_courses/zad3_kvali_isp.cpp)
@@ -91,3 +100,5 @@ add_executable(zad6_kvali_isp aud_24-25/kvali_ispiti_courses/zad6_kvali_isp.cpp)
 add_executable(zad7_kvali_isp aud_24-25/kvali_ispiti_courses/zad7_kvali_isp.cpp)
 add_executable(zad8_kvali_isp aud_24-25/kvali_ispiti_courses/zad8_kvali_isp.cpp)
 add_executable(zad9_kvali_isp aud_24-25/kvali_ispiti_courses/zad9_kvali_isp.cpp)
+
+
