@@ -1,29 +1,30 @@
+/*
+Define a class Temperature that holds a float variable temp. Implement for the class:
+Necessary constructors
+changeTemp method, which if the temp's value is positive (including 0 number) will increment it by one;
+if negative it will be decrement by one getter for temp.
+Do not change the main function.
+*/
+
 #include <iostream>
 using namespace std;
 
 class Temperature {
 private:
-    float temp;
+    double temp;
 
 public:
-    Temperature() {
-        temp = 0;
-    }
-
-    Temperature(float tempp) {
-        temp = tempp;
-    }
-
-    float get() const {
-        return temp;
+    Temperature(double temp = 0.0) {
+        this->temp = temp;
     }
 
     void changeTemp() {
-        if (temp >= 0) {
-            temp++;
-        } else {
-            temp--;
-        }
+        if (temp >= 0) temp++;
+        else temp--;
+    }
+
+    double get() {
+        return temp;
     }
 };
 
