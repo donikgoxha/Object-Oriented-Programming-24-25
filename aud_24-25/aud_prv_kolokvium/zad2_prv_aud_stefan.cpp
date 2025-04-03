@@ -120,6 +120,7 @@ public:
         for (int i = 0; i < n; i++) {
             if (books[i].bookType == ACADEMIC) {
                 deleteElement(i);
+
             }
         }
     }
