@@ -57,9 +57,9 @@ add_executable(aud9.2 aud_24-25/aud9/zad2.cpp)
 add_executable(aud9.3 aud_24-25/aud9/zad3.cpp)
 
 #aud per kolokviume
-add_executable(zad_kval_prv_stefan_aud aud_24-25/aud_prv_kolokvium/zad_kval_prv_stefan_aud.cpp)
-add_executable(zad1_prv_aud_stefan aud_24-25/aud_prv_kolokvium/zad1_prv_aud_stefan_no_main.cpp)
-add_executable(zad2_prv_aud_stefan aud_24-25/aud_prv_kolokvium/zad2_prv_aud_stefan_with_main.cpp)
+add_executable(zad_kval_prv_kolokvium_aud aud_24-25/aud_prv_kolokvium/zad_kval_prv_kolokvium_aud.cpp)
+add_executable(zad1_prv_kolokvium_aud_no_main aud_24-25/aud_prv_kolokvium/zad1_prv_kolokvium_aud_no_main.cpp)
+add_executable(zad2_prv_kolokvium_aud_with_main aud_24-25/aud_prv_kolokvium/zad2_prv_kolokvium_aud_with_main.cpp)
 
 add_executable(zad1_vtor_kolokvium aud_24-25/aud_vtor_kolokvium/zad1_vtor_kolokvium.cpp)
 add_executable(zad2_vtor_kolokvium aud_24-25/aud_vtor_kolokvium/zad2_vtor_kolokvium.cpp)
