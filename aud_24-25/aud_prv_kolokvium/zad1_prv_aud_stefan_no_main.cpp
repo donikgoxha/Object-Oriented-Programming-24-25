@@ -1,3 +1,37 @@
+/*
+Define the class SMS, where information about the message date (an object of the Date class),
+message content (an array of 150 characters), and two phone numbers (textual arrays of 10 digits
+for the sender and the receiver) are stored.
+The Date class should contain three integers for day, month, and year. (5 points)
+Write a main function in which an integer N (max 500) is read, followed by information for
+N messages. Reading a single message is in the following format:
+-dd mm yyyy
+-sender_number
+-receiver_number
+-content. (10 points)
+Then, another date should be read, indicating the start of the time period from that date until today.
+Example input:
+18 03 2016
+070211123
+071300400
+I'll call you back
+.... messages
+18 12 2017
+070211123
+071300400
+hahah
+11 11 2015
+Print all messages shorter than 70 characters made after the entered date (excluding messages on
+that exact date). Use a separate function that takes as arguments: an array of objects of the SMS
+class, the size of the message array (an integer), and a date (an object of the Date class)
+indicating the start of the time period. If there are no messages meeting the specified conditions,
+print an appropriate message. (15 points)
+The printing format should be seen from the test examples.
+HINT: Include the library #include <iomanip> to print dates using the command
+cout << setfill('0') << setw(2) << day << "/" << setfill('0') << setw(2) << month << "/" << year
+ */
+
+
 #include <iostream>
 #include <cstring>
 #include <cctype>

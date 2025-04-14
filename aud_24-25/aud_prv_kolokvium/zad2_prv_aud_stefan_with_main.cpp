@@ -1,3 +1,38 @@
+/*
+Define the class Book, which represents a single book. The class holds the following attributes:
+-title – a textual array of up to 30 characters
+-id – serial number (integer)
+-type – enumerated type representing the book type: academic or roman
+-price – decimal number
+The serial number is unique for each book. The initial value is 777550. Ensure sequential
+generation of this number, so that the first book has serial number 777551, the second 777552,
+the third 777553, etc. (5 points)
+Provide the necessary constructors and set/get methods. (5 points)
+Implement a method print() which prints the information in the following format:
+[serial number] - [title] [type] [price] (5 points)
+Implement a method increasePrice(float) that takes a real number representing the margin,
+and adds it to the book's price. (5 points)
+
+Then define the class BookStore, which stores information about:
+-Name (textual array of up to 20 characters)
+-List of books (regular array of up to 100 Book objects)
+-Number of books (number of elements in the array, initially 0)
+Define the necessary constructors, destructor (if needed), and set/get methods. (5 points)
+Implement a method print() in the following format: [name] and then all books printed
+individually (see format from the Book::print method). (5 points)
+Implement a method addBook(const Book&) to add a new book to the store.
+Books are managed based on their title, and adding a book with an already existing title
+is not allowed. (10 points)
+Define a method greaterThan(const BookStore&) to compare two stores by the number of books. (5 points)
+Define a method void createMarketPrice() that generates selling prices for all books in the store.
+The selling prices depend on the book type:
+-For academic literature, 5% is added to the price
+-For romans, 3% is added (10 points)
+Define a global function best() that takes an array of BookStore objects and the number of stores,
+and returns the store with the most books. If multiple stores have the same number of books,
+the first one is returned. (5 points)
+ */
+
 #include <iostream>
 #include <cstring>
 #include <cctype>
@@ -123,7 +158,24 @@ public:
             }
         }
     }
+
+    int getNumberOfBooks() const {
+        return n;
+    }
 };
+
+BookStore best(BookStore stores[], int numStores) {
+    if (numStores <= 0) {
+        return BookStore("");
+    }
+    int bestIndex = 0;
+    for (int i = 1; i < numStores; i++) {
+        if (stores[i].getNumberOfBooks() > stores[bestIndex].getNumberOfBooks()) {
+            bestIndex = i;
+        }
+    }
+    return stores[bestIndex];
+}
 
 int Book::COUNTER = 1;
 
