@@ -19,6 +19,18 @@ add_executable(labs3.3 aud_24-25/labs_24-25/labs3.3.cpp)
 add_executable(labs3.4 aud_24-25/labs_24-25/labs3.4.cpp)
 add_executable(labs3.5 aud_24-25/labs_24-25/labs3.5.cpp)
 
+add_executable(labs4.1 aud_24-25/labs_24-25/labs4.1.cpp)
+add_executable(labs4.2 aud_24-25/labs_24-25/labs4.2.cpp)
+add_executable(labs4.3 aud_24-25/labs_24-25/labs4.3.cpp)
+add_executable(labs4.4 aud_24-25/labs_24-25/labs4.4.cpp)
+add_executable(labs4.5 aud_24-25/labs_24-25/labs4.5.cpp)
+
+add_executable(labs5.1 aud_24-25/labs_24-25/labs5.1.cpp)
+add_executable(labs5.2 aud_24-25/labs_24-25/labs5.2.cpp)
+add_executable(labs5.3 aud_24-25/labs_24-25/labs5.3.cpp)
+add_executable(labs5.4 aud_24-25/labs_24-25/labs5.4.cpp)
+
+
 #aud
 add_executable(aud1.1 aud_24-25/aud1/zad1.cpp)
 add_executable(aud1.2 aud_24-25/aud1/zad2.cpp)
@@ -126,4 +138,6 @@ add_executable(vtor_kolok_zad14 aud_24-25/ispitni/vtor_kolok_zad14.cpp)
 add_executable(vtor_kolok_zad15 aud_24-25/ispitni/vtor_kolok_zad15.cpp)
 add_executable(vtor_kolok_zad16 aud_24-25/ispitni/vtor_kolok_zad16.cpp)
 add_executable(vtor_kolok_zad17 aud_24-25/ispitni/vtor_kolok_zad17.cpp)
+
+
 
